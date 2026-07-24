@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-24T09:46:55.045Z",
+  "updated": "2026-07-24T09:49:39.499Z",
   "items": [
+    {
+      "id": "2026-07-24-6eap16",
+      "date": "2026-07-24",
+      "category": "krediti",
+      "reliability": "medijsko",
+      "title": "Stambeni krediti u Hrvatskoj: Nova pravila i prilike",
+      "summary": "Na tržištu stambenog kreditiranja u Hrvatskoj došlo je do jačanja konkurencije među bankama, što donosi nove prilike za građane. Ova promjena može utjecati na uvjete kreditiranja i kamatne stope, čime se otvaraju mogućnosti za povoljnije financiranje stambenih projekata.",
+      "fbQuestion": "Kako mislite da će nova pravila utjecati na sve nas koji razmišljamo o stambenom kreditu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/financije/stambeni-krediti-u-hrvatskoj-nova-pravila-novi-izazovi-i-nove-prilike-4548522"
+      }
+    },
     {
       "id": "2026-07-23-swfehm",
       "date": "2026-07-23",
