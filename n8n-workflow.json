@@ -1,0 +1,182 @@
+{
+  "name": "KatastarX Novosti - dnevni news pipeline",
+  "nodes": [
+    {
+      "id": "trigger-1",
+      "name": "Svaki dan u 06:00",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.3,
+      "position": [-1080, 0],
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 6 * * *"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "code-sources",
+      "name": "Izvori (RSS feedovi)",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [-860, 0],
+      "parameters": {
+        "jsCode": "// Ovdje dodaješ ili mičeš izvore. Svaki red je jedan RSS feed.\nconst feedovi = [\n  { feedUrl: 'https://www.index.hr/rss/vijesti' },\n  { feedUrl: 'https://www.poslovni.hr/feed' },\n  { feedUrl: 'https://www.tportal.hr/rss' }\n];\nreturn feedovi.map(f => ({ json: f }));"
+      }
+    },
+    {
+      "id": "rss-1",
+      "name": "Dohvati RSS",
+      "type": "n8n-nodes-base.rssFeedRead",
+      "typeVersion": 1.2,
+      "position": [-640, 0],
+      "parameters": {
+        "url": "={{ $json.feedUrl }}",
+        "options": {}
+      },
+      "onError": "continueRegularOutput"
+    },
+    {
+      "id": "code-filter",
+      "name": "Filter: nekretnine, zadnja 24h",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [-420, 0],
+      "parameters": {
+        "jsCode": "// Ključne riječi za nekretninske teme\nconst kljucne = ['nekretnin', 'stanov', 'kvadrat', 'porez na nekretnine', 'stambeni kredit', 'kamatn', 'najam', 'najamnin', 'novogradnj', 'apn', 'subvencij', 'hnb', 'zemljišt', 'katastar', 'hipotek', 'gruntovnic', 'stanogradnj'];\n\n// Pouzdanost po domeni izvora\nconst domene = {\n  'hnb.hr': { name: 'HNB', rel: 'sluzbeno' },\n  'gov.hr': { name: 'Vlada / ministarstva', rel: 'sluzbeno' },\n  'mpgi.gov.hr': { name: 'MPGI', rel: 'sluzbeno' },\n  'porezna-uprava.hr': { name: 'Porezna uprava', rel: 'sluzbeno' },\n  'nn.hr': { name: 'Narodne novine', rel: 'sluzbeno' },\n  'dzs.hr': { name: 'DZS', rel: 'sluzbeno' },\n  'poslovni.hr': { name: 'Poslovni dnevnik', rel: 'strucno' },\n  'gradonacelnik.hr': { name: 'Gradonačelnik.hr', rel: 'strucno' },\n  'index.hr': { name: 'Index.hr', rel: 'medijsko' },\n  'tportal.hr': { name: 'tportal', rel: 'medijsko' }\n};\n\nconst prije24h = Date.now() - 24 * 60 * 60 * 1000;\nconst videno = new Set();\nconst clanci = [];\n\nfor (const item of $input.all()) {\n  const j = item.json;\n  const naslov = (j.title || '').toString();\n  const opis = (j.contentSnippet || j.content || '').toString();\n  const link = (j.link || '').toString();\n  const datum = new Date(j.isoDate || j.pubDate || Date.now());\n\n  if (!link || videno.has(link)) continue;\n  if (datum.getTime() < prije24h) continue;\n\n  const tekst = (naslov + ' ' + opis).toLowerCase();\n  if (!kljucne.some(k => tekst.includes(k))) continue;\n\n  let host = '';\n  try { host = new URL(link).hostname.replace('www.', ''); } catch (e) { continue; }\n  const izvor = domene[host] || { name: host, rel: 'medijsko' };\n\n  videno.add(link);\n  clanci.push({\n    title: naslov,\n    link: link,\n    snippet: opis.slice(0, 600),\n    date: datum.toISOString().slice(0, 10),\n    sourceName: izvor.name,\n    reliability: izvor.rel\n  });\n}\n\n// Sve u jedan item da GitHub node ne ide u petlju\nreturn [{ json: { articles: clanci } }];"
+      }
+    },
+    {
+      "id": "gh-get",
+      "name": "Dohvati postojeci news.json",
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1.1,
+      "position": [-200, 0],
+      "parameters": {
+        "resource": "file",
+        "operation": "get",
+        "owner": {
+          "__rl": true,
+          "mode": "name",
+          "value": "Faruk-Salkic"
+        },
+        "repository": {
+          "__rl": true,
+          "mode": "name",
+          "value": "katastarx-novosti"
+        },
+        "filePath": "news.json",
+        "asBinaryProperty": false,
+        "additionalParameters": {}
+      },
+      "onError": "continueRegularOutput"
+    },
+    {
+      "id": "code-new",
+      "name": "Samo novi clanci",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [20, 0],
+      "parameters": {
+        "jsCode": "// Postojeći news.json (base64 iz GitHub nodea)\nlet postojeci = { updated: '', items: [] };\ntry {\n  const raw = $json.content ? Buffer.from($json.content, 'base64').toString('utf-8') : null;\n  if (raw) postojeci = JSON.parse(raw);\n} catch (e) { /* prvi run ili prazan file */ }\n\nconst postojeceUrl = new Set((postojeci.items || []).map(i => i.source && i.source.url));\nconst clanci = $('Filter: nekretnine, zadnja 24h').first().json.articles || [];\n\n// Max 8 novih dnevno da AI trošak ostane nizak\nconst novi = clanci.filter(c => !postojeceUrl.has(c.link)).slice(0, 8);\n\nif (novi.length === 0) {\n  return [];\n}\nreturn novi.map(n => ({ json: { ...n, existingSha: $json.sha || null } }));"
+      }
+    },
+    {
+      "id": "ai-1",
+      "name": "AI: sazmi + FB pitanje",
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 2.1,
+      "position": [240, 0],
+      "parameters": {
+        "resource": "text",
+        "operation": "message",
+        "modelId": {
+          "__rl": true,
+          "mode": "list",
+          "value": "gpt-4o-mini",
+          "cachedResultName": "gpt-4o-mini"
+        },
+        "messages": {
+          "values": [
+            {
+              "content": "=Ti si urednik vijesti za hrvatsku nekretninsku platformu KatastarX. Na temelju naslova i opisa članka napravi JSON sa sljedećim poljima:\n- \"title\": jasan naslov na hrvatskom, max 90 znakova\n- \"summary\": sažetak 2-3 rečenice na hrvatskom, samo provjerene činjenice iz teksta, bez senzacionalizma\n- \"category\": jedna od vrijednosti: cijene, porezi, krediti, zakoni, trziste\n- \"fbQuestion\": jedno engagement pitanje za Facebook u stilu KatastarX: kratko, izaziva raspravu, bez agresivnih riječi, na hrvatskom\n\nPravila: nikad ne koristi crticu em dash. Hrvatski brojevni format. Ako članak nije o nekretninama, porezima, kreditima ili stanovanju, vrati {\"skip\": true}.\n\nNaslov: {{ $json.title }}\nOpis: {{ $json.snippet }}\nIzvor: {{ $json.sourceName }}"
+            }
+          ]
+        },
+        "jsonOutput": true,
+        "options": {}
+      },
+      "credentials": {}
+    },
+    {
+      "id": "code-build",
+      "name": "Sastavi novi news.json",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [460, 0],
+      "parameters": {
+        "jsCode": "// Spoji AI rezultate s metapodacima i postojećim vijestima\nlet postojeci = { items: [] };\ntry {\n  const ghNode = $('Dohvati postojeci news.json').first().json;\n  if (ghNode && ghNode.content) {\n    postojeci = JSON.parse(Buffer.from(ghNode.content, 'base64').toString('utf-8'));\n  }\n} catch (e) { /* prvi run */ }\n\nconst noviItems = [];\nconst aiRezultati = $input.all();\nconst ulazni = $('Samo novi clanci').all();\n\nfor (let i = 0; i < aiRezultati.length; i++) {\n  let ai = aiRezultati[i].json;\n  // OpenAI node zna vratiti rezultat pod message.content\n  if (ai.message && ai.message.content) ai = ai.message.content;\n  if (typeof ai === 'string') { try { ai = JSON.parse(ai); } catch (e) { continue; } }\n  if (ai.skip) continue;\n  if (!ai.title || !ai.summary || !ai.fbQuestion) continue;\n\n  const meta = ulazni[i] ? ulazni[i].json : {};\n  noviItems.push({\n    id: (meta.date || new Date().toISOString().slice(0, 10)) + '-' + Math.random().toString(36).slice(2, 8),\n    date: meta.date || new Date().toISOString().slice(0, 10),\n    category: ['cijene', 'porezi', 'krediti', 'zakoni', 'trziste'].includes(ai.category) ? ai.category : 'trziste',\n    reliability: meta.reliability || 'medijsko',\n    title: ai.title,\n    summary: ai.summary,\n    fbQuestion: ai.fbQuestion,\n    source: { name: meta.sourceName || 'Nepoznat izvor', url: meta.link || '' }\n  });\n}\n\n// Novo na vrh, ukupno max 40 vijesti na stranici\nconst sviItems = [...noviItems, ...(postojeci.items || [])].slice(0, 40);\n\nconst finalni = {\n  updated: new Date().toISOString(),\n  items: sviItems\n};\n\nreturn [{ json: { fileContent: JSON.stringify(finalni, null, 2), brojNovih: noviItems.length } }];"
+      }
+    },
+    {
+      "id": "gh-edit",
+      "name": "Commit news.json na GitHub",
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1.1,
+      "position": [680, 0],
+      "parameters": {
+        "resource": "file",
+        "operation": "edit",
+        "owner": {
+          "__rl": true,
+          "mode": "name",
+          "value": "Faruk-Salkic"
+        },
+        "repository": {
+          "__rl": true,
+          "mode": "name",
+          "value": "katastarx-novosti"
+        },
+        "filePath": "news.json",
+        "fileContent": "={{ $json.fileContent }}",
+        "commitMessage": "=Dnevno azuriranje vijesti: {{ $json.brojNovih }} novih ({{ $now.format('yyyy-MM-dd') }})"
+      },
+      "onError": "stopWorkflow"
+    }
+  ],
+  "connections": {
+    "Svaki dan u 06:00": {
+      "main": [[{ "node": "Izvori (RSS feedovi)", "type": "main", "index": 0 }]]
+    },
+    "Izvori (RSS feedovi)": {
+      "main": [[{ "node": "Dohvati RSS", "type": "main", "index": 0 }]]
+    },
+    "Dohvati RSS": {
+      "main": [[{ "node": "Filter: nekretnine, zadnja 24h", "type": "main", "index": 0 }]]
+    },
+    "Filter: nekretnine, zadnja 24h": {
+      "main": [[{ "node": "Dohvati postojeci news.json", "type": "main", "index": 0 }]]
+    },
+    "Dohvati postojeci news.json": {
+      "main": [[{ "node": "Samo novi clanci", "type": "main", "index": 0 }]]
+    },
+    "Samo novi clanci": {
+      "main": [[{ "node": "AI: sazmi + FB pitanje", "type": "main", "index": 0 }]]
+    },
+    "AI: sazmi + FB pitanje": {
+      "main": [[{ "node": "Sastavi novi news.json", "type": "main", "index": 0 }]]
+    },
+    "Sastavi novi news.json": {
+      "main": [[{ "node": "Commit news.json na GitHub", "type": "main", "index": 0 }]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "timezone": "Europe/Zagreb"
+  },
+  "pinData": {}
+}

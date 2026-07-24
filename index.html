@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KatastarX - novosti nekretnine</title>
+<meta name="description" content="Dnevni pregled provjerenih vijesti o hrvatskom tržištu nekretnina: cijene, porezi, krediti, zakoni.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext x='50' y='76' font-family='Arial Black,sans-serif' font-size='86' font-style='italic' font-weight='900' fill='%232b7cd9' text-anchor='middle'%3EX%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-0: #0a1428;
+    --bg-1: #0e1d3d;
+    --brand: #3b82f6;
+    --brand-soft: #7fb0ff;
+    --ink: #eef3fb;
+    --ink-muted: #a9bad6;
+    --ink-faint: #7488ab;
+    --glass: rgba(255, 255, 255, 0.055);
+    --glass-hover: rgba(255, 255, 255, 0.085);
+    --glass-border: rgba(255, 255, 255, 0.12);
+    --radius: 16px;
+    --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: "Hanken Grotesk", system-ui, sans-serif;
+    background: var(--bg-0);
+    background-image:
+      radial-gradient(1100px 600px at 85% -10%, rgba(59, 130, 246, 0.22), transparent 60%),
+      radial-gradient(900px 700px at -10% 40%, rgba(37, 99, 235, 0.14), transparent 55%),
+      linear-gradient(180deg, var(--bg-1), var(--bg-0) 70%);
+    background-attachment: fixed;
+    color: var(--ink);
+    min-height: 100vh;
+    line-height: 1.55;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 24px 80px; }
+
+  header {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 16px; padding: 26px 0 8px; flex-wrap: wrap;
+  }
+  .logo { display: flex; align-items: baseline; gap: 2px; font-weight: 800; font-size: 1.35rem; letter-spacing: -0.01em; }
+  .logo .x {
+    color: #2b7cd9;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 1.6rem;
+    display: inline-block;
+    transform: skewX(-6deg);
+    margin-left: 1px;
+  }
+  .logo .sub { font-size: 0.8rem; font-weight: 500; color: var(--ink-faint); margin-left: 10px; letter-spacing: 0.02em; }
+  .updated { font-size: 0.82rem; color: var(--ink-muted); }
+  .updated .dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: #4ade80; margin-right: 7px; vertical-align: 1px; }
+
+  .hero { padding: 34px 0 26px; max-width: 640px; }
+  .hero h1 {
+    font-size: clamp(1.7rem, 3.6vw, 2.5rem);
+    font-weight: 800; letter-spacing: -0.025em; line-height: 1.12;
+    text-wrap: balance;
+  }
+  .hero p { margin-top: 10px; color: var(--ink-muted); font-size: 1.02rem; max-width: 54ch; }
+
+  .filters { display: flex; gap: 8px; flex-wrap: wrap; padding: 6px 0 26px; }
+  .chip {
+    font: inherit; font-size: 0.86rem; font-weight: 600;
+    color: var(--ink-muted);
+    background: var(--glass);
+    border: 1px solid var(--glass-border);
+    border-radius: 999px; padding: 7px 15px; cursor: pointer;
+    transition: background 0.18s var(--ease-out), color 0.18s var(--ease-out), transform 0.18s var(--ease-out);
+  }
+  .chip:hover { background: var(--glass-hover); color: var(--ink); }
+  .chip:active { transform: scale(0.96); }
+  .chip:focus-visible { outline: 2px solid var(--brand-soft); outline-offset: 2px; }
+  .chip[aria-pressed="true"] { background: var(--brand); border-color: transparent; color: #fff; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+    gap: 18px;
+  }
+  .card {
+    display: flex; flex-direction: column; gap: 12px;
+    background: var(--glass);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius);
+    padding: 22px 22px 18px;
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    transition: background 0.22s var(--ease-out), transform 0.22s var(--ease-out);
+    animation: rise 0.5s var(--ease-out) both;
+  }
+  .card:hover { background: var(--glass-hover); transform: translateY(-2px); }
+  @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+
+  .card-top { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .badge {
+    font-size: 0.72rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase;
+    padding: 4px 10px; border-radius: 999px;
+  }
+  .badge.cat { background: rgba(59, 130, 246, 0.18); color: var(--brand-soft); }
+  .badge.rel-sluzbeno { background: rgba(74, 222, 128, 0.14); color: #86efac; }
+  .badge.rel-strucno { background: rgba(250, 204, 21, 0.13); color: #fde68a; }
+  .badge.rel-medijsko { background: rgba(255, 255, 255, 0.09); color: var(--ink-muted); }
+  .card time { margin-left: auto; font-size: 0.78rem; color: var(--ink-faint); }
+
+  .card h2 { font-size: 1.14rem; font-weight: 700; letter-spacing: -0.01em; line-height: 1.28; text-wrap: balance; }
+  .card .summary { font-size: 0.93rem; color: var(--ink-muted); }
+
+  .fb {
+    background: rgba(59, 130, 246, 0.1);
+    border: 1px solid rgba(59, 130, 246, 0.22);
+    border-radius: 12px; padding: 13px 14px;
+    display: flex; flex-direction: column; gap: 8px;
+  }
+  .fb-label { font-size: 0.7rem; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; color: var(--brand-soft); }
+  .fb p { font-size: 0.92rem; font-weight: 500; color: var(--ink); }
+  .fb button {
+    align-self: flex-start; font: inherit; font-size: 0.8rem; font-weight: 600;
+    color: var(--brand-soft); background: none; border: none; cursor: pointer; padding: 2px 0;
+    transition: color 0.15s var(--ease-out);
+  }
+  .fb button:hover { color: #fff; }
+  .fb button:focus-visible { outline: 2px solid var(--brand-soft); outline-offset: 2px; border-radius: 4px; }
+
+  .card-foot { margin-top: auto; padding-top: 4px; }
+  .card-foot a {
+    font-size: 0.85rem; font-weight: 600; color: var(--ink-muted); text-decoration: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+    transition: color 0.15s var(--ease-out), border-color 0.15s var(--ease-out);
+  }
+  .card-foot a:hover { color: var(--brand-soft); border-color: var(--brand-soft); }
+  .card-foot a:focus-visible { outline: 2px solid var(--brand-soft); outline-offset: 3px; }
+
+  .state { padding: 60px 20px; text-align: center; color: var(--ink-muted); font-size: 0.98rem; }
+
+  .legend { display: flex; gap: 18px; flex-wrap: wrap; padding: 26px 2px 0; font-size: 0.78rem; color: var(--ink-faint); }
+  .legend span::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; }
+  .legend .l-sl::before { background: #4ade80; }
+  .legend .l-st::before { background: #facc15; }
+  .legend .l-me::before { background: #94a3b8; }
+
+  footer { padding-top: 44px; font-size: 0.8rem; color: var(--ink-faint); }
+
+  /* Password gate */
+  .gate {
+    position: fixed; inset: 0; z-index: 100;
+    display: flex; align-items: center; justify-content: center;
+    background: var(--bg-0);
+    background-image:
+      radial-gradient(1100px 600px at 85% -10%, rgba(59, 130, 246, 0.22), transparent 60%),
+      linear-gradient(180deg, var(--bg-1), var(--bg-0) 70%);
+    padding: 24px;
+  }
+  .gate[hidden] { display: none; }
+  .gate-box {
+    width: 100%; max-width: 380px;
+    background: var(--glass);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    padding: 34px 30px;
+    display: flex; flex-direction: column; gap: 16px;
+    text-align: center;
+  }
+  .gate-box .logo { justify-content: center; }
+  .gate-box p { font-size: 0.92rem; color: var(--ink-muted); }
+  .gate-box label { font-size: 0.8rem; font-weight: 600; color: var(--ink-muted); text-align: left; }
+  .gate-box input {
+    font: inherit; width: 100%;
+    background: rgba(255, 255, 255, 0.07);
+    border: 1px solid var(--glass-border);
+    border-radius: 10px;
+    color: var(--ink);
+    padding: 11px 14px;
+    margin-top: 6px;
+  }
+  .gate-box input:focus-visible { outline: 2px solid var(--brand-soft); outline-offset: 1px; }
+  .gate-box button {
+    font: inherit; font-weight: 700; font-size: 0.95rem;
+    background: var(--brand); color: #fff;
+    border: none; border-radius: 10px;
+    padding: 12px 16px; cursor: pointer;
+    transition: filter 0.15s var(--ease-out), transform 0.15s var(--ease-out);
+  }
+  .gate-box button:hover { filter: brightness(1.1); }
+  .gate-box button:active { transform: scale(0.97); }
+  .gate-box button:focus-visible { outline: 2px solid var(--brand-soft); outline-offset: 2px; }
+  .gate-error { font-size: 0.83rem; color: #fca5a5; min-height: 1.2em; margin: 0; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .card { animation: none; }
+    .card:hover { transform: none; }
+    html { scroll-behavior: auto; }
+  }
+</style>
+</head>
+<body>
+<div class="gate" id="gate" hidden>
+  <form class="gate-box" id="gateForm">
+    <div class="logo">Katastar<span class="x">X</span></div>
+    <p>Novosti nekretnine. Pristup je ograničen, unesite lozinku.</p>
+    <label for="gatePass">Lozinka
+      <input type="password" id="gatePass" autocomplete="current-password" required>
+    </label>
+    <p class="gate-error" id="gateError"></p>
+    <button type="submit">Otvori pregled</button>
+  </form>
+</div>
+
+<div class="wrap">
+  <header>
+    <div class="logo">Katastar<span class="x">X</span><span class="sub">Novosti nekretnine</span></div>
+    <div class="updated"><span class="dot"></span>Ažurirano: <span id="updatedAt">…</span></div>
+  </header>
+
+  <section class="hero">
+    <h1>Sve bitno s tržišta nekretnina, na jednom mjestu.</h1>
+    <p>Automatski dnevni pregled provjerenih vijesti: cijene, porezi, krediti i zakoni. Svaka vijest ima sažetak i link na originalni izvor.</p>
+  </section>
+
+  <nav class="filters" id="filters" aria-label="Filtriraj po kategoriji"></nav>
+
+  <main class="grid" id="grid" aria-live="polite">
+    <div class="state">Učitavanje vijesti…</div>
+  </main>
+
+  <div class="legend">
+    <span class="l-sl">Službeni izvor</span>
+    <span class="l-st">Stručni izvor</span>
+    <span class="l-me">Medijski izvor, provjereno i sažeto</span>
+  </div>
+
+  <footer>KatastarX · Podaci se osvježavaju automatski svaka 24 sata. Sažeci su informativni, mjerodavan je originalni izvor.</footer>
+</div>
+
+<script>
+(function () {
+  // Jednostavna zaštita lozinkom (klijentska)
+  const gate = document.getElementById("gate");
+  const wrap = document.querySelector(".wrap");
+  const KEY = "kx_pristup";
+
+  function otkljucaj() {
+    gate.hidden = true;
+    wrap.style.display = "";
+  }
+
+  if (localStorage.getItem(KEY) === "1") {
+    otkljucaj();
+  } else {
+    wrap.style.display = "none";
+    gate.hidden = false;
+    document.getElementById("gateForm").addEventListener("submit", (e) => {
+      e.preventDefault();
+      const unos = document.getElementById("gatePass").value.trim().toLowerCase();
+      if (unos === atob("ZGF2b3I=")) {
+        localStorage.setItem(KEY, "1");
+        otkljucaj();
+      } else {
+        document.getElementById("gateError").textContent = "Pogrešna lozinka, pokušajte ponovno.";
+        document.getElementById("gatePass").value = "";
+        document.getElementById("gatePass").focus();
+      }
+    });
+    setTimeout(() => document.getElementById("gatePass").focus(), 50);
+  }
+
+  const CATS = { sve: "Sve", cijene: "Cijene", porezi: "Porezi", krediti: "Krediti", zakoni: "Zakoni", trziste: "Tržište" };
+  const REL = { sluzbeno: "Službeno", strucno: "Stručno", medijsko: "Medijsko" };
+  let items = [];
+  let active = "sve";
+
+  const grid = document.getElementById("grid");
+  const filters = document.getElementById("filters");
+
+  function fmtDate(iso) {
+    const d = new Date(iso + "T00:00:00");
+    return d.toLocaleDateString("hr-HR", { day: "numeric", month: "short", year: "numeric" });
+  }
+
+  function esc(s) {
+    const div = document.createElement("div");
+    div.textContent = s;
+    return div.innerHTML;
+  }
+
+  function renderFilters() {
+    filters.innerHTML = "";
+    Object.entries(CATS).forEach(([key, label]) => {
+      const b = document.createElement("button");
+      b.className = "chip";
+      b.textContent = label;
+      b.setAttribute("aria-pressed", key === active ? "true" : "false");
+      b.addEventListener("click", () => { active = key; renderFilters(); renderCards(); });
+      filters.appendChild(b);
+    });
+  }
+
+  function renderCards() {
+    const list = items.filter(i => active === "sve" || i.category === active);
+    if (!list.length) {
+      grid.innerHTML = '<div class="state">Nema vijesti u ovoj kategoriji u zadnjem pregledu.</div>';
+      return;
+    }
+    grid.innerHTML = list.map((i, idx) => `
+      <article class="card" style="animation-delay:${Math.min(idx * 45, 400)}ms">
+        <div class="card-top">
+          <span class="badge cat">${esc(CATS[i.category] || i.category)}</span>
+          <span class="badge rel-${esc(i.reliability)}">${esc(REL[i.reliability] || i.reliability)}</span>
+          <time datetime="${esc(i.date)}">${fmtDate(i.date)}</time>
+        </div>
+        <h2>${esc(i.title)}</h2>
+        <p class="summary">${esc(i.summary)}</p>
+        <div class="fb">
+          <span class="fb-label">Pitanje za Facebook</span>
+          <p>${esc(i.fbQuestion)}</p>
+          <button type="button" data-copy="${esc(i.fbQuestion)}">Kopiraj pitanje</button>
+        </div>
+        <div class="card-foot">
+          <a href="${esc(i.source.url)}" target="_blank" rel="noopener">Originalni izvor: ${esc(i.source.name)}</a>
+        </div>
+      </article>
+    `).join("");
+
+    grid.querySelectorAll("button[data-copy]").forEach(btn => {
+      btn.addEventListener("click", async () => {
+        try {
+          await navigator.clipboard.writeText(btn.dataset.copy);
+          const t = btn.textContent;
+          btn.textContent = "Kopirano ✓";
+          setTimeout(() => { btn.textContent = t; }, 1600);
+        } catch (e) { /* clipboard blocked */ }
+      });
+    });
+  }
+
+  fetch("news.json", { cache: "no-store" })
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(data => {
+      items = (data.items || []).slice().sort((a, b) => b.date.localeCompare(a.date));
+      const u = new Date(data.updated);
+      document.getElementById("updatedAt").textContent =
+        u.toLocaleDateString("hr-HR", { day: "numeric", month: "long", year: "numeric" }) +
+        " u " + u.toLocaleTimeString("hr-HR", { hour: "2-digit", minute: "2-digit" });
+      renderFilters();
+      renderCards();
+    })
+    .catch(() => {
+      grid.innerHTML = '<div class="state">Vijesti trenutno nisu dostupne. Pokušajte osvježiti stranicu.</div>';
+    });
+})();
+</script>
+</body>
+</html>
