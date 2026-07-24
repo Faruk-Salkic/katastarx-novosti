@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-24T09:49:39.499Z",
+  "updated": "2026-07-24T10:36:27.707Z",
   "items": [
+    {
+      "id": "2026-07-24-bem6hf",
+      "date": "2026-07-24",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu RH u Zadarskoj županiji",
+      "summary": "Objavljen je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Zadarskoj županiji. Ponude se primaju do 26. kolovoza 2026. godine do 10 sati.",
+      "fbQuestion": "Koje nekretnine biste voljeli vidjeti u ponudi u Zadarskoj županiji?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-zadarska-zupanija-20169/20169"
+      }
+    },
     {
       "id": "2026-07-24-6eap16",
       "date": "2026-07-24",
