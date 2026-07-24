@@ -1,6 +1,32 @@
 {
-  "updated": "2026-07-24T09:34:18.893Z",
+  "updated": "2026-07-24T09:39:31.832Z",
   "items": [
+    {
+      "id": "2026-07-23-swfehm",
+      "date": "2026-07-23",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Država planira nove objekte na mjestu srušenog Vjesnika",
+      "summary": "Ministar Bačić najavio je završetak radova na rušenju Vjesnika, te planove za izgradnju novih javnih objekata. Također je spomenuo da će do kraja godine biti dostupno 500 nekretnina za priuštivi najam građanima.",
+      "fbQuestion": "Koje javne objekte biste željeli vidjeti na mjestu srušenog Vjesnika?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/bacic-gotovi-radovi-na-rusenju-vjesnika-drzava-zeli-preuzeti-cijeli-kompleks/2816966.aspx"
+      }
+    },
+    {
+      "id": "2026-07-23-oo8xuk",
+      "date": "2026-07-23",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Država planira preuzeti kompleks Vjesnika i graditi 1300 stanova",
+      "summary": "Bačić je najavio širenje programa priuštivog najma i gradnju 1300 novih stanova. Također, planira se završna faza obnove kuća na Banovini.",
+      "fbQuestion": "Kako bi vam preuzimanje kompleksa Vjesnika utjecalo na tržište nekretnina u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/bacic-drzava-zeli-preuzeti-cijeli-kompleks-vjesnika/2816937.aspx"
+      }
+    },
     {
       "id": "2026-07-24-hnb-precijenjenost",
       "date": "2026-07-22",
