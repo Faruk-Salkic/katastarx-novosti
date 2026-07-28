@@ -1,6 +1,58 @@
 {
-  "updated": "2026-07-25T04:00:12.036Z",
+  "updated": "2026-07-28T04:00:18.184Z",
   "items": [
+    {
+      "id": "2026-07-27-9ysmk1",
+      "date": "2026-07-27",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Direktor prevario kupce nekretnina za 800.000 eura kod Osijeka",
+      "summary": "Direktor iz Višnjevca osumnjičen je za prijevaru 19 kupaca nekretnina, čime je počinio štetu od preko 800.000 eura. Uz to, tereti se i za utaju poreza veću od 90.000 eura.",
+      "fbQuestion": "Kako zaštititi kupce od prevara u svijetu nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/direktor-kod-osijeka-prevario-kupce-nekretnina-za-800000-eura/2818001.aspx"
+      }
+    },
+    {
+      "id": "2026-07-27-1icbyn",
+      "date": "2026-07-27",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Država prodaje 20 nekretnina, uključujući stan u Zagrebu",
+      "summary": "Država planira prodati 20 nekretnina, među kojima se ističe stan od 32 kvadrata u Zagrebu po cijeni od 71.000 eura. Rok za podnošenje ponuda je 28. kolovoza.",
+      "fbQuestion": "Sviđa li vam se cijena stana u Zagrebu ili biste očekivali nižu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/drzava-prodaje-20-nekretnina-stan-od-32-kvadrata-u-zagrebu-za-71000-eura/2817948.aspx"
+      }
+    },
+    {
+      "id": "2026-07-27-k2moua",
+      "date": "2026-07-27",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Objavljen natječaj za prodaju 20 državnih nekretnina u Hrvatskoj",
+      "summary": "U Hrvatskoj je objavljen treći javni natječaj za prodaju državnih nekretnina. Na raspolaganju je 20 nekretnina smještenih u nekoliko gradova, a ponude se zaprimaju do 28. kolovoza 2026. godine.",
+      "fbQuestion": "Planirate li sudjelovati na natječaju za kupnju državnih nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/nova-prilika-za-kupnju-drzavnih-nekretnina-objavljen-natjecaj-za-20-nekretnina/20180"
+      }
+    },
+    {
+      "id": "2026-07-27-rp168p",
+      "date": "2026-07-27",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu RH u Istarskoj županiji",
+      "summary": "Rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Istarskoj županiji je do 27. kolovoza 2026. godine do 11:00 sati. Ova ponuda uključuje različite nekretnine koje su dostupne za zakup ili kupnju.",
+      "fbQuestion": "Planirate li sudjelovati u natječaju za kupnju nekretnina u Istri?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-istarska-zupanija/20178"
+      }
+    },
     {
       "id": "2026-07-24-eekxix",
       "date": "2026-07-24",
