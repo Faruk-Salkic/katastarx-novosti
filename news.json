@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-28T04:00:18.184Z",
+  "updated": "2026-07-29T04:00:07.480Z",
   "items": [
+    {
+      "id": "2026-07-28-mwmip4",
+      "date": "2026-07-28",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Krivotvorenje oporuke zbog nekretnine u Opatiji",
+      "summary": "Zaposlenica doma za starije osobe u Opatiji krivotvorila je oporuku preminule štićenice kako bi dobila njezin stan. Zbog ovog kaznenog djela protiv nje je podignuta prijava.",
+      "fbQuestion": "Što mislite o kaznenoj odgovornosti za krivotvorenje oporuka?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/zaposlenica-doma-za-starije-krivotvorila-oporuku-umrle-sticenice-zbog-stana-u-opatiji/2818401.aspx"
+      }
+    },
     {
       "id": "2026-07-27-9ysmk1",
       "date": "2026-07-27",
