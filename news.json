@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-29T04:00:07.480Z",
+  "updated": "2026-07-30T04:00:10.529Z",
   "items": [
+    {
+      "id": "2026-07-29-guvx1g",
+      "date": "2026-07-29",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Međimurskoj županiji",
+      "summary": "Do 16. rujna 2026. godine do 10:00 sati otvoren je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Međimurskoj županiji. Ovaj proces omogućuje svim zainteresiranim strankama kupnju javne imovine.",
+      "fbQuestion": "Planirate li sudjelovati u kupnji državnih nekretnina? Zašto da, ili zašto ne?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-medjimurska-zupanija-20184/20184"
+      }
+    },
     {
       "id": "2026-07-28-mwmip4",
       "date": "2026-07-28",
