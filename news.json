@@ -1,6 +1,71 @@
 {
-  "updated": "2026-07-30T04:00:10.529Z",
+  "updated": "2026-07-31T04:00:40.585Z",
   "items": [
+    {
+      "id": "2026-07-30-7wr2j9",
+      "date": "2026-07-30",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Državne nekretnine nude 40 prostora u 14 gradova po povoljnim cijenama",
+      "summary": "Državne nekretnine u najam nude 40 prostora u 14 hrvatskih gradova. Cijene najma kreću se od 8 eura za garažu u Sisku do 1.500 eura za poslovni prostor u centru Zagreba.",
+      "fbQuestion": "Koji tip nekretnine biste radije iznajmili, garažu ili uredski prostor?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/drzavne-nekretnine-nude-40-prostora-garaza-u-sisku-za-8-eura-ured-na-ilici-za-1100/2819122.aspx"
+      }
+    },
+    {
+      "id": "2026-07-30-fz6oxl",
+      "date": "2026-07-30",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Stabilizacija nekretninskog tržišta ovisi o ponudi i potražnji",
+      "summary": "Hrvatsko tržište nekretnina suočava se s problemom nedostatka kvalitetnih nekretnina, a ne s nedostatkom kupaca. Stabilizacija će se postići kada ponuda počne odgovarati potražnji.",
+      "fbQuestion": "Kako mislite da bi se mogla poboljšati ponuda nekretnina u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/nekretnine/stabilizacija-nekretninskog-trzista-dogodit-ce-se-tek-kada-ponuda-pocne-pratiti-potraznju-4549556"
+      }
+    },
+    {
+      "id": "2026-07-30-x1iih2",
+      "date": "2026-07-30",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Vlada usvojila Godišnji plan upravljanja nekretninama za 2026. godinu",
+      "summary": "Vlada Republike Hrvatske usvojila je Godišnji plan upravljanja nekretninama i pokretninama za 2026. godinu. Ovaj plan je ključan za provedbu Strategije upravljanja nekretninama za razdoblje od 2026. do 2035. godine.",
+      "fbQuestion": "Kako mislite da će usvojeni plan utjecati na tržište nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/vlada-usvojila-godisnji-plan-upravljanja-nekretninama-i-pokretninama-u-vlasnistvu-republike-hrvatske-za-2026-godinu/20190"
+      }
+    },
+    {
+      "id": "2026-07-30-yegls4",
+      "date": "2026-07-30",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Državne nekretnine nude u zakup 40 poslovnih prostora u 14 gradova",
+      "summary": "Državne nekretnine su objavile javni natječaj za zakup 40 poslovnih prostora u 14 gradova diljem Hrvatske. Rok za podnošenje ponuda je 18. rujna 2026. do 12 sati.",
+      "fbQuestion": "Koji bi poslovni prostor bio idealan za vašu tvrtku?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/drzavne-nekretnine-nude-u-zakup-40-poslovnih-prostora-u-14-gradova/20188"
+      }
+    },
+    {
+      "id": "2026-07-30-wx4ab9",
+      "date": "2026-07-30",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske - Karlovačka županija",
+      "summary": "Do 1. rujna 2026. godine u 12:00 sati otvoren je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Karlovačkoj županiji. Ova prilika može biti zanimljiva potencijalnim investitorima i kupcima nekretnina.",
+      "fbQuestion": "Planirate li sudjelovati u kupnji nekretnina u Karlovačkoj županiji?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-karlovacke-zupanija/20193"
+      }
+    },
     {
       "id": "2026-07-29-guvx1g",
       "date": "2026-07-29",
