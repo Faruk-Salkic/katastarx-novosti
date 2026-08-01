@@ -1,6 +1,32 @@
 {
-  "updated": "2026-07-31T04:00:40.585Z",
+  "updated": "2026-08-01T04:00:24.060Z",
   "items": [
+    {
+      "id": "2026-07-31-hhzolu",
+      "date": "2026-07-31",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "Povrat poreza za kupnju prve nekretnine u Hrvatskoj",
+      "summary": "Nekim hrvatskim građanima odobreni su zahtjevi za povrat poreza kod kupnje prve nekretnine. Prosječna potpora po obitelji iznosi 7.678 eura, a povrat poreza na promet nekretnina procjenjuje se na 3.446 eura.",
+      "fbQuestion": "Kako bi vam povrat poreza pomogao u kupnji nekretnine?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/hrvatska/nekim-hrvatskim-gradanima-odobreni-zahtjevi-za-povrat-poreza-kod-kupnje-prve-nekretnine-4549710"
+      }
+    },
+    {
+      "id": "2026-07-30-n5f0hf",
+      "date": "2026-07-30",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske - Karlovačka županija",
+      "summary": "Aktualni rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Karlovačkoj županiji ističe 1. rujna 2026. godine u 12:00 sati. Ovaj postupak omogućava građanima stjecanje državne imovine.",
+      "fbQuestion": "Planirate li sudjelovati u kupnji nekretnina iz državnog vlasništva?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-karlovacka-zupanija-20193/20193"
+      }
+    },
     {
       "id": "2026-07-30-7wr2j9",
       "date": "2026-07-30",
