@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-01T04:00:24.060Z",
+  "updated": "2026-08-04T04:00:11.147Z",
   "items": [
+    {
+      "id": "2026-08-03-pheslp",
+      "date": "2026-08-03",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Zagrebačkoj županiji",
+      "summary": "Zaključeno je da je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske do 9. rujna 2026. do 12:00 sati. Ovaj potez otvara mogućnost stjecanja državne imovine za potencijalne kupce.",
+      "fbQuestion": "Jeste li razmišljali o kupnji državne nekretnine? Što mislite o ovoj praksi?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-zagrebacka-zupanija/20201"
+      }
+    },
+    {
+      "id": "2026-08-03-h6ckp4",
+      "date": "2026-08-03",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Javno savjetovanje o pravilniku za potporu stjecanja prve nekretnine",
+      "summary": "Nacrt Pravilnika o potporama za stjecanje prve stambene nekretnine dostupan je za javno savjetovanje od 3. kolovoza do 2. rujna 2026. godine. Ovaj pravilnik ima za cilj olakšati mladima pristup stambenom tržištu.",
+      "fbQuestion": "Kako mislite da će ovaj pravilnik utjecati na tržište nekretnina za mlade? ",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/savjetovanje-s-javnoscu-8116/otvorena-savjetovanja/nacrt-pravilnika-o-potporama-za-stjecanje-prve-stambene-nekretnine-na-javnom-savjetovanju-od-3-kolovoza-do-2-rujna-2026-godine/20210"
+      }
+    },
     {
       "id": "2026-07-31-hhzolu",
       "date": "2026-07-31",
