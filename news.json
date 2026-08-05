@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-04T04:00:11.147Z",
+  "updated": "2026-08-05T04:00:08.899Z",
   "items": [
+    {
+      "id": "2026-08-04-j1uhw5",
+      "date": "2026-08-04",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Sisačko-moslavačkoj županiji",
+      "summary": "U Sisačko-moslavačkoj županiji otvoren je proces kupnje nekretnina u vlasništvu države. Krajnji rok za podnošenje ponuda je 7. rujna 2026. do 10:00 sati.",
+      "fbQuestion": "Planirate li sudjelovati u kupnji nekretnina od države?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-sisacko-moslavacka-zupanija-20211/20211"
+      }
+    },
     {
       "id": "2026-08-03-pheslp",
       "date": "2026-08-03",
