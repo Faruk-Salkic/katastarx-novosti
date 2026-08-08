@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-06T04:00:07.507Z",
+  "updated": "2026-08-08T04:00:09.676Z",
   "items": [
+    {
+      "id": "2026-08-07-5qvpq2",
+      "date": "2026-08-07",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "APN zaprimio gotovo 7.000 zahtjeva za potporu mladima pri kupnji nekretnina",
+      "summary": "Agencija za pravni promet i posredovanje nekretninama zaprimila je 6.994 zahtjeva za povrat poreza na kupnju ili gradnju prve stambene nekretnine do 7. kolovoza 2026. godine. Do sada je odobrena isplata veća od 34,8 milijuna eura, a mjera je namijenjena mladim građanima i obiteljima.",
+      "fbQuestion": "Kako mislite da će ova potpora utjecati na tržište nekretnina za mlade?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-6-994-zahtjeva-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20217"
+      }
+    },
     {
       "id": "2026-08-04-j1uhw5",
       "date": "2026-08-04",
