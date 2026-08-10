@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-09T04:00:06.845Z",
+  "updated": "2026-08-10T04:00:32.783Z",
   "items": [
+    {
+      "id": "2026-08-09-60x9ee",
+      "date": "2026-08-09",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Propadanje povijesne vile u Rijeci zbog urušavanja balkona",
+      "summary": "Urušavanje balkona povijesne vile u Rijeci ozlijedilo je maloljetnike i ukazalo na dugotrajno propadanje zdanja. Vila je u vlasništvu agenta za nekretnine iz Dubaija, što dodatno komplicira situaciju.",
+      "fbQuestion": "Što mislite, koliko je važno očuvati povijesne zgrade poput ove vile?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/vila-u-rijeci-na-kojoj-se-urusio-balkon-propada-vec-godinama-vlasnik-je-iz-dubaija/2822000.aspx"
+      }
+    },
     {
       "id": "2026-08-07-5qvpq2",
       "date": "2026-08-07",
