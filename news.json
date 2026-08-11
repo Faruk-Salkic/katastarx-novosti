@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-10T04:00:32.783Z",
+  "updated": "2026-08-11T04:00:08.308Z",
   "items": [
+    {
+      "id": "2026-08-10-0lm090",
+      "date": "2026-08-10",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "APN odobrio 4600 zahtjeva za povrat poreza na prvu nekretninu",
+      "summary": "APN je odobrio 4600 zahtjeva za povrat poreza pri kupnji prve nekretnine. Mladim kupcima isplaćeno je više od 34,8 milijuna eura potpora.",
+      "fbQuestion": "Koliko mislite da će ova potpora utjecati na mlade kupce nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/apn-odobrio-4600-zahtjeva-za-povrat-poreza-isplaceno-gotovo-35-milijuna-eura/2822195.aspx"
+      }
+    },
     {
       "id": "2026-08-09-60x9ee",
       "date": "2026-08-09",
