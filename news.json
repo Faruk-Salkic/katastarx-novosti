@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-13T04:00:12.820Z",
+  "updated": "2026-08-18T04:00:14.572Z",
   "items": [
+    {
+      "id": "2026-08-17-0m0ndg",
+      "date": "2026-08-17",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Cijene nekretnina u Kensingtonu i Chelsea su pale za 110.000 eura",
+      "summary": "Cijene nekretnina u Velikoj Britaniji bilježe opadanje, s najvećim padom u Londonu. U četvrtima Kensington i Chelsea cijene su smanjene za gotovo 100.000 funti u posljednjem mjesecu, što privlači investitore.",
+      "fbQuestion": "Kako mislite, hoće li se pad cijena nastaviti i u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/trazene-cijene-nekretnina-u-najbogatijoj-britanskoj-cetvrti-pale-za-110000-eura/2824349.aspx"
+      }
+    },
     {
       "id": "2026-08-12-kmb6aw",
       "date": "2026-08-12",
