@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-18T04:00:14.572Z",
+  "updated": "2026-08-19T04:00:11.093Z",
   "items": [
+    {
+      "id": "2026-08-18-6jdimk",
+      "date": "2026-08-18",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Mercator pokreće novu prodaju nekretnina, planira 36 milijuna eura",
+      "summary": "Mercator je najavio novu rundu prodaje nekretnina, s ciljem prikupljanja 36 milijuna eura. Ove godine planiraju prodaju 25 nekretnina u ožujku, te dodatnih 50 u srpnju.",
+      "fbQuestion": "Što mislite, kakav će utjecaj imati ova prodaja nekretnina na tržište?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/regija/mercator-ide-u-novu-rundu-prodaje-nekretnina-cilja-na-36-milijuna-eura-4551439"
+      }
+    },
     {
       "id": "2026-08-17-0m0ndg",
       "date": "2026-08-17",
