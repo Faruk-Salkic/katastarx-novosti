@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-19T04:00:11.093Z",
+  "updated": "2026-08-20T04:00:09.230Z",
   "items": [
+    {
+      "id": "2026-08-19-684ov4",
+      "date": "2026-08-19",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "HBOR prodao silos Šincekovima za 223.293 eura bez kreditiranja",
+      "summary": "Hrvatska banka za obnovu i razvoj potvrdila je prodaju silosa i pripadajućih nekretnina u Gospiću za 223.293 eura obiteljskoj tvrtki Šincekovih. Odbacili su tvrdnje o odobravanju kredita za kupnju. ",
+      "fbQuestion": "Što mislite o prodaji nekretnina bez kreditiranja? Ima li to utjecaja na tržište?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/hbor-sincekovima-smo-prodali-silos-u-gospicu-ali-nismo-sudjelovali-u-kreditiranju/2825360.aspx"
+      }
+    },
     {
       "id": "2026-08-18-6jdimk",
       "date": "2026-08-18",
