@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-20T04:00:09.230Z",
+  "updated": "2026-08-21T04:00:09.224Z",
   "items": [
+    {
+      "id": "2026-08-20-7jga0x",
+      "date": "2026-08-20",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Gradu Pazinu",
+      "summary": "Grad Pazin objavio je informacije o kupnji nekretnina u vlasništvu Republike Hrvatske. Rok za podnošenje ponuda je 22. rujna 2026. do 10:00 sati.",
+      "fbQuestion": "Planirate li sudjelovati u kupnji nekretnina u Pazinu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-grad-pazin/20233"
+      }
+    },
     {
       "id": "2026-08-19-684ov4",
       "date": "2026-08-19",
