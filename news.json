@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-22T04:00:08.081Z",
+  "updated": "2026-08-25T04:00:13.323Z",
   "items": [
+    {
+      "id": "2026-08-24-zohrqt",
+      "date": "2026-08-24",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Cijene nekretnina na crnogorskoj obali premašuju 3500 eura po kvadratu",
+      "summary": "Potražnja za nekretninama na crnogorskoj obali značajno je porasla. Agenti javljaju da se stanovi često prodaju prije završetka gradnje zbog visoke potražnje.",
+      "fbQuestion": "Kako mislite da će se cijene nekretnina na obali dalje razvijati?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/regija/kvadrat-na-crnogorskoj-obali-gotovo-nemoguce-pronaci-ispod-3500-eura-4552038"
+      }
+    },
+    {
+      "id": "2026-08-24-usmpy2",
+      "date": "2026-08-24",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Državne nekretnine nude 40 poslovnih prostora u 14 gradova",
+      "summary": "Državne nekretnine pokreću javni natječaj za zakup 40 poslovnih prostora diljem Hrvatske. Natječaj Z-7/26 otvoren je do 18. rujna 2026. godine u podne.",
+      "fbQuestion": "Koji bi bili najbolji gradovi za otvaranje novog poslovnog prostora?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/drzavne-nekretnine-nude-u-zakup-40-poslovnih-prostora-u-14-gradova-20238/20238"
+      }
+    },
     {
       "id": "2026-08-20-7jga0x",
       "date": "2026-08-20",
