@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-26T04:00:08.002Z",
+  "updated": "2026-08-27T04:00:10.545Z",
   "items": [
+    {
+      "id": "2026-08-26-1tw0mn",
+      "date": "2026-08-26",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "U Zagrebu prodano skoro svih 74 luksuzna stana, cijena do 8400 €/m²",
+      "summary": "Cijene luksuznih stanova u Zagrebu nastavljaju rasti, uz cijene do 8400 eura po četvornom metru. Unatoč visokom interesu, ponuda pristupačnijih stanova je slaba, dok kupci imaju manju kreditnu sposobnost.",
+      "fbQuestion": "Što mislite o rastu cijena nekretnina u Zagrebu? Je li to održivo?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/u-zagrebu-grade-zgradu-sa-74-luksuzna-stana-skoro-svi-prodani-cijena-do-8400-m/2828088.aspx"
+      }
+    },
     {
       "id": "2026-08-24-zohrqt",
       "date": "2026-08-24",
@@ -506,19 +519,6 @@
       "source": {
         "name": "HNB",
         "url": "https://www.hnb.hr/documents/20182/2626448/p-041.pdf/a46c4569-30fc-4bb9-80e5-4f5953762d25"
-      }
-    },
-    {
-      "id": "2026-07-24-mpgi-cijene",
-      "date": "2026-07-01",
-      "category": "zakoni",
-      "reliability": "sluzbeno",
-      "title": "MPGI objavio prosječne cijene stanova za primjenu u 2026.",
-      "summary": "Ministarstvo prostornoga uređenja, graditeljstva i državne imovine objavilo je službene prosječne cijene stanova koje se primjenjuju u 2026. godini. Podatak je ključan za obračune u programima subvencija i za procjene vrijednosti.",
-      "fbQuestion": "Država je objavila službenu prosječnu cijenu kvadrata. Koliko se ona razlikuje od onoga što vidite u oglasima?",
-      "source": {
-        "name": "MPGI",
-        "url": "https://mpgi.gov.hr/prosjecne-cijene-stanova-za-primjenu-u-2026/18577"
       }
     }
   ]
