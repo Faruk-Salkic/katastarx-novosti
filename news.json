@@ -1,6 +1,58 @@
 {
-  "updated": "2026-08-27T04:00:10.545Z",
+  "updated": "2026-08-28T04:00:24.582Z",
   "items": [
+    {
+      "id": "2026-08-27-mdrxtk",
+      "date": "2026-08-27",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Ministar Bačić: Ostvareni prihodi od upravljanja nekretninama 70,7 milijuna eura",
+      "summary": "Ministar Branko Bačić predstavio je izvješće o provedbi Godišnjeg plana upravljanja nekretninama. U izvješću je istaknuto da su prihodi od upravljanja nekretninama u vlasništvu RH za prethodnu godinu iznosili 70,7 milijuna eura.",
+      "fbQuestion": "Kako mislite da bi se prihodi od nekretnina mogli povećati u budućnosti?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/ministar-bacic-predstavio-izvjesce-o-provedbi-godisnjeg-plana-upravljanja-nekretninama-i-pokretninama-u-vlasnistvu-rh-drzava-uprihodila-70-7-milijuna-eura/20245"
+      }
+    },
+    {
+      "id": "2026-08-27-32ly6s",
+      "date": "2026-08-27",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Vlada daruje nekretninu Fažani za sportsko-rekreacijski centar",
+      "summary": "Na sjednici Vlade donesena je odluka o darovanju nekretnine procijenjene na 1.928.900,00 eura. Svrha darivanja jest izgradnja Društveno-sportskog centra Valbandon u suradnji s Općinom Fažana.",
+      "fbQuestion": "Kako ocijenjujete učinak novih sportskih centara na lokalnu zajednicu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/vlada-donijela-odluku-o-darovanju-nekretnine-opcini-fazana-za-izgradnju-sportsko-rekreacijskog-centra-valbandon/20244"
+      }
+    },
+    {
+      "id": "2026-08-27-89u73h",
+      "date": "2026-08-27",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Poziv za zakup nekretnina u vlasništvu RH u Gradu Virovitici",
+      "summary": "Grad Virovitica objavio je poziv za zakup nekretnina koje su u vlasništvu Republike Hrvatske. Ponude se mogu dostaviti u roku od 30 dana od dana objave poziva.",
+      "fbQuestion": "Planirate li sudjelovati u zakupu nekretnina u Virovitici?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/zakup-nekretnina-u-vlasnistvu-republike-hrvatske-grad-virovitica/20242"
+      }
+    },
+    {
+      "id": "2026-08-27-gatxv0",
+      "date": "2026-08-27",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Vukovarsko-srijemskoj županiji",
+      "summary": "Do 30. rujna 2026. godine do 9:00 sati otvoren je poziv za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske. Ova inicijativa obuhvaća nekretnine smještene u Vukovarsko-srijemskoj županiji.",
+      "fbQuestion": "Imate li iskustva s kupnjom državnih nekretnina? Podijelite s nama!",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-vukovarsko-srijemska-zupanija-20240/20240"
+      }
+    },
     {
       "id": "2026-08-26-1tw0mn",
       "date": "2026-08-26",
@@ -467,58 +519,6 @@
       "source": {
         "name": "Index.hr / HNB",
         "url": "https://www.index.hr/vijesti/clanak/stanovi-u-hrvatskoj-su-oko-15-posto-precijenjeni/2813772.aspx"
-      }
-    },
-    {
-      "id": "2026-07-24-rast-cijena-usporava",
-      "date": "2026-07-08",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Cijene stanova nastavljaju rasti, ali sporije",
-      "summary": "Rast cijena stambenih nekretnina postupno se usporava zahvaljujući većoj ponudi novogradnje. Postojeći stanovi poskupjeli su 16,1 posto godišnje, novogradnja 9,7 posto. Stručnjaci ne očekuju pad cijena ni ponavljanje scenarija iz 2008. jer je tržište stabilnije.",
-      "fbQuestion": "Stari stanovi rastu 16 posto, novogradnja 10 posto. Što je danas pametnija kupnja: staro na dobroj lokaciji ili novo na rubu grada?",
-      "source": {
-        "name": "Novi list",
-        "url": "https://www.novilist.hr/novosti/hrvatska/analiza-cijene-stanova-nastavit-ce-rasti-ali-sporije-pojeftinjenje-ne-treba-ocekivati/"
-      }
-    },
-    {
-      "id": "2026-07-24-porez-stope-gradovi",
-      "date": "2026-07-15",
-      "category": "porezi",
-      "reliability": "strucno",
-      "title": "Porez na nekretnine 2026: 41 grad i općina povećali stopu",
-      "summary": "Stopa poreza na nekretnine kreće se od 0,60 do 8,00 EUR po kvadratu godišnje, a određuje je svaka jedinica lokalne samouprave. Za 2026. minimalnu stopu primjenjuje 125 gradova i općina, dok najvišu od 8 EUR imaju Biograd na Moru, Nin i Mali Lošinj. Rate dospijevaju 30. lipnja i 30. studenog.",
-      "fbQuestion": "Vaš grad je možda upravo digao porez na nekretnine. Znate li koliko po kvadratu plaćate za praznu nekretninu?",
-      "source": {
-        "name": "Gradonačelnik.hr",
-        "url": "https://gradonacelnik.hr/analize-top-10/stopu-poreza-na-nekretnine-za-2026-smanjio-samo-jedan-grad-a-12-povecalo-evo-tko-sve-jos-uvijek-primjenjuje-najnizu-stopu/"
-      }
-    },
-    {
-      "id": "2026-07-24-stambeni-krediti",
-      "date": "2026-07-10",
-      "category": "krediti",
-      "reliability": "strucno",
-      "title": "Stambeni krediti 2026: kamate od 2,50 do 3,50 posto",
-      "summary": "Kamatne stope na stambene kredite stabilizirale su se između 2,50 i 3,50 posto za klijente s dobrim bonitetom. Akcijske ponude: Erste 2,50 posto, ZABA 2,79 posto, OTP 2,99 posto, PBZ 3,10 posto, HPB fiksna 3,29 posto. Rokovi otplate najčešće 15 do 30 godina.",
-      "fbQuestion": "Kamata 2,5 posto zvuči odlično, ali na 30 godina. Biste li radije platili višu ratu na 15 godina ili nižu na 30?",
-      "source": {
-        "name": "MojKalkulator",
-        "url": "https://mojkalkulator.com.hr/stambeni-kredit"
-      }
-    },
-    {
-      "id": "2026-07-24-priustivost",
-      "date": "2026-07-05",
-      "category": "trziste",
-      "reliability": "sluzbeno",
-      "title": "Priuštivost stanova blago raste unatoč rastu cijena",
-      "summary": "Indeksi priuštivosti nekretnina blago se povećavaju početkom 2026. Kupnja stana financijski je pristupačnija nego prije gotovo dva desetljeća, što su omogućili rast plaća i zaposlenosti, povoljniji uvjeti kreditiranja i niže kamatne stope.",
-      "fbQuestion": "Statistika kaže da je stan priuštiviji nego prije 20 godina. Osjećate li to i vi kad pogledate cijene u svom gradu?",
-      "source": {
-        "name": "HNB",
-        "url": "https://www.hnb.hr/documents/20182/2626448/p-041.pdf/a46c4569-30fc-4bb9-80e5-4f5953762d25"
       }
     }
   ]
