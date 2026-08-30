@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-28T04:00:24.582Z",
+  "updated": "2026-08-30T04:00:07.214Z",
   "items": [
+    {
+      "id": "2026-08-29-97w52h",
+      "date": "2026-08-29",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Cijene nekretnina u Hrvatskoj nastavljaju rasti",
+      "summary": "Cijene nekretnina u Hrvatskoj i dalje rastu unatoč padu broja transakcija. Stručnjaci ističu da potražnja ostaje veća od ponude, što implicira daljnji porast cijena dugoročno.",
+      "fbQuestion": "Što mislite, hoće li porast cijena nekretnina potrajati?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/agent-za-nekretnine-cijene-ce-dugorocno-uvijek-ici-prema-gore/2829041.aspx"
+      }
+    },
     {
       "id": "2026-08-27-mdrxtk",
       "date": "2026-08-27",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/bacic-drzava-zeli-preuzeti-cijeli-kompleks-vjesnika/2816937.aspx"
-      }
-    },
-    {
-      "id": "2026-07-24-hnb-precijenjenost",
-      "date": "2026-07-22",
-      "category": "cijene",
-      "reliability": "sluzbeno",
-      "title": "Analiza: stanovi u Hrvatskoj oko 15 posto precijenjeni",
-      "summary": "Prema analizi objavljenoj početkom 2026., stanovi u Hrvatskoj koštaju oko 15 posto više nego što bi se očekivalo s obzirom na plaće, najamnine, troškove gradnje i uvjete kreditiranja. HNB istovremeno upozorava da se cikličke ranjivosti nastavljaju jačati, ponajprije zbog rasta cijena nekretnina.",
-      "fbQuestion": "Ako su stanovi 15 posto precijenjeni, tko će prvi spustiti cijenu: prodavatelj, banka ili tržište?",
-      "source": {
-        "name": "Index.hr / HNB",
-        "url": "https://www.index.hr/vijesti/clanak/stanovi-u-hrvatskoj-su-oko-15-posto-precijenjeni/2813772.aspx"
       }
     }
   ]
