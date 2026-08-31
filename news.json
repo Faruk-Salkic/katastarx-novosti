@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-30T04:00:07.214Z",
+  "updated": "2026-08-31T04:00:09.847Z",
   "items": [
+    {
+      "id": "2026-08-30-sk1d1f",
+      "date": "2026-08-30",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Najskuplji europski gradovi za kupnju stana",
+      "summary": "Analiza cijena stanova u 28 europskih gradova otkriva da su švicarski gradovi najskuplji. Ova informacija može biti korisna za potencijalne kupce koji razmatraju ulaganje u nekretnine u Europi.",
+      "fbQuestion": "Koji europski gradovi su vam najslađi ili najskuplji kada su u pitanju nekretnine?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/ovo-su-najskuplji-europski-gradovi-za-kupnju-stana/2829205.aspx"
+      }
+    },
+    {
+      "id": "2026-08-30-me1c5m",
+      "date": "2026-08-30",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Goran Pikunić: Precijenjene nekretnine zadržat će se na tržištu",
+      "summary": "Goran Pikunić u intervjuu objašnjava važnost pada transakcija na tržištu nekretnina. Ističe kako su agenti doprinijeli napuhivanju cijena, a komentira i nedostatak pravih luksuznih nekretnina u Dubrovniku te utjecaj nove stambene zone na Pobrežju.",
+      "fbQuestion": "Što mislite, kakav utjecaj će imati nova stambena zona na tržište nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/nekretnine/goran-pikunic-precijenjene-nekretnine-stajat-ce-mjesecima-na-trzistu-4552611"
+      }
+    },
     {
       "id": "2026-08-29-97w52h",
       "date": "2026-08-29",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/financije/stambeni-krediti-u-hrvatskoj-nova-pravila-novi-izazovi-i-nove-prilike-4548522"
-      }
-    },
-    {
-      "id": "2026-07-23-swfehm",
-      "date": "2026-07-23",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Država planira nove objekte na mjestu srušenog Vjesnika",
-      "summary": "Ministar Bačić najavio je završetak radova na rušenju Vjesnika, te planove za izgradnju novih javnih objekata. Također je spomenuo da će do kraja godine biti dostupno 500 nekretnina za priuštivi najam građanima.",
-      "fbQuestion": "Koje javne objekte biste željeli vidjeti na mjestu srušenog Vjesnika?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/bacic-gotovi-radovi-na-rusenju-vjesnika-drzava-zeli-preuzeti-cijeli-kompleks/2816966.aspx"
-      }
-    },
-    {
-      "id": "2026-07-23-oo8xuk",
-      "date": "2026-07-23",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Država planira preuzeti kompleks Vjesnika i graditi 1300 stanova",
-      "summary": "Bačić je najavio širenje programa priuštivog najma i gradnju 1300 novih stanova. Također, planira se završna faza obnove kuća na Banovini.",
-      "fbQuestion": "Kako bi vam preuzimanje kompleksa Vjesnika utjecalo na tržište nekretnina u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/bacic-drzava-zeli-preuzeti-cijeli-kompleks-vjesnika/2816937.aspx"
       }
     }
   ]
