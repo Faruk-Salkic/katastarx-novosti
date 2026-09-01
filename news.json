@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-31T04:00:09.847Z",
+  "updated": "2026-09-01T04:00:12.273Z",
   "items": [
+    {
+      "id": "2026-08-31-t18onr",
+      "date": "2026-08-31",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "Porezna uprava izdala opomene za neplaćeni porez na nekretnine",
+      "summary": "Porezna uprava je poslala opomene za neizvršene obveze poreza na nekretnine. Žalbe na te odluke ne odgađaju plaćanje poreza, o čemu su obavijestili javnost.",
+      "fbQuestion": "Jeste li primili opomenu za porez na nekretnine? Kako ćete postupiti?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/porezna-poslala-opomene-zbog-poreza-na-nekretnine-zalba-ne-odgadja-placanje/2829543.aspx"
+      }
+    },
     {
       "id": "2026-08-30-sk1d1f",
       "date": "2026-08-30",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-zadarska-zupanija-20169/20169"
-      }
-    },
-    {
-      "id": "2026-07-24-6eap16",
-      "date": "2026-07-24",
-      "category": "krediti",
-      "reliability": "medijsko",
-      "title": "Stambeni krediti u Hrvatskoj: Nova pravila i prilike",
-      "summary": "Na tržištu stambenog kreditiranja u Hrvatskoj došlo je do jačanja konkurencije među bankama, što donosi nove prilike za građane. Ova promjena može utjecati na uvjete kreditiranja i kamatne stope, čime se otvaraju mogućnosti za povoljnije financiranje stambenih projekata.",
-      "fbQuestion": "Kako mislite da će nova pravila utjecati na sve nas koji razmišljamo o stambenom kreditu?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/financije/stambeni-krediti-u-hrvatskoj-nova-pravila-novi-izazovi-i-nove-prilike-4548522"
       }
     }
   ]
