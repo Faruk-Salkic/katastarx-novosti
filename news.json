@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-02T04:00:11.585Z",
+  "updated": "2026-09-03T04:00:09.480Z",
   "items": [
+    {
+      "id": "2026-08-31-zw0b6y",
+      "date": "2026-08-31",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "APN zaprimio 7.327 zahtjeva za potporu kupnje prve nekretnine",
+      "summary": "Agencija za pravni promet i posredovanje nekretninama zaprimila je 7.327 zahtjeva za povrat poreza do 31. kolovoza 2026. godine. Odobrena je isplata od više od 36,2 milijuna eura, koja pomaže mladim građanima u rješavanju stambenog pitanja.",
+      "fbQuestion": "Kako ocjenjujete potporu mladima pri kupnji nekretnina? Je li dovoljna?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-7-327-zahtjeva-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20253"
+      }
+    },
     {
       "id": "2026-09-01-ml05eg",
       "date": "2026-09-01",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/hnb-budite-oprezni-banke-sve-vise-nude-stambene-kredite-s-promjenjivim-kamatama/2817230.aspx"
-      }
-    },
-    {
-      "id": "2026-07-24-ntw9dg",
-      "date": "2026-07-24",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Osijeku",
-      "summary": "Grad Osijek objavio je mogućnost kupnje nekretnina u vlasništvu Republike Hrvatske. Rok za podnošenje ponuda je 25. kolovoza 2026. do 12:00 sati.",
-      "fbQuestion": "Planirate li sudjelovati u kupnji nekretnina u Osijeku? Što mislite o toj mogućnosti?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-grad-osijek-20175/20175"
       }
     }
   ]
