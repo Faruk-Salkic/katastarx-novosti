@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-03T04:00:09.480Z",
+  "updated": "2026-09-04T04:00:12.717Z",
   "items": [
+    {
+      "id": "2026-09-03-7k91ea",
+      "date": "2026-09-03",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "Belgijac na Visu duguje porez zbog nekretnine",
+      "summary": "Belgijski vlasnik kuće na Visu ima porezni dug od 18.371,41 eura vezan uz porez na nekretnine. Dug je vidljiv u zemljišnim knjigama kroz zabilježbu ovršivosti tražbine i založnog prava.",
+      "fbQuestion": "Kako gledate na obavezu stranih vlasnika nekretnina prema porezima u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/belgijac-koji-je-na-visu-uvalu-ogradio-zicom-pod-naponom-duguje-porez-hrvatskoj/2830655.aspx"
+      }
+    },
     {
       "id": "2026-08-31-zw0b6y",
       "date": "2026-08-31",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-istarska-zupanija/20178"
-      }
-    },
-    {
-      "id": "2026-07-24-eekxix",
-      "date": "2026-07-24",
-      "category": "krediti",
-      "reliability": "medijsko",
-      "title": "HNB upozorava: Raste ponuda stambenih kredita s promjenjivim kamatama",
-      "summary": "Hrvatska narodna banka naglašava da banke ponovno nude sve više stambenih kredita s promjenjivim ili kombiniranim kamatnim stopama. Potrošači bi trebali biti oprezni prilikom izbora ovakvih proizvoda.",
-      "fbQuestion": "Kako se vi odlučujete između fiksnih i promjenjivih kamatnih stopa?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/hnb-budite-oprezni-banke-sve-vise-nude-stambene-kredite-s-promjenjivim-kamatama/2817230.aspx"
       }
     }
   ]
