@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-04T04:00:12.717Z",
+  "updated": "2026-09-06T04:00:09.705Z",
   "items": [
+    {
+      "id": "2026-09-05-xpx0xu",
+      "date": "2026-09-05",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Hrvati s primanjima do 1000 eura mogu se prijaviti za gradski stan",
+      "summary": "Osobe s primanjima do 1.000 eura mogu se prijaviti za gradski stan. Prilikom prijave, podnositelj zahtjeva i članovi kućanstva ne smiju posjedovati useljivu nekretninu niti su je smjeli posjedovati u posljednjih deset godina.",
+      "fbQuestion": "Tko misli da je ova mjera dobar korak prema rješavanju stambenog pitanja?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.tportal.hr/vijesti/clanak/hrvati-s-primanjima-do-1000-eura-mogu-do-gradskog-stana-evo-tko-se-moze-prijaviti-20260905"
+      }
+    },
     {
       "id": "2026-09-03-7k91ea",
       "date": "2026-09-03",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/vijesti-8/nova-prilika-za-kupnju-drzavnih-nekretnina-objavljen-natjecaj-za-20-nekretnina/20180"
-      }
-    },
-    {
-      "id": "2026-07-27-rp168p",
-      "date": "2026-07-27",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu RH u Istarskoj županiji",
-      "summary": "Rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Istarskoj županiji je do 27. kolovoza 2026. godine do 11:00 sati. Ova ponuda uključuje različite nekretnine koje su dostupne za zakup ili kupnju.",
-      "fbQuestion": "Planirate li sudjelovati u natječaju za kupnju nekretnina u Istri?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-istarska-zupanija/20178"
       }
     }
   ]
