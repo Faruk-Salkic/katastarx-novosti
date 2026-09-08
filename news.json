@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-06T04:00:09.705Z",
+  "updated": "2026-09-08T04:00:09.315Z",
   "items": [
+    {
+      "id": "2026-09-07-2ng9dr",
+      "date": "2026-09-07",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Prosječna cijena novog stana u Hrvatskoj blizu 3000 eura",
+      "summary": "Prema podacima DZS-a, prosječna cijena kvadrata novog stana u Hrvatskoj doseže skoro 3000 eura. U prvom polugodištu 2026. prodano je 1.618 novih stanova, od kojih je 530 u Zagrebu.",
+      "fbQuestion": "Kako vi gledate na rast cijena nekretnina u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/prosjecna-cijena-kvadrata-novog-stana-u-hrvatskoj-skoro-3000-eura/2831790.aspx"
+      }
+    },
     {
       "id": "2026-09-05-xpx0xu",
       "date": "2026-09-05",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/drzava-prodaje-20-nekretnina-stan-od-32-kvadrata-u-zagrebu-za-71000-eura/2817948.aspx"
-      }
-    },
-    {
-      "id": "2026-07-27-k2moua",
-      "date": "2026-07-27",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Objavljen natječaj za prodaju 20 državnih nekretnina u Hrvatskoj",
-      "summary": "U Hrvatskoj je objavljen treći javni natječaj za prodaju državnih nekretnina. Na raspolaganju je 20 nekretnina smještenih u nekoliko gradova, a ponude se zaprimaju do 28. kolovoza 2026. godine.",
-      "fbQuestion": "Planirate li sudjelovati na natječaju za kupnju državnih nekretnina?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/nova-prilika-za-kupnju-drzavnih-nekretnina-objavljen-natjecaj-za-20-nekretnina/20180"
       }
     }
   ]
