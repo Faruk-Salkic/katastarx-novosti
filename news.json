@@ -1,6 +1,32 @@
 {
-  "updated": "2026-09-09T04:00:07.691Z",
+  "updated": "2026-09-10T04:00:21.068Z",
   "items": [
+    {
+      "id": "2026-09-09-qkt9gj",
+      "date": "2026-09-09",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Zakon o najmu: Hoće li smanjiti ponudu i povećati cijene nekretnina?",
+      "summary": "Kritike na račun predloženog zakona o najmu fokusiraju se na rokove otkazivanja ugovora te parametre povećanja najamnina. Mnogi se pitaju hoće li nova rješenja donijeti suprotan efekt i otežati pronalazak povoljnog smještaja.",
+      "fbQuestion": "Što mislite, hoće li novi zakon o najmu donijeti više koristi ili problema za iznajmljivače i najmoprimce?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/hrvatska/hoce-li-zakon-o-najmu-izazvati-suprotan-efekt-smanjiti-ponudu-i-podici-cijene-4554077"
+      }
+    },
+    {
+      "id": "2026-09-09-gvehbp",
+      "date": "2026-09-09",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Rasprava o ograničenju kupnje nekretnina za strance u Hrvatskoj",
+      "summary": "Rast cijena nekretnina na obali potaknuo je raspravu o mogućim ograničenjima za nerezidente. Mnogi lokalni stanovnici ističu zabrinutost zbog poskupljenja i iseljenja. Pitanje je hoće li regulative donijeti više koristi ili štete.",
+      "fbQuestion": "Što mislite, trebaju li stranci imati ograničenja pri kupnji nekretnina u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.tportal.hr/lifestyle/clanak/hrvati-raspravljaju-treba-li-strancima-ograniciti-kupnju-nekretnina-lokalci-vise-ne-mogu-ostati-zivjeti-ovdje-20260909"
+      }
+    },
     {
       "id": "2026-09-07-2ng9dr",
       "date": "2026-09-07",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/zaposlenica-doma-za-starije-krivotvorila-oporuku-umrle-sticenice-zbog-stana-u-opatiji/2818401.aspx"
-      }
-    },
-    {
-      "id": "2026-07-27-9ysmk1",
-      "date": "2026-07-27",
-      "category": "zakoni",
-      "reliability": "medijsko",
-      "title": "Direktor prevario kupce nekretnina za 800.000 eura kod Osijeka",
-      "summary": "Direktor iz Višnjevca osumnjičen je za prijevaru 19 kupaca nekretnina, čime je počinio štetu od preko 800.000 eura. Uz to, tereti se i za utaju poreza veću od 90.000 eura.",
-      "fbQuestion": "Kako zaštititi kupce od prevara u svijetu nekretnina?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/direktor-kod-osijeka-prevario-kupce-nekretnina-za-800000-eura/2818001.aspx"
-      }
-    },
-    {
-      "id": "2026-07-27-1icbyn",
-      "date": "2026-07-27",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Država prodaje 20 nekretnina, uključujući stan u Zagrebu",
-      "summary": "Država planira prodati 20 nekretnina, među kojima se ističe stan od 32 kvadrata u Zagrebu po cijeni od 71.000 eura. Rok za podnošenje ponuda je 28. kolovoza.",
-      "fbQuestion": "Sviđa li vam se cijena stana u Zagrebu ili biste očekivali nižu?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/drzava-prodaje-20-nekretnina-stan-od-32-kvadrata-u-zagrebu-za-71000-eura/2817948.aspx"
       }
     }
   ]
