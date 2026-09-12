@@ -1,6 +1,45 @@
 {
-  "updated": "2026-09-11T04:00:08.744Z",
+  "updated": "2026-09-12T04:00:14.751Z",
   "items": [
+    {
+      "id": "2026-09-11-738bko",
+      "date": "2026-09-11",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "APN zaprimio gotovo 7500 zahtjeva za povrat poreza",
+      "summary": "APN je zaprimio blizu 7500 zahtjeva za povrat poreza, što ukazuje na veliki interes mladih građana i obitelji za mjerama pomoći. Ova inicijativa ima za cilj olakšati rješavanje stambenih pitanja.",
+      "fbQuestion": "Kako mislite da će ova mjera utjecati na dostupnost stambenih rješenja mladima?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/hrvatska/apn-zaprimio-gotovo-7500-zahtjeva-za-povrat-poreza-4554443"
+      }
+    },
+    {
+      "id": "2026-09-11-x7ftni",
+      "date": "2026-09-11",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "40 poslovnih prostora u 14 gradova na javnom natječaju",
+      "summary": "Državne nekretnine organiziraju javni natječaj za zakup 40 poslovnih prostora u 14 gradova. Ponude se mogu podnositi do 18. rujna 2026. godine do 12 sati.",
+      "fbQuestion": "Koji su vaši kriteriji pri odabiru poslovnog prostora za zakup?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/drzavne-nekretnine-nude-u-zakup-40-poslovnih-prostora-u-14-gradova-20291/20291"
+      }
+    },
+    {
+      "id": "2026-09-11-gijsim",
+      "date": "2026-09-11",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "APN zaprimio 7.479 zahtjeva za potporu mladima pri kupnji nekretnine",
+      "summary": "Agencija za pravni promet i posredovanje nekretninama zaprimila je 7.479 zahtjeva za potporu mladima pri kupnji ili gradnji prve stambene nekretnine do 11. rujna 2026. godine. Isplaćeno je više od 36,9 milijuna eura, a mjera je usmjerena na olakšavanje stambenog pitanja mladih građana.",
+      "fbQuestion": "Kakva su vaša iskustva s APN potporama za kupnju nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-7-479-zahtjeva-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20289"
+      }
+    },
     {
       "id": "2026-09-09-qkt9gj",
       "date": "2026-09-09",
@@ -480,45 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/vijesti-8/drzavne-nekretnine-nude-u-zakup-40-poslovnih-prostora-u-14-gradova/20188"
-      }
-    },
-    {
-      "id": "2026-07-30-wx4ab9",
-      "date": "2026-07-30",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske - Karlovačka županija",
-      "summary": "Do 1. rujna 2026. godine u 12:00 sati otvoren je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Karlovačkoj županiji. Ova prilika može biti zanimljiva potencijalnim investitorima i kupcima nekretnina.",
-      "fbQuestion": "Planirate li sudjelovati u kupnji nekretnina u Karlovačkoj županiji?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-karlovacke-zupanija/20193"
-      }
-    },
-    {
-      "id": "2026-07-29-guvx1g",
-      "date": "2026-07-29",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Međimurskoj županiji",
-      "summary": "Do 16. rujna 2026. godine do 10:00 sati otvoren je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Međimurskoj županiji. Ovaj proces omogućuje svim zainteresiranim strankama kupnju javne imovine.",
-      "fbQuestion": "Planirate li sudjelovati u kupnji državnih nekretnina? Zašto da, ili zašto ne?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-medjimurska-zupanija-20184/20184"
-      }
-    },
-    {
-      "id": "2026-07-28-mwmip4",
-      "date": "2026-07-28",
-      "category": "zakoni",
-      "reliability": "medijsko",
-      "title": "Krivotvorenje oporuke zbog nekretnine u Opatiji",
-      "summary": "Zaposlenica doma za starije osobe u Opatiji krivotvorila je oporuku preminule štićenice kako bi dobila njezin stan. Zbog ovog kaznenog djela protiv nje je podignuta prijava.",
-      "fbQuestion": "Što mislite o kaznenoj odgovornosti za krivotvorenje oporuka?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/zaposlenica-doma-za-starije-krivotvorila-oporuku-umrle-sticenice-zbog-stana-u-opatiji/2818401.aspx"
       }
     }
   ]
