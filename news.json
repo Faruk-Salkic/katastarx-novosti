@@ -1,6 +1,32 @@
 {
-  "updated": "2026-09-12T04:00:14.751Z",
+  "updated": "2026-09-13T04:00:14.075Z",
   "items": [
+    {
+      "id": "2026-09-12-6ue6gj",
+      "date": "2026-09-12",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Novi zakon o najmu stanova donosi promjene za podstanare i stanodavce",
+      "summary": "Vlada priprema novi Zakon o najmu stanova koji će jasnije urediti odnose između najmoprimaca i najmodavaca. Zakon će ograničiti povećavanje najamnina i ubrzati postupke iseljenja kada se ugovor ne poštuje, a trebao bi stupiti na snagu 1. siječnja 2027. godine.",
+      "fbQuestion": "Kako mislite da će novi zakon o najmu utjecati na tržište stanova?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/novi-zakon-o-najmu-stanova-donosi-veliku-promjenu-i-za-podstanare-i-za-stanodavce/2833801.aspx"
+      }
+    },
+    {
+      "id": "2026-09-12-u16ixi",
+      "date": "2026-09-12",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Hrvati ulažu milijarde u nekretnine, ali slabo se osiguravaju",
+      "summary": "Cijene nekretnina i građevinskih radova su u porastu, što povećava rizik od podosiguranosti. Bojan Letica iz Croatia osiguranja upozorava na nužnost zaštite imovine. Unatoč velikim ulaganjima, osiguranje ostaje nedovoljno iskorišteno.",
+      "fbQuestion": "Kako vi štitite svoju nekretninu od rizika?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/trzista/razina-osigurateljne-zastite-imovine-raste-sporije-od-rizika-4554219"
+      }
+    },
     {
       "id": "2026-09-11-738bko",
       "date": "2026-09-11",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/nekretnine/stabilizacija-nekretninskog-trzista-dogodit-ce-se-tek-kada-ponuda-pocne-pratiti-potraznju-4549556"
-      }
-    },
-    {
-      "id": "2026-07-30-x1iih2",
-      "date": "2026-07-30",
-      "category": "zakoni",
-      "reliability": "medijsko",
-      "title": "Vlada usvojila Godišnji plan upravljanja nekretninama za 2026. godinu",
-      "summary": "Vlada Republike Hrvatske usvojila je Godišnji plan upravljanja nekretninama i pokretninama za 2026. godinu. Ovaj plan je ključan za provedbu Strategije upravljanja nekretninama za razdoblje od 2026. do 2035. godine.",
-      "fbQuestion": "Kako mislite da će usvojeni plan utjecati na tržište nekretnina?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/vlada-usvojila-godisnji-plan-upravljanja-nekretninama-i-pokretninama-u-vlasnistvu-republike-hrvatske-za-2026-godinu/20190"
-      }
-    },
-    {
-      "id": "2026-07-30-yegls4",
-      "date": "2026-07-30",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Državne nekretnine nude u zakup 40 poslovnih prostora u 14 gradova",
-      "summary": "Državne nekretnine su objavile javni natječaj za zakup 40 poslovnih prostora u 14 gradova diljem Hrvatske. Rok za podnošenje ponuda je 18. rujna 2026. do 12 sati.",
-      "fbQuestion": "Koji bi poslovni prostor bio idealan za vašu tvrtku?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/drzavne-nekretnine-nude-u-zakup-40-poslovnih-prostora-u-14-gradova/20188"
       }
     }
   ]
