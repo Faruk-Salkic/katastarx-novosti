@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-13T04:00:14.075Z",
+  "updated": "2026-09-14T04:00:08.266Z",
   "items": [
+    {
+      "id": "2026-09-13-yr0w1k",
+      "date": "2026-09-13",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Građanima vraćeno gotovo 37 milijuna eura za prvu nekretninu",
+      "summary": "Do 11. rujna 2023. godine, APN je zaprimio 7.479 zahtjeva za poticaje. Od toga, obrađeno je 6.249 zahtjeva, uz povrat gotovo 37 milijuna eura građanima.",
+      "fbQuestion": "Kako ocjenjujete poticaje za mlade obitelji prilikom kupnje prve nekretnine?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/nekretnine/gradanima-za-prvu-nekretninu-vraceno-gotovo-37-milijuna-eura-4554552"
+      }
+    },
     {
       "id": "2026-09-12-6ue6gj",
       "date": "2026-09-12",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/drzavne-nekretnine-nude-40-prostora-garaza-u-sisku-za-8-eura-ured-na-ilici-za-1100/2819122.aspx"
-      }
-    },
-    {
-      "id": "2026-07-30-fz6oxl",
-      "date": "2026-07-30",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Stabilizacija nekretninskog tržišta ovisi o ponudi i potražnji",
-      "summary": "Hrvatsko tržište nekretnina suočava se s problemom nedostatka kvalitetnih nekretnina, a ne s nedostatkom kupaca. Stabilizacija će se postići kada ponuda počne odgovarati potražnji.",
-      "fbQuestion": "Kako mislite da bi se mogla poboljšati ponuda nekretnina u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/nekretnine/stabilizacija-nekretninskog-trzista-dogodit-ce-se-tek-kada-ponuda-pocne-pratiti-potraznju-4549556"
       }
     }
   ]
