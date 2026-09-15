@@ -1,6 +1,32 @@
 {
-  "updated": "2026-09-14T04:00:08.266Z",
+  "updated": "2026-09-15T04:00:11.120Z",
   "items": [
+    {
+      "id": "2026-09-14-1xj5lu",
+      "date": "2026-09-14",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "U Resniku 30 zgrada za priuštivo stanovanje uz nove modele zbrinjavanja",
+      "summary": "Državna tajnica Sanja Bošnjak predstavila je planove za izgradnju 30 zgrada u Resniku. Ovi projekti uključuju prijenos državnog zemljišta na APN te usklađivanje uredbi sa Zakonom o stambenom zbrinjavanju.",
+      "fbQuestion": "Kako ocjenjujete nove modele stambenog zbrinjavanja u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/u-resniku-30-zgrada-za-priustivo-stanovanje-uvode-se-novi-modeli-stambenog-zbrinjavanja/20297"
+      }
+    },
+    {
+      "id": "2026-09-14-mlyetx",
+      "date": "2026-09-14",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Novi zakon o najmu donosi promjene za stanodavce i podstanare",
+      "summary": "U Hrvatskoj se priprema novi Zakon o najmu stanova koji će urediti odnose između najmoprimaca i najmodavaca. Cilj zakona je smanjiti nesigurnosti na tržištu dugoročnog najma, uključujući stabilizaciju cijena najamnina. Očekuje se da će novi propisi donijeti veće zaštite za obje strane.",
+      "fbQuestion": "Kako mislite da će novi zakon utjecati na tržište najma u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/uskoro-novi-zakon-o-najmu-sto-se-sve-mijenja-za-stanodavce-i-podstanare/20292"
+      }
+    },
     {
       "id": "2026-09-13-yr0w1k",
       "date": "2026-09-13",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/hrvatska/nekim-hrvatskim-gradanima-odobreni-zahtjevi-za-povrat-poreza-kod-kupnje-prve-nekretnine-4549710"
-      }
-    },
-    {
-      "id": "2026-07-30-n5f0hf",
-      "date": "2026-07-30",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske - Karlovačka županija",
-      "summary": "Aktualni rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Karlovačkoj županiji ističe 1. rujna 2026. godine u 12:00 sati. Ovaj postupak omogućava građanima stjecanje državne imovine.",
-      "fbQuestion": "Planirate li sudjelovati u kupnji nekretnina iz državnog vlasništva?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-karlovacka-zupanija-20193/20193"
-      }
-    },
-    {
-      "id": "2026-07-30-7wr2j9",
-      "date": "2026-07-30",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Državne nekretnine nude 40 prostora u 14 gradova po povoljnim cijenama",
-      "summary": "Državne nekretnine u najam nude 40 prostora u 14 hrvatskih gradova. Cijene najma kreću se od 8 eura za garažu u Sisku do 1.500 eura za poslovni prostor u centru Zagreba.",
-      "fbQuestion": "Koji tip nekretnine biste radije iznajmili, garažu ili uredski prostor?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/drzavne-nekretnine-nude-40-prostora-garaza-u-sisku-za-8-eura-ured-na-ilici-za-1100/2819122.aspx"
       }
     }
   ]
