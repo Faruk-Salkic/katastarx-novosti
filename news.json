@@ -1,6 +1,45 @@
 {
-  "updated": "2026-09-16T04:00:06.305Z",
+  "updated": "2026-09-18T04:00:14.833Z",
   "items": [
+    {
+      "id": "2026-09-17-nugcjn",
+      "date": "2026-09-17",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Grad Zagreb kupuje nekretnine u Paromlinskoj za skoro dva milijuna eura",
+      "summary": "Grad Zagreb planira kupiti nekretnine u Paromlinskoj vrijedne gotovo dva milijuna eura. Ove transakcije dio su šireg projekta preoblikovanja Cibone te ulaganja u škole i modernizaciju toplinske mreže.",
+      "fbQuestion": "Kako ocjenjujete ulaganje Grada Zagreba u nekretnine u Paromlinskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/grad-zagreb-kupuje-nekretnine-u-paromlinskoj-vrijedne-su-gotovo-dva-milijuna-eura/2835870.aspx"
+      }
+    },
+    {
+      "id": "2026-09-17-1dahlz",
+      "date": "2026-09-17",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Odluka o osnivanju prava građenja za nogometni kamp u Splitu",
+      "summary": "Vlada Republike Hrvatske donijela je odluku o osnivanju prava građenja u korist Grada Splita. Ova odluka omogućuje izgradnju suvremenog nogometnog kampa na nekretnini u vlasništvu države u Stobreču.",
+      "fbQuestion": "Kako vidite utjecaj nogometnog kampa na razvoj Splita?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/vlada-donijela-odluku-o-osnivanju-prava-gradjenja-u-korist-grada-splita-radi-izgradnje-nogometnog-kampa/20302"
+      }
+    },
+    {
+      "id": "2026-09-17-1i3ejx",
+      "date": "2026-09-17",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Objavljeni novi propisi za stambeno zbrinjavanje",
+      "summary": "U 'Narodnim novinama' broj 103/26 objavljeni su novi propisi vezani uz stambeno zbrinjavanje na potpomognutim područjima. Uredba uključuje izmjene prodajnih cijena obiteljskih kuća ili stanova u državnom vlasništvu te kriterije za bodovanje prijava.",
+      "fbQuestion": "Kako mislite da će nove uredbe utjecati na stambeno zbrinjavanje u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/propisi-ministarstva-objavljeni-u-narodnim-novinama-4846/4846"
+      }
+    },
     {
       "id": "2026-09-14-1xj5lu",
       "date": "2026-09-14",
@@ -480,45 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-sisacko-moslavacka-zupanija-20211/20211"
-      }
-    },
-    {
-      "id": "2026-08-03-pheslp",
-      "date": "2026-08-03",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Zagrebačkoj županiji",
-      "summary": "Zaključeno je da je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske do 9. rujna 2026. do 12:00 sati. Ovaj potez otvara mogućnost stjecanja državne imovine za potencijalne kupce.",
-      "fbQuestion": "Jeste li razmišljali o kupnji državne nekretnine? Što mislite o ovoj praksi?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-zagrebacka-zupanija/20201"
-      }
-    },
-    {
-      "id": "2026-08-03-h6ckp4",
-      "date": "2026-08-03",
-      "category": "zakoni",
-      "reliability": "medijsko",
-      "title": "Javno savjetovanje o pravilniku za potporu stjecanja prve nekretnine",
-      "summary": "Nacrt Pravilnika o potporama za stjecanje prve stambene nekretnine dostupan je za javno savjetovanje od 3. kolovoza do 2. rujna 2026. godine. Ovaj pravilnik ima za cilj olakšati mladima pristup stambenom tržištu.",
-      "fbQuestion": "Kako mislite da će ovaj pravilnik utjecati na tržište nekretnina za mlade? ",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/savjetovanje-s-javnoscu-8116/otvorena-savjetovanja/nacrt-pravilnika-o-potporama-za-stjecanje-prve-stambene-nekretnine-na-javnom-savjetovanju-od-3-kolovoza-do-2-rujna-2026-godine/20210"
-      }
-    },
-    {
-      "id": "2026-07-31-hhzolu",
-      "date": "2026-07-31",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "Povrat poreza za kupnju prve nekretnine u Hrvatskoj",
-      "summary": "Nekim hrvatskim građanima odobreni su zahtjevi za povrat poreza kod kupnje prve nekretnine. Prosječna potpora po obitelji iznosi 7.678 eura, a povrat poreza na promet nekretnina procjenjuje se na 3.446 eura.",
-      "fbQuestion": "Kako bi vam povrat poreza pomogao u kupnji nekretnine?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/hrvatska/nekim-hrvatskim-gradanima-odobreni-zahtjevi-za-povrat-poreza-kod-kupnje-prve-nekretnine-4549710"
       }
     }
   ]
