@@ -1,6 +1,32 @@
 {
-  "updated": "2026-09-18T04:00:14.833Z",
+  "updated": "2026-09-20T04:00:13.133Z",
   "items": [
+    {
+      "id": "2026-09-19-yo2q6t",
+      "date": "2026-09-19",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Grad Zagreb prodaje nekretnine s cijenama od 11.600 eura",
+      "summary": "U Zagrebu se rasprodaju nekretnine, a cijene započinju od 11.600 eura. Neke lokacije su trenutno u posjedu bespravnih korisnika, što dodatno komplicira situaciju. Grad nastoji raspraviti o budućem korištenju tih nekretnina.",
+      "fbQuestion": "Koje nekretnine u Zagrebu mislite da su najprivlačnije za kupnju?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/hrvatska/grad-zagreb-rasprodaje-nekretnine-cijene-krecu-vec-od-11-600-eura-4555475"
+      }
+    },
+    {
+      "id": "2026-09-19-6237xi",
+      "date": "2026-09-19",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Općina nudi do 10.000 eura za kupnju nekretnine, prijave otvorene",
+      "summary": "Općina stavlja na raspolaganje do 10.000 eura za sufinanciranje kupnje nekretnine. Jedan od uvjeta je da se nekretnina ne može kupiti na dosadašnjoj adresi prebivališta podnositelja zahtjeva.",
+      "fbQuestion": "Kako mislite da ovakve poticajne mjere utječu na tržište nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/hrvatska/i-ova-opcina-daje-do-10-000-eura-za-kupnju-prve-kuce-ili-stana-prijave-su-upravo-otvorene-4555476"
+      }
+    },
     {
       "id": "2026-09-17-nugcjn",
       "date": "2026-09-17",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/vila-u-rijeci-na-kojoj-se-urusio-balkon-propada-vec-godinama-vlasnik-je-iz-dubaija/2822000.aspx"
-      }
-    },
-    {
-      "id": "2026-08-07-5qvpq2",
-      "date": "2026-08-07",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "APN zaprimio gotovo 7.000 zahtjeva za potporu mladima pri kupnji nekretnina",
-      "summary": "Agencija za pravni promet i posredovanje nekretninama zaprimila je 6.994 zahtjeva za povrat poreza na kupnju ili gradnju prve stambene nekretnine do 7. kolovoza 2026. godine. Do sada je odobrena isplata veća od 34,8 milijuna eura, a mjera je namijenjena mladim građanima i obiteljima.",
-      "fbQuestion": "Kako mislite da će ova potpora utjecati na tržište nekretnina za mlade?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-6-994-zahtjeva-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20217"
-      }
-    },
-    {
-      "id": "2026-08-04-j1uhw5",
-      "date": "2026-08-04",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Sisačko-moslavačkoj županiji",
-      "summary": "U Sisačko-moslavačkoj županiji otvoren je proces kupnje nekretnina u vlasništvu države. Krajnji rok za podnošenje ponuda je 7. rujna 2026. do 10:00 sati.",
-      "fbQuestion": "Planirate li sudjelovati u kupnji nekretnina od države?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-sisacko-moslavacka-zupanija-20211/20211"
       }
     }
   ]
