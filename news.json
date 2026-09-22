@@ -1,6 +1,32 @@
 {
-  "updated": "2026-09-20T04:00:13.133Z",
+  "updated": "2026-09-22T04:00:15.409Z",
   "items": [
+    {
+      "id": "2026-09-21-lr29mg",
+      "date": "2026-09-21",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Virovitici",
+      "summary": "U najavi su nekretnine u vlasništvu Republike Hrvatske za koje je rok za podnošenje ponuda 30 dana. Poziv je objavljen u visokotiražnom dnevnom listu, a zainteresirani mogu sudjelovati u procesu kupnje.",
+      "fbQuestion": "Jeste li razmišljali o kupnji nekretnine u državnom vlasništvu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-grad-virovitica-20311/20311"
+      }
+    },
+    {
+      "id": "2026-09-21-ogm894",
+      "date": "2026-09-21",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske - Ličko-senjska županija",
+      "summary": "Objavljen je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske. Ponude se mogu podnositi do 26. listopada 2026. do 12 sati.",
+      "fbQuestion": "Planirate li sudjelovati u kupnji nekretnina iz državnog vlasništva?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-licko-senjska-zupanija-20309/20309"
+      }
+    },
     {
       "id": "2026-09-19-yo2q6t",
       "date": "2026-09-19",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFJPcUo4cWw0c0pOZkkwTFVtZnF0YzNoRHdsWGVYN0Q5Z3dFNGNwUTZPLVo0dmNkNFIySGptWERYNnJ2LU04RV9DNmFiTDlLejZzanJfaXo0blF4NldtTzRXQm50bzJJd0dvLW1ycVVjZW8yakxNQUFfemY3cDdDWTNSd0RFeWc3YjI5bnR6dGVYanc1ektKaU9oNk8xU0RSaDRWaWxSbVd3Qkk?oc=5"
-      }
-    },
-    {
-      "id": "2026-08-10-0lm090",
-      "date": "2026-08-10",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "APN odobrio 4600 zahtjeva za povrat poreza na prvu nekretninu",
-      "summary": "APN je odobrio 4600 zahtjeva za povrat poreza pri kupnji prve nekretnine. Mladim kupcima isplaćeno je više od 34,8 milijuna eura potpora.",
-      "fbQuestion": "Koliko mislite da će ova potpora utjecati na mlade kupce nekretnina?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/apn-odobrio-4600-zahtjeva-za-povrat-poreza-isplaceno-gotovo-35-milijuna-eura/2822195.aspx"
-      }
-    },
-    {
-      "id": "2026-08-09-60x9ee",
-      "date": "2026-08-09",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Propadanje povijesne vile u Rijeci zbog urušavanja balkona",
-      "summary": "Urušavanje balkona povijesne vile u Rijeci ozlijedilo je maloljetnike i ukazalo na dugotrajno propadanje zdanja. Vila je u vlasništvu agenta za nekretnine iz Dubaija, što dodatno komplicira situaciju.",
-      "fbQuestion": "Što mislite, koliko je važno očuvati povijesne zgrade poput ove vile?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/vila-u-rijeci-na-kojoj-se-urusio-balkon-propada-vec-godinama-vlasnik-je-iz-dubaija/2822000.aspx"
       }
     }
   ]
