@@ -1,6 +1,32 @@
 {
-  "updated": "2026-09-22T04:00:15.409Z",
+  "updated": "2026-09-24T04:00:12.981Z",
   "items": [
+    {
+      "id": "2026-09-23-ldn9kp",
+      "date": "2026-09-23",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Cijene nekretnina u Sloveniji znatno porasle, Maribor na vrhu rasta",
+      "summary": "U drugom tromjesečju 2023. godine, ukupna vrijednost stambenih nekretnina u Sloveniji iznosila je 551,7 milijuna eura. Maribor predvodi s najvećim porastom vrijednosti nekretnina.",
+      "fbQuestion": "Kako mislite da će se cijene nekretnina u Sloveniji kretati u budućnosti?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/nekretnine/nekretnine-u-sloveniji-snazno-poskupjele-maribor-predvodi-rast-4556234"
+      }
+    },
+    {
+      "id": "2026-09-23-ous3s4",
+      "date": "2026-09-23",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Ministar Bačić obišao državne stanove i gradilište zaštićenih najmoprimaca",
+      "summary": "Ministar Branko Bačić posjetio je obnovljene državne stanove i gradilište zgrade u Zagrebu. Ovaj projekt namijenjen je stambenom zbrinjavanju zaštićenih najmoprimaca, a osniva se na presudama Europskog suda za ljudska prava.",
+      "fbQuestion": "Kako vi ocjenjujete napore u rješavanju stambenih pitanja zaštićenih najmoprimaca?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/ministar-bacic-u-zagrebu-obisao-drzavne-stanove-i-gradiliste-zgrade-za-zasticene-najmoprimce/20319"
+      }
+    },
     {
       "id": "2026-09-21-lr29mg",
       "date": "2026-09-21",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/trazene-cijene-nekretnina-u-najbogatijoj-britanskoj-cetvrti-pale-za-110000-eura/2824349.aspx"
-      }
-    },
-    {
-      "id": "2026-08-12-kmb6aw",
-      "date": "2026-08-12",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kriza neće utjecati na cijene nekretnina, ali može na financije",
-      "summary": "Pogoršanje makroekonomskih uvjeta moglo bi negativno utjecati na javne financije. Ipak, stručnjaci smatraju da će cijene nekretnina ostati stabilne unatoč krizi. Analize ukazuju na otpornost tržišta nekretnina u teškim vremenima.",
-      "fbQuestion": "Kako mislite da će kriza utjecati na tržište nekretnina u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/nekretnine/kriza-bi-urusila-osiguranja-i-fondove-ali-ne-i-cijene-nekretnina-4550866"
-      }
-    },
-    {
-      "id": "2026-08-12-nkd7cp",
-      "date": "2026-08-12",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Cijene nekretnina ostaju stabilne un despite krize",
-      "summary": "Unatoč krizi koja prijeti osiguranjima i fondovima, cijene nekretnina ostaju stabilne. Stručnjaci naglašavaju da tržište nekretnina ne pokazuje znakove značajnijeg pada. Ova situacija izaziva zanimljive reakcije među investitorima.",
-      "fbQuestion": "Kako mislite, hoće li cijene nekretnina ostati stabilne i dalje?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFJPcUo4cWw0c0pOZkkwTFVtZnF0YzNoRHdsWGVYN0Q5Z3dFNGNwUTZPLVo0dmNkNFIySGptWERYNnJ2LU04RV9DNmFiTDlLejZzanJfaXo0blF4NldtTzRXQm50bzJJd0dvLW1ycVVjZW8yakxNQUFfemY3cDdDWTNSd0RFeWc3YjI5bnR6dGVYanc1ektKaU9oNk8xU0RSaDRWaWxSbVd3Qkk?oc=5"
       }
     }
   ]
