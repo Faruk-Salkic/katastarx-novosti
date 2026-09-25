@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-24T04:00:12.981Z",
+  "updated": "2026-09-25T04:00:10.135Z",
   "items": [
+    {
+      "id": "2026-09-24-342smc",
+      "date": "2026-09-24",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Cijene nekretnina u Zagrebu kontinuirano rastu",
+      "summary": "Cijene nekretnina u Zagrebu, uključujući stan od 63 kvadrata koji se prodaje za 350.000 eura, neprestano se povećavaju. Ova situacija postaje nova realnost za kupce u gradu.",
+      "fbQuestion": "Kako vi vidite budućnost cijena nekretnina u Zagrebu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/stan-od-63-kvadrata-u-zagrebu-za-350000-eura-nazalost-to-je-nova-realnost/2838205.aspx"
+      }
+    },
     {
       "id": "2026-09-23-ldn9kp",
       "date": "2026-09-23",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/regija/mercator-ide-u-novu-rundu-prodaje-nekretnina-cilja-na-36-milijuna-eura-4551439"
-      }
-    },
-    {
-      "id": "2026-08-17-0m0ndg",
-      "date": "2026-08-17",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Cijene nekretnina u Kensingtonu i Chelsea su pale za 110.000 eura",
-      "summary": "Cijene nekretnina u Velikoj Britaniji bilježe opadanje, s najvećim padom u Londonu. U četvrtima Kensington i Chelsea cijene su smanjene za gotovo 100.000 funti u posljednjem mjesecu, što privlači investitore.",
-      "fbQuestion": "Kako mislite, hoće li se pad cijena nastaviti i u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/trazene-cijene-nekretnina-u-najbogatijoj-britanskoj-cetvrti-pale-za-110000-eura/2824349.aspx"
       }
     }
   ]
