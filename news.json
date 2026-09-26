@@ -1,6 +1,58 @@
 {
-  "updated": "2026-09-25T04:00:10.135Z",
+  "updated": "2026-09-26T04:00:15.775Z",
   "items": [
+    {
+      "id": "2026-09-25-m8i53g",
+      "date": "2026-09-25",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "SID banci 300 milijuna eura za povoljno stanovanje",
+      "summary": "Europska investicijska banka (EIB) odobrila je 300 milijuna eura za financiranje stanova s reguliranim najamninama. Ova obveza od 30 godina usmjerena je na poboljšanje pristupačnog stanovanja u Hrvatskoj.",
+      "fbQuestion": "Kako mislite da će ova sredstava utjecati na tržište stanovanja?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/regija/sid-banci-300-milijuna-eura-za-priustivo-stanovanje-4556662"
+      }
+    },
+    {
+      "id": "2026-09-25-s3zfip",
+      "date": "2026-09-25",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u PGŽ",
+      "summary": "Republika Hrvatska nudi na prodaju nekretnine u Primorsko-goranskoj županiji. Rok za podnošenje ponuda je 27. listopada 2026. do 12:00 sati.",
+      "fbQuestion": "Jeste li već razmislili o kupnji nekretnine u državnom vlasništvu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-primorsko-goranska-zupanija-20332/20332"
+      }
+    },
+    {
+      "id": "2026-09-25-56buyt",
+      "date": "2026-09-25",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske - Brodsko-posavska županija",
+      "summary": "Objavljen je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske. Ponude se primaju do 28. listopada 2026. godine u 13:00 sati.",
+      "fbQuestion": "Jeste li razmišljali o kupnji nekretnine u vlasništvu države? Kakva su vaša iskustva?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-brodsko-posavska-zupanija-20330/20330"
+      }
+    },
+    {
+      "id": "2026-09-25-cwrryw",
+      "date": "2026-09-25",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske - Grad Čakovec",
+      "summary": "Grad Čakovec nudi nekretnine u vlasništvu Republike Hrvatske na prodaju. Rok za podnošenje ponuda je 30. listopada 2026. godine do 12:00 sati.",
+      "fbQuestion": "Kako ocjenjujete interes za kupnju državnih nekretnina u Čakovcu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-grad-cakovec-20328/20328"
+      }
+    },
     {
       "id": "2026-09-24-342smc",
       "date": "2026-09-24",
@@ -467,58 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/regija/kvadrat-na-crnogorskoj-obali-gotovo-nemoguce-pronaci-ispod-3500-eura-4552038"
-      }
-    },
-    {
-      "id": "2026-08-24-usmpy2",
-      "date": "2026-08-24",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Državne nekretnine nude 40 poslovnih prostora u 14 gradova",
-      "summary": "Državne nekretnine pokreću javni natječaj za zakup 40 poslovnih prostora diljem Hrvatske. Natječaj Z-7/26 otvoren je do 18. rujna 2026. godine u podne.",
-      "fbQuestion": "Koji bi bili najbolji gradovi za otvaranje novog poslovnog prostora?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/drzavne-nekretnine-nude-u-zakup-40-poslovnih-prostora-u-14-gradova-20238/20238"
-      }
-    },
-    {
-      "id": "2026-08-20-7jga0x",
-      "date": "2026-08-20",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Gradu Pazinu",
-      "summary": "Grad Pazin objavio je informacije o kupnji nekretnina u vlasništvu Republike Hrvatske. Rok za podnošenje ponuda je 22. rujna 2026. do 10:00 sati.",
-      "fbQuestion": "Planirate li sudjelovati u kupnji nekretnina u Pazinu?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-grad-pazin/20233"
-      }
-    },
-    {
-      "id": "2026-08-19-684ov4",
-      "date": "2026-08-19",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "HBOR prodao silos Šincekovima za 223.293 eura bez kreditiranja",
-      "summary": "Hrvatska banka za obnovu i razvoj potvrdila je prodaju silosa i pripadajućih nekretnina u Gospiću za 223.293 eura obiteljskoj tvrtki Šincekovih. Odbacili su tvrdnje o odobravanju kredita za kupnju. ",
-      "fbQuestion": "Što mislite o prodaji nekretnina bez kreditiranja? Ima li to utjecaja na tržište?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/hbor-sincekovima-smo-prodali-silos-u-gospicu-ali-nismo-sudjelovali-u-kreditiranju/2825360.aspx"
-      }
-    },
-    {
-      "id": "2026-08-18-6jdimk",
-      "date": "2026-08-18",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Mercator pokreće novu prodaju nekretnina, planira 36 milijuna eura",
-      "summary": "Mercator je najavio novu rundu prodaje nekretnina, s ciljem prikupljanja 36 milijuna eura. Ove godine planiraju prodaju 25 nekretnina u ožujku, te dodatnih 50 u srpnju.",
-      "fbQuestion": "Što mislite, kakav će utjecaj imati ova prodaja nekretnina na tržište?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/regija/mercator-ide-u-novu-rundu-prodaje-nekretnina-cilja-na-36-milijuna-eura-4551439"
       }
     }
   ]
