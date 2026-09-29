@@ -1,6 +1,32 @@
 {
-  "updated": "2026-09-28T04:00:07.702Z",
+  "updated": "2026-09-29T04:00:11.503Z",
   "items": [
+    {
+      "id": "2026-09-28-a8kv47",
+      "date": "2026-09-28",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Mladi u RH napuštaju roditeljski dom s 31,5 godina zbog visokih cijena nekretnina",
+      "summary": "Tomislav Sokol, europarlamentarac iz HDZ-a, istaknuo je problem dostupnosti stanovanja za mlade u Hrvatskoj. Cijene nekretnina se od 2010. godine više nego udvostručile, što otežava odlaske mladih iz roditeljskih domova.",
+      "fbQuestion": "Kako mislite da bismo mogli poboljšati dostupnost stanovanja za mlade u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/hdzov-eurozastupnik-mladi-u-rh-napustaju-roditeljski-dom-tek-s-31-i-pol-godinom/2839627.aspx"
+      }
+    },
+    {
+      "id": "2026-09-28-2xl7kf",
+      "date": "2026-09-28",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "APN zaprimio 7.780 zahtjeva za potporu mladima pri kupnji nekretnine",
+      "summary": "Agencija za pravni promet i posredovanje nekretninama zaprimila je 7.780 zahtjeva za potporu pri kupnji ili gradnji prve stambene nekretnine do 25. rujna 2026. godine. Isplata odobrena kroz ovu mjeru pomoći iznosi više od 38,2 milijuna eura.",
+      "fbQuestion": "Kako se vi snalazite u potrazi za prvim stambenim rješenjem?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-7-780-zahtjeva-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20335"
+      }
+    },
     {
       "id": "2026-09-25-m8i53g",
       "date": "2026-09-25",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-vukovarsko-srijemska-zupanija-20240/20240"
-      }
-    },
-    {
-      "id": "2026-08-26-1tw0mn",
-      "date": "2026-08-26",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "U Zagrebu prodano skoro svih 74 luksuzna stana, cijena do 8400 €/m²",
-      "summary": "Cijene luksuznih stanova u Zagrebu nastavljaju rasti, uz cijene do 8400 eura po četvornom metru. Unatoč visokom interesu, ponuda pristupačnijih stanova je slaba, dok kupci imaju manju kreditnu sposobnost.",
-      "fbQuestion": "Što mislite o rastu cijena nekretnina u Zagrebu? Je li to održivo?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/u-zagrebu-grade-zgradu-sa-74-luksuzna-stana-skoro-svi-prodani-cijena-do-8400-m/2828088.aspx"
-      }
-    },
-    {
-      "id": "2026-08-24-zohrqt",
-      "date": "2026-08-24",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Cijene nekretnina na crnogorskoj obali premašuju 3500 eura po kvadratu",
-      "summary": "Potražnja za nekretninama na crnogorskoj obali značajno je porasla. Agenti javljaju da se stanovi često prodaju prije završetka gradnje zbog visoke potražnje.",
-      "fbQuestion": "Kako mislite da će se cijene nekretnina na obali dalje razvijati?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/regija/kvadrat-na-crnogorskoj-obali-gotovo-nemoguce-pronaci-ispod-3500-eura-4552038"
       }
     }
   ]
