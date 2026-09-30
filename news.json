@@ -1,6 +1,32 @@
 {
-  "updated": "2026-09-29T04:00:11.503Z",
+  "updated": "2026-09-30T04:00:14.288Z",
   "items": [
+    {
+      "id": "2026-09-28-02us5z",
+      "date": "2026-09-28",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Vlada darovala nekretninu Gradu Trilju za razvoj sadržaja",
+      "summary": "Na sjednici Vlade donesena je Odluka o darovanju nekretnine u k.o. Košute Gradu Trilju. Nekretnina ukupne površine 7479 m² bit će prenamijenjena za razvoj sportskih, kulturnih i društvenih sadržaja.",
+      "fbQuestion": "Kako mislite da će darovana nekretnina utjecati na razvoj Trilja?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/vlada-donijela-odluku-o-darovanju-nekretnine-u-k-o-kosute-gradu-trilju/20339"
+      }
+    },
+    {
+      "id": "2026-09-29-98mxr3",
+      "date": "2026-09-29",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Šibensko-kninskoj županiji",
+      "summary": "Objavljen je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Šibensko-kninskoj županiji. Ponude se mogu podnositi do 3. studenoga 2026. do 10 sati.",
+      "fbQuestion": "Jeste li razmišljali o kupnji nekretnine u vlasništvu države? Koje su vaše misli o tome?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-sibensko-kninska-zupanija-20340/20340"
+      }
+    },
     {
       "id": "2026-09-28-a8kv47",
       "date": "2026-09-28",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/vijesti-8/vlada-donijela-odluku-o-darovanju-nekretnine-opcini-fazana-za-izgradnju-sportsko-rekreacijskog-centra-valbandon/20244"
-      }
-    },
-    {
-      "id": "2026-08-27-89u73h",
-      "date": "2026-08-27",
-      "category": "zakoni",
-      "reliability": "medijsko",
-      "title": "Poziv za zakup nekretnina u vlasništvu RH u Gradu Virovitici",
-      "summary": "Grad Virovitica objavio je poziv za zakup nekretnina koje su u vlasništvu Republike Hrvatske. Ponude se mogu dostaviti u roku od 30 dana od dana objave poziva.",
-      "fbQuestion": "Planirate li sudjelovati u zakupu nekretnina u Virovitici?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/zakup-nekretnina-u-vlasnistvu-republike-hrvatske-grad-virovitica/20242"
-      }
-    },
-    {
-      "id": "2026-08-27-gatxv0",
-      "date": "2026-08-27",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Vukovarsko-srijemskoj županiji",
-      "summary": "Do 30. rujna 2026. godine do 9:00 sati otvoren je poziv za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske. Ova inicijativa obuhvaća nekretnine smještene u Vukovarsko-srijemskoj županiji.",
-      "fbQuestion": "Imate li iskustva s kupnjom državnih nekretnina? Podijelite s nama!",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-vukovarsko-srijemska-zupanija-20240/20240"
       }
     }
   ]
