@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-30T04:00:14.288Z",
+  "updated": "2026-10-01T04:00:09.603Z",
   "items": [
+    {
+      "id": "2026-09-30-oi3ps7",
+      "date": "2026-09-30",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske - Varaždinska županija",
+      "summary": "Do 4. studenoga 2026. godine do 10:00 sati otvorene su ponude za kupnju nekretnina u vlasništvu Republike Hrvatske u Varaždinskoj županiji. Interesenti mogu podnijeti svoje ponude unutar ovog roka.",
+      "fbQuestion": "Jeste li ikada razmišljali o kupnji nekretnine u vlasništvu države?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-varazdinska-zupanija-20345/20345"
+      }
+    },
     {
       "id": "2026-09-28-02us5z",
       "date": "2026-09-28",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/vijesti-8/ministar-bacic-predstavio-izvjesce-o-provedbi-godisnjeg-plana-upravljanja-nekretninama-i-pokretninama-u-vlasnistvu-rh-drzava-uprihodila-70-7-milijuna-eura/20245"
-      }
-    },
-    {
-      "id": "2026-08-27-32ly6s",
-      "date": "2026-08-27",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Vlada daruje nekretninu Fažani za sportsko-rekreacijski centar",
-      "summary": "Na sjednici Vlade donesena je odluka o darovanju nekretnine procijenjene na 1.928.900,00 eura. Svrha darivanja jest izgradnja Društveno-sportskog centra Valbandon u suradnji s Općinom Fažana.",
-      "fbQuestion": "Kako ocijenjujete učinak novih sportskih centara na lokalnu zajednicu?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/vlada-donijela-odluku-o-darovanju-nekretnine-opcini-fazana-za-izgradnju-sportsko-rekreacijskog-centra-valbandon/20244"
       }
     }
   ]
