@@ -1,6 +1,32 @@
 {
-  "updated": "2026-10-01T04:00:09.603Z",
+  "updated": "2026-10-02T04:00:13.299Z",
   "items": [
+    {
+      "id": "2026-10-01-bh6z23",
+      "date": "2026-10-01",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Cijene nekretnina u Hrvatskoj porasle 12,7%, prodaja pala za 33%",
+      "summary": "Cijene nekretnina u Hrvatskoj zabilježile su porast od 12,7 posto, unatoč padu broja prodaja za jednu trećinu. Prosječna cijena kvadrata novogradnje doseže 3012 eura.",
+      "fbQuestion": "Kako se vi osjećate prema porastu cijena nekretnina u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/cijene-nekretnina-u-hrvatskoj-skocile-127-broj-prodaja-pao-za-trecinu/2840766.aspx"
+      }
+    },
+    {
+      "id": "2026-10-01-nveo36",
+      "date": "2026-10-01",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Položen kamen temeljac za stanove u Dugoj Resi",
+      "summary": "U Dugoj Resi položen je kamen temeljac za višestambenu zgradu s 25 stanova za priuštivo stanovanje. Investicija iznosi oko 3,4 milijuna eura, a završetak radova predviđen je za godinu dana.",
+      "fbQuestion": "Kako mislite da će novi stanovi utjecati na dostupnost stanovanja u Dugoj Resi?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/polozen-kamen-temeljac-za-visestambenu-zgradu-u-dugoj-resi/20348"
+      }
+    },
     {
       "id": "2026-09-30-oi3ps7",
       "date": "2026-09-30",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/nekretnine/goran-pikunic-precijenjene-nekretnine-stajat-ce-mjesecima-na-trzistu-4552611"
-      }
-    },
-    {
-      "id": "2026-08-29-97w52h",
-      "date": "2026-08-29",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Cijene nekretnina u Hrvatskoj nastavljaju rasti",
-      "summary": "Cijene nekretnina u Hrvatskoj i dalje rastu unatoč padu broja transakcija. Stručnjaci ističu da potražnja ostaje veća od ponude, što implicira daljnji porast cijena dugoročno.",
-      "fbQuestion": "Što mislite, hoće li porast cijena nekretnina potrajati?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/agent-za-nekretnine-cijene-ce-dugorocno-uvijek-ici-prema-gore/2829041.aspx"
-      }
-    },
-    {
-      "id": "2026-08-27-mdrxtk",
-      "date": "2026-08-27",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Ministar Bačić: Ostvareni prihodi od upravljanja nekretninama 70,7 milijuna eura",
-      "summary": "Ministar Branko Bačić predstavio je izvješće o provedbi Godišnjeg plana upravljanja nekretninama. U izvješću je istaknuto da su prihodi od upravljanja nekretninama u vlasništvu RH za prethodnu godinu iznosili 70,7 milijuna eura.",
-      "fbQuestion": "Kako mislite da bi se prihodi od nekretnina mogli povećati u budućnosti?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/ministar-bacic-predstavio-izvjesce-o-provedbi-godisnjeg-plana-upravljanja-nekretninama-i-pokretninama-u-vlasnistvu-rh-drzava-uprihodila-70-7-milijuna-eura/20245"
       }
     }
   ]
