@@ -1,6 +1,32 @@
 {
-  "updated": "2026-10-03T04:00:07.144Z",
+  "updated": "2026-10-04T04:00:14.181Z",
   "items": [
+    {
+      "id": "2026-10-03-wb0drq",
+      "date": "2026-10-03",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Povećanje troškova solemnizacije uz rast cijena najamnina",
+      "summary": "Cijena solemnizacije sve više raste kada poraste i stanarina, iako posao bilježnika ostaje isti. Istražuju se razlozi za ovu povezanost troškova između najamnina i usluga bilježnika.",
+      "fbQuestion": "Kako vi gledate na rast troškova solemnizacije u odnosu na najamnine?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/zasto-cemo-biljeznicima-placati-vise-ako-nam-je-stanarina-skuplja/2837043.aspx"
+      }
+    },
+    {
+      "id": "2026-10-03-8ko3xr",
+      "date": "2026-10-03",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Cijene nekretnina u Hrvatskoj rastu brže od prosjeka EU-a",
+      "summary": "Unutar godinu dana, cijene nekretnina u Hrvatskoj porasle su za 2,7 posto, što premašuje prosjek Europske unije. Najam stanova također je značajno porastao, za 22 posto, što ukazuje na rastuću potražnju za stanovanjem.",
+      "fbQuestion": "Kako mislite, hoće li se rast cijena nekretnina nastaviti i u narednim godinama?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/nekretnine/hrvatska-je-s-godisnjim-rastom-cijena-nekretnina-iznad-prosjeka-eu-a-najam-stana-porastao-za-22-posto-4557863"
+      }
+    },
     {
       "id": "2026-10-01-bh6z23",
       "date": "2026-10-01",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/porezna-poslala-opomene-zbog-poreza-na-nekretnine-zalba-ne-odgadja-placanje/2829543.aspx"
-      }
-    },
-    {
-      "id": "2026-08-30-sk1d1f",
-      "date": "2026-08-30",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Najskuplji europski gradovi za kupnju stana",
-      "summary": "Analiza cijena stanova u 28 europskih gradova otkriva da su švicarski gradovi najskuplji. Ova informacija može biti korisna za potencijalne kupce koji razmatraju ulaganje u nekretnine u Europi.",
-      "fbQuestion": "Koji europski gradovi su vam najslađi ili najskuplji kada su u pitanju nekretnine?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/ovo-su-najskuplji-europski-gradovi-za-kupnju-stana/2829205.aspx"
-      }
-    },
-    {
-      "id": "2026-08-30-me1c5m",
-      "date": "2026-08-30",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Goran Pikunić: Precijenjene nekretnine zadržat će se na tržištu",
-      "summary": "Goran Pikunić u intervjuu objašnjava važnost pada transakcija na tržištu nekretnina. Ističe kako su agenti doprinijeli napuhivanju cijena, a komentira i nedostatak pravih luksuznih nekretnina u Dubrovniku te utjecaj nove stambene zone na Pobrežju.",
-      "fbQuestion": "Što mislite, kakav utjecaj će imati nova stambena zona na tržište nekretnina?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/nekretnine/goran-pikunic-precijenjene-nekretnine-stajat-ce-mjesecima-na-trzistu-4552611"
       }
     }
   ]
