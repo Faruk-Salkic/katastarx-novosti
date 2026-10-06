@@ -1,6 +1,71 @@
 {
-  "updated": "2026-10-05T04:00:08.629Z",
+  "updated": "2026-10-06T04:00:21.687Z",
   "items": [
+    {
+      "id": "2026-10-05-gaooxc",
+      "date": "2026-10-05",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "Više od 5000 obitelji dobilo povrat poreza od APN-a",
+      "summary": "APN je isplatio gotovo 39 milijuna eura za prvu nekretninu, što je omogućilo više od 5000 mladih obitelji da ostvare prosječni povrat od 7581 eura. Ova mjera podržava stjecanje prvih nekretnina za mlade obitelji.",
+      "fbQuestion": "Kako mislite da će povrat poreza utjecati na kupnju prve nekretnine?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/vise-od-5000-obitelji-dobilo-povrat-poreza-isplacuje-se-gotovo-39-milijuna-eura/2842036.aspx"
+      }
+    },
+    {
+      "id": "2026-10-05-qh164l",
+      "date": "2026-10-05",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Turci i Rusi prodaju nekretnine u Budvi zbog viza",
+      "summary": "Zbog promjena u viznoj politici, mnogi turisti iz Turske i Rusije odlučili su se na prodaju svojih nekretnina u Budvi. Pad cijena najma stambenog prostora postao je očit, što ukazuje na promjene u lokalnom tržištu nekretnina.",
+      "fbQuestion": "Kako mislite da će ovo utjecati na tržište nekretnina u Budvi?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/regija/zbog-viza-turci-i-rusi-rasprodaju-svoje-nekretnine-u-budvi-4558062"
+      }
+    },
+    {
+      "id": "2026-10-05-4pvfq4",
+      "date": "2026-10-05",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Odobreno 39 milijuna eura za potporu mladima za prvu nekretninu",
+      "summary": "Vlada je odobrila 39 milijuna eura za podršku mladima u kupnji prve nekretnine. Prosječna dob podnositelja zahtjeva iznosi 32 godine, dok se najmlađi podnositelj javio s 18 godina.",
+      "fbQuestion": "Kako mislite da će ova potpora utjecati na tržište nekretnina za mlade?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/hrvatska/odobreno-39-milijuna-eura-za-potporu-mladima-za-prvu-nekretninu-4558056"
+      }
+    },
+    {
+      "id": "2026-10-06-0jd6mr",
+      "date": "2026-10-06",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Rast cijena stanova zbog problema s lokalnim kamenolomima",
+      "summary": "Analiza stručnjaka s Rudarsko-geološko-naftnog fakulteta otkriva da gašenje lokalnih kamenoloma utječe na troškove gradnje. Duži prijevoz mineralnih sirovina povećava ukupne troškove, što se odražava na cijene stanova.",
+      "fbQuestion": "Kako mislite da bi se problemi s dostupnošću kamenoloma mogli odraziti na tržište nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://net.hr/danas/rtl-danas/bez-toga-nema-cesta-pruga-ni-zgrada-d8023d4c-bf42-11f1-936f-9600040c8f8e"
+      }
+    },
+    {
+      "id": "2026-10-05-jbpxfh",
+      "date": "2026-10-05",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "APN zaprimio 7925 zahtjeva za potporu mladima pri kupnji prve nekretnine",
+      "summary": "Agencija za pravni promet i posredovanje nekretninama (APN) do 2. listopada 2026. zaprimila je 7925 zahtjeva za povrat poreza pri kupnji ili gradnji prve stambene nekretnine. Odobrena isplata iznosi više od 38,8 milijuna eura, a mjera je namijenjena mladim građanima i obiteljima.",
+      "fbQuestion": "Kako mislite da ove potpore utječu na stambeno zbrinjavanje mladih u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-7925-zahtjeva-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20352"
+      }
+    },
     {
       "id": "2026-10-03-wb0drq",
       "date": "2026-10-03",
@@ -454,71 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.tportal.hr/vijesti/clanak/hrvati-s-primanjima-do-1000-eura-mogu-do-gradskog-stana-evo-tko-se-moze-prijaviti-20260905"
-      }
-    },
-    {
-      "id": "2026-09-03-7k91ea",
-      "date": "2026-09-03",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "Belgijac na Visu duguje porez zbog nekretnine",
-      "summary": "Belgijski vlasnik kuće na Visu ima porezni dug od 18.371,41 eura vezan uz porez na nekretnine. Dug je vidljiv u zemljišnim knjigama kroz zabilježbu ovršivosti tražbine i založnog prava.",
-      "fbQuestion": "Kako gledate na obavezu stranih vlasnika nekretnina prema porezima u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/belgijac-koji-je-na-visu-uvalu-ogradio-zicom-pod-naponom-duguje-porez-hrvatskoj/2830655.aspx"
-      }
-    },
-    {
-      "id": "2026-08-31-zw0b6y",
-      "date": "2026-08-31",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "APN zaprimio 7.327 zahtjeva za potporu kupnje prve nekretnine",
-      "summary": "Agencija za pravni promet i posredovanje nekretninama zaprimila je 7.327 zahtjeva za povrat poreza do 31. kolovoza 2026. godine. Odobrena je isplata od više od 36,2 milijuna eura, koja pomaže mladim građanima u rješavanju stambenog pitanja.",
-      "fbQuestion": "Kako ocjenjujete potporu mladima pri kupnji nekretnina? Je li dovoljna?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-7-327-zahtjeva-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20253"
-      }
-    },
-    {
-      "id": "2026-09-01-ml05eg",
-      "date": "2026-09-01",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina Republike Hrvatske u Virovitičko-podravskoj županiji",
-      "summary": "Republika Hrvatska nudi nekretnine na kupnju u Virovitičko-podravskoj županiji. Rok za podnošenje ponuda je 1. listopada 2026. godine.",
-      "fbQuestion": "Planirate li sudjelovati u kupnji nekretnina u Virovitičko-podravskoj županiji?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-viroviticko-podravska-zupanija-20250/20250"
-      }
-    },
-    {
-      "id": "2026-09-01-xcav87",
-      "date": "2026-09-01",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Gradu Požegi",
-      "summary": "Grad Požega nudi mogućnost kupnje nekretnina u državnom vlasništvu. Rok za podnošenje ponuda je 1. listopada 2026.",
-      "fbQuestion": "Jeste li već razmišljali o kupnji nekretnina u državnom vlasništvu?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-grad-pozega/20248"
-      }
-    },
-    {
-      "id": "2026-08-31-t18onr",
-      "date": "2026-08-31",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "Porezna uprava izdala opomene za neplaćeni porez na nekretnine",
-      "summary": "Porezna uprava je poslala opomene za neizvršene obveze poreza na nekretnine. Žalbe na te odluke ne odgađaju plaćanje poreza, o čemu su obavijestili javnost.",
-      "fbQuestion": "Jeste li primili opomenu za porez na nekretnine? Kako ćete postupiti?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/porezna-poslala-opomene-zbog-poreza-na-nekretnine-zalba-ne-odgadja-placanje/2829543.aspx"
       }
     }
   ]
