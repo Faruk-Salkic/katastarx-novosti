@@ -1,6 +1,32 @@
 {
-  "updated": "2026-10-08T04:00:06.146Z",
+  "updated": "2026-10-09T04:00:15.201Z",
   "items": [
+    {
+      "id": "2026-10-08-dctym4",
+      "date": "2026-10-08",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kraj nekretninske krize u Kini? Peking i Šangaj na putu oporavka",
+      "summary": "Prema procjenama S&P-a, kinesko tržište nekretnina izlazi iz najteže faze. Peking i Šangaj mogli bi se početi oporavljati već sljedeće godine.",
+      "fbQuestion": "Kako mislite da će oporavak kineskog tržišta nekretnina utjecati na globalno tržište?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/nazire-se-kraj-nekretninske-krize-u-kini-peking-i-sangaj-bi-se-prvi-mogli-oporaviti/2843462.aspx"
+      }
+    },
+    {
+      "id": "2026-10-08-ybwikd",
+      "date": "2026-10-08",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Cijene nekretnina će ostati visoke bez promjena na tržištu",
+      "summary": "Emil Tedeschi ističe kako su cijene nekretnina i stanova u Hrvatskoj nedostižne za većinu građana. Naglašava povezanost hrvatske ekonomije s europskim tržištem te potrebu za promjenama.",
+      "fbQuestion": "Kako mislite da ćemo doći do povoljnijih cijena nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://net.hr/danas/rtl-danas/emil-tedeschi-s-ey-poduzetnik-poslao-snaznu-poruku-vladajucima-pozabavite-se-s-dvije-hrvatske-e7dffcb8-c343-11f1-936f-9600040c8f8e"
+      }
+    },
     {
       "id": "2026-10-06-xfc46w",
       "date": "2026-10-06",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/hrvatska/hoce-li-zakon-o-najmu-izazvati-suprotan-efekt-smanjiti-ponudu-i-podici-cijene-4554077"
-      }
-    },
-    {
-      "id": "2026-09-09-gvehbp",
-      "date": "2026-09-09",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Rasprava o ograničenju kupnje nekretnina za strance u Hrvatskoj",
-      "summary": "Rast cijena nekretnina na obali potaknuo je raspravu o mogućim ograničenjima za nerezidente. Mnogi lokalni stanovnici ističu zabrinutost zbog poskupljenja i iseljenja. Pitanje je hoće li regulative donijeti više koristi ili štete.",
-      "fbQuestion": "Što mislite, trebaju li stranci imati ograničenja pri kupnji nekretnina u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.tportal.hr/lifestyle/clanak/hrvati-raspravljaju-treba-li-strancima-ograniciti-kupnju-nekretnina-lokalci-vise-ne-mogu-ostati-zivjeti-ovdje-20260909"
-      }
-    },
-    {
-      "id": "2026-09-07-2ng9dr",
-      "date": "2026-09-07",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Prosječna cijena novog stana u Hrvatskoj blizu 3000 eura",
-      "summary": "Prema podacima DZS-a, prosječna cijena kvadrata novog stana u Hrvatskoj doseže skoro 3000 eura. U prvom polugodištu 2026. prodano je 1.618 novih stanova, od kojih je 530 u Zagrebu.",
-      "fbQuestion": "Kako vi gledate na rast cijena nekretnina u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/prosjecna-cijena-kvadrata-novog-stana-u-hrvatskoj-skoro-3000-eura/2831790.aspx"
       }
     }
   ]
