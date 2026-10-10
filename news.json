@@ -1,6 +1,32 @@
 {
-  "updated": "2026-10-09T04:00:15.201Z",
+  "updated": "2026-10-10T04:00:11.414Z",
   "items": [
+    {
+      "id": "2026-10-09-uyzd1u",
+      "date": "2026-10-09",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "APN primio 8041 zahtjev za potporu kupnji prve nekretnine",
+      "summary": "Agencija za pravni promet i posredovanje nekretninama zaprimila je do 9. listopada 2026. ukupno 8041 zahtjev za povrat poreza pri kupnji ili gradnji prve stambene nekretnine. Odobreno je isplata u iznosu većem od 39,7 milijuna eura kao mjera pomoći mladim građanima.",
+      "fbQuestion": "Kako vi gledate na potporu mladima pri kupnji prve nekretnine?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-8041-zahtjev-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20373"
+      }
+    },
+    {
+      "id": "2026-10-09-e0aju8",
+      "date": "2026-10-09",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu RH u Šibensko-kninskoj županiji",
+      "summary": "Od 16. studenoga 2026. otvoren je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Šibensko-kninskoj županiji. Ova prilika omogućava građanima i investitorima stjecanje državnih nekretnina.",
+      "fbQuestion": "Jeste li razmišljali o kupnji nekretnine u vlasništvu države? Što mislite o toj mogućnosti?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-sibensko-kninska-zupanija-20371/20371"
+      }
+    },
     {
       "id": "2026-10-08-dctym4",
       "date": "2026-10-08",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/vijesti-8/drzavne-nekretnine-nude-u-zakup-40-poslovnih-prostora-u-14-gradova-20291/20291"
-      }
-    },
-    {
-      "id": "2026-09-11-gijsim",
-      "date": "2026-09-11",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "APN zaprimio 7.479 zahtjeva za potporu mladima pri kupnji nekretnine",
-      "summary": "Agencija za pravni promet i posredovanje nekretninama zaprimila je 7.479 zahtjeva za potporu mladima pri kupnji ili gradnji prve stambene nekretnine do 11. rujna 2026. godine. Isplaćeno je više od 36,9 milijuna eura, a mjera je usmjerena na olakšavanje stambenog pitanja mladih građana.",
-      "fbQuestion": "Kakva su vaša iskustva s APN potporama za kupnju nekretnina?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-7-479-zahtjeva-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20289"
-      }
-    },
-    {
-      "id": "2026-09-09-qkt9gj",
-      "date": "2026-09-09",
-      "category": "zakoni",
-      "reliability": "medijsko",
-      "title": "Zakon o najmu: Hoće li smanjiti ponudu i povećati cijene nekretnina?",
-      "summary": "Kritike na račun predloženog zakona o najmu fokusiraju se na rokove otkazivanja ugovora te parametre povećanja najamnina. Mnogi se pitaju hoće li nova rješenja donijeti suprotan efekt i otežati pronalazak povoljnog smještaja.",
-      "fbQuestion": "Što mislite, hoće li novi zakon o najmu donijeti više koristi ili problema za iznajmljivače i najmoprimce?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/hrvatska/hoce-li-zakon-o-najmu-izazvati-suprotan-efekt-smanjiti-ponudu-i-podici-cijene-4554077"
       }
     }
   ]
