@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-10T04:00:11.414Z",
+  "updated": "2026-10-11T04:00:11.003Z",
   "items": [
+    {
+      "id": "2026-10-10-afw70r",
+      "date": "2026-10-10",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Visoke temperature i cijene nekretnina: Koje su posljedice?",
+      "summary": "Cijene stanova i kuća na Jadranu porasle su za devet posto u protekloj godini. Klimatski rizici, poput produženih toplinskih valova i ekstremnih vremenskih prilika, mogli bi utjecati na vrijednost nekretnina, posebno hotela. Stvara se pitanje kako će klima utjecati na cijene nekretnina u budućnosti.",
+      "fbQuestion": "Kako mislite da će klimatske promjene utjecati na cijene nekretnina u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/nekretnine/hoce-li-ekstremne-vrucine-i-oluje-poceti-rusiti-cijene-nekretnina-u-hrvatskoj-4558604"
+      }
+    },
     {
       "id": "2026-10-09-uyzd1u",
       "date": "2026-10-09",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/hrvatska/apn-zaprimio-gotovo-7500-zahtjeva-za-povrat-poreza-4554443"
-      }
-    },
-    {
-      "id": "2026-09-11-x7ftni",
-      "date": "2026-09-11",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "40 poslovnih prostora u 14 gradova na javnom natječaju",
-      "summary": "Državne nekretnine organiziraju javni natječaj za zakup 40 poslovnih prostora u 14 gradova. Ponude se mogu podnositi do 18. rujna 2026. godine do 12 sati.",
-      "fbQuestion": "Koji su vaši kriteriji pri odabiru poslovnog prostora za zakup?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/drzavne-nekretnine-nude-u-zakup-40-poslovnih-prostora-u-14-gradova-20291/20291"
       }
     }
   ]
