@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-12T04:00:06.508Z",
+  "updated": "2026-10-13T04:00:09.165Z",
   "items": [
+    {
+      "id": "2026-10-12-mjol98",
+      "date": "2026-10-12",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske K-4/26",
+      "summary": "Nekretnine u vlasništvu Republike Hrvatske bit će dostupne za kupnju. Rok za podnošenje ponuda je do 13. studenoga 2026. godine u 12:00 sati.",
+      "fbQuestion": "Koje nekretnine biste voljeli vidjeti na ponudi državne imovine?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-k-4-26/20376"
+      }
+    },
     {
       "id": "2026-10-10-afw70r",
       "date": "2026-10-10",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/trzista/razina-osigurateljne-zastite-imovine-raste-sporije-od-rizika-4554219"
-      }
-    },
-    {
-      "id": "2026-09-11-738bko",
-      "date": "2026-09-11",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "APN zaprimio gotovo 7500 zahtjeva za povrat poreza",
-      "summary": "APN je zaprimio blizu 7500 zahtjeva za povrat poreza, što ukazuje na veliki interes mladih građana i obitelji za mjerama pomoći. Ova inicijativa ima za cilj olakšati rješavanje stambenih pitanja.",
-      "fbQuestion": "Kako mislite da će ova mjera utjecati na dostupnost stambenih rješenja mladima?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/hrvatska/apn-zaprimio-gotovo-7500-zahtjeva-za-povrat-poreza-4554443"
       }
     }
   ]
