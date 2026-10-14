@@ -1,6 +1,84 @@
 {
-  "updated": "2026-10-13T04:00:09.165Z",
+  "updated": "2026-10-14T04:00:25.821Z",
   "items": [
+    {
+      "id": "2026-10-13-yb5m08",
+      "date": "2026-10-13",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "Povećanje poreza na prazne stanove u Zagrebu",
+      "summary": "Tomašević predlaže povećanje poreza na prazne stanove na osam eura po kvadratu. Cilj ovog prijedloga je potaknuti vlasnike na dugoročni najam i aktivirati prazne nekretnine u Zagrebu.",
+      "fbQuestion": "Kako mislite da će povećanje poreza utjecati na tržište nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/tomasevic-dize-porez-na-prazne-stanove-tko-ce-ga-placati-a-tko-nece/2845117.aspx"
+      }
+    },
+    {
+      "id": "2026-10-13-3k1d6j",
+      "date": "2026-10-13",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Država prodaje 25 nekretnina, stan u Zagrebu od 29.200 eura",
+      "summary": "Državne nekretnine su na prodaju putem javnog natječaja, uključujući 25 nekretnina u Zagrebu, Slavonskom Brodu i Varaždinu. Zainteresirani kupci mogu dostaviti ponude do 13. studenoga 2026. do 12 sati.",
+      "fbQuestion": "Planirate li sudjelovati u javnom natječaju za državne nekretnine?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/foto-drzava-prodaje-hrpu-nekretnina-stan-u-zagrebu-od-29200-eura-pogledajte/2845053.aspx"
+      }
+    },
+    {
+      "id": "2026-10-13-3ctfzy",
+      "date": "2026-10-13",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "Zagreb povećava porez na nekretnine sa 5 na 8 eura po m2",
+      "summary": "Gradonačelnik Tomislav Tomašević najavio je povećanje poreza na nekretnine u Zagrebu sa 5 na 8 eura po četvornom metru godišnje. Ovo povećanje od 60 posto predstavlja najviši iznos koji je zakonom dopušten.",
+      "fbQuestion": "Kako se povećanje poreza na nekretnine odražava na vaše planove za kupovinu ili prodaju nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/tomasevic-potvrdio-veliko-dizanje-poreza-u-zagrebu-smatramo-da-je-to-nuzno/2845063.aspx"
+      }
+    },
+    {
+      "id": "2026-10-13-e57fs2",
+      "date": "2026-10-13",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Povećanje ponude nekretnina može stabilizirati cijene",
+      "summary": "Prema analizama Nekretninskog pulsa, rast ponude novih nekretnina mogao bi pomoći u hlađenju cijena na tržištu. Također, ističe se da su cijene nekretnina najbrže rasle izvan Zagreba i obale.",
+      "fbQuestion": "Kako mislite da će se promjena ponude nekretnina odraziti na cijene?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/vijesti/povecanje-ponude-novih-nekretnina-najbolji-je-kanal-za-hladenje-cijena-4559245"
+      }
+    },
+    {
+      "id": "2026-10-13-dr9bg5",
+      "date": "2026-10-13",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Boro Vujović analizira rast poreza na nekretnine i posljedice na tržište",
+      "summary": "Stručnjak za tržište nekretnina Boro Vujović komentira najavljeni rast poreza na nekretnine u Zagrebu. Prema njegovom mišljenju, ne možemo očekivati promjene u cijenama stanova i najma sve dok se ne riješe osnovni problemi na tržištu.",
+      "fbQuestion": "Kako mislite da će rast poreza na nekretnine utjecati na cijene stanova u Zagrebu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://net.hr/danas/rtl-direkt/strucnjak-za-nekretnine-kod-mojmire-o-rastu-poreza-915d8923-c73d-11f1-936f-9600040c8f8e"
+      }
+    },
+    {
+      "id": "2026-10-13-7cavhr",
+      "date": "2026-10-13",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Novi natječaj za prodaju državnih stanova i garaža u Hrvatskoj",
+      "summary": "Državne nekretnine objavile su četvrti ovogodišnji javni natječaj za prodaju stanova i garaža. U ponudi se nalazi 25 nekretnina u Zagrebu, Slavonskom Brodu i Varaždinu, a ponude se mogu dostaviti do 13. studenoga 2026. godine.",
+      "fbQuestion": "Planirate li sudjelovati na natječaju za državne nekretnine?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/drzavne-nekretnine-objavile-novi-natjecaj-za-prodaju-stanova-i-garaza/20381"
+      }
+    },
     {
       "id": "2026-10-12-mjol98",
       "date": "2026-10-12",
@@ -441,84 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/vijesti-8/vlada-donijela-odluku-o-osnivanju-prava-gradjenja-u-korist-grada-splita-radi-izgradnje-nogometnog-kampa/20302"
-      }
-    },
-    {
-      "id": "2026-09-17-1i3ejx",
-      "date": "2026-09-17",
-      "category": "zakoni",
-      "reliability": "medijsko",
-      "title": "Objavljeni novi propisi za stambeno zbrinjavanje",
-      "summary": "U 'Narodnim novinama' broj 103/26 objavljeni su novi propisi vezani uz stambeno zbrinjavanje na potpomognutim područjima. Uredba uključuje izmjene prodajnih cijena obiteljskih kuća ili stanova u državnom vlasništvu te kriterije za bodovanje prijava.",
-      "fbQuestion": "Kako mislite da će nove uredbe utjecati na stambeno zbrinjavanje u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/propisi-ministarstva-objavljeni-u-narodnim-novinama-4846/4846"
-      }
-    },
-    {
-      "id": "2026-09-14-1xj5lu",
-      "date": "2026-09-14",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "U Resniku 30 zgrada za priuštivo stanovanje uz nove modele zbrinjavanja",
-      "summary": "Državna tajnica Sanja Bošnjak predstavila je planove za izgradnju 30 zgrada u Resniku. Ovi projekti uključuju prijenos državnog zemljišta na APN te usklađivanje uredbi sa Zakonom o stambenom zbrinjavanju.",
-      "fbQuestion": "Kako ocjenjujete nove modele stambenog zbrinjavanja u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/u-resniku-30-zgrada-za-priustivo-stanovanje-uvode-se-novi-modeli-stambenog-zbrinjavanja/20297"
-      }
-    },
-    {
-      "id": "2026-09-14-mlyetx",
-      "date": "2026-09-14",
-      "category": "zakoni",
-      "reliability": "medijsko",
-      "title": "Novi zakon o najmu donosi promjene za stanodavce i podstanare",
-      "summary": "U Hrvatskoj se priprema novi Zakon o najmu stanova koji će urediti odnose između najmoprimaca i najmodavaca. Cilj zakona je smanjiti nesigurnosti na tržištu dugoročnog najma, uključujući stabilizaciju cijena najamnina. Očekuje se da će novi propisi donijeti veće zaštite za obje strane.",
-      "fbQuestion": "Kako mislite da će novi zakon utjecati na tržište najma u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/uskoro-novi-zakon-o-najmu-sto-se-sve-mijenja-za-stanodavce-i-podstanare/20292"
-      }
-    },
-    {
-      "id": "2026-09-13-yr0w1k",
-      "date": "2026-09-13",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Građanima vraćeno gotovo 37 milijuna eura za prvu nekretninu",
-      "summary": "Do 11. rujna 2023. godine, APN je zaprimio 7.479 zahtjeva za poticaje. Od toga, obrađeno je 6.249 zahtjeva, uz povrat gotovo 37 milijuna eura građanima.",
-      "fbQuestion": "Kako ocjenjujete poticaje za mlade obitelji prilikom kupnje prve nekretnine?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/nekretnine/gradanima-za-prvu-nekretninu-vraceno-gotovo-37-milijuna-eura-4554552"
-      }
-    },
-    {
-      "id": "2026-09-12-6ue6gj",
-      "date": "2026-09-12",
-      "category": "zakoni",
-      "reliability": "medijsko",
-      "title": "Novi zakon o najmu stanova donosi promjene za podstanare i stanodavce",
-      "summary": "Vlada priprema novi Zakon o najmu stanova koji će jasnije urediti odnose između najmoprimaca i najmodavaca. Zakon će ograničiti povećavanje najamnina i ubrzati postupke iseljenja kada se ugovor ne poštuje, a trebao bi stupiti na snagu 1. siječnja 2027. godine.",
-      "fbQuestion": "Kako mislite da će novi zakon o najmu utjecati na tržište stanova?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/novi-zakon-o-najmu-stanova-donosi-veliku-promjenu-i-za-podstanare-i-za-stanodavce/2833801.aspx"
-      }
-    },
-    {
-      "id": "2026-09-12-u16ixi",
-      "date": "2026-09-12",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Hrvati ulažu milijarde u nekretnine, ali slabo se osiguravaju",
-      "summary": "Cijene nekretnina i građevinskih radova su u porastu, što povećava rizik od podosiguranosti. Bojan Letica iz Croatia osiguranja upozorava na nužnost zaštite imovine. Unatoč velikim ulaganjima, osiguranje ostaje nedovoljno iskorišteno.",
-      "fbQuestion": "Kako vi štitite svoju nekretninu od rizika?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/trzista/razina-osigurateljne-zastite-imovine-raste-sporije-od-rizika-4554219"
       }
     }
   ]
