@@ -1,6 +1,32 @@
 {
-  "updated": "2026-10-14T04:00:25.821Z",
+  "updated": "2026-10-15T04:00:12.608Z",
   "items": [
+    {
+      "id": "2026-10-14-gbeewl",
+      "date": "2026-10-14",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "Povećanje poreza na nekretnine u Zagrebu prema prijedlogu SDP-a",
+      "summary": "Klub gradskih zastupnika SDP-a podržava prijedlog gradonačelnika Tomaševića o povećanju poreza na nekretnine s pet na osam eura po četvornom metru. Ovaj prijedlog bit će razmatran na sjednici Gradske skupštine.",
+      "fbQuestion": "Kako bi povećanje poreza na nekretnine utjecalo na tržište stanova u Zagrebu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/sdpovac-za-kupnju-stana-od-60-kvadrata-u-zagrebu-treba-12-godina-placa/2845569.aspx"
+      }
+    },
+    {
+      "id": "2026-10-14-b1x332",
+      "date": "2026-10-14",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Novi Sad privlači investitore, potražnja za stanovima ne prestaje",
+      "summary": "Cijene nekretnina u Novom Sadu nastavljaju rasti, ali potražnja za stanovima ne usporava. Sve više kupaca dolazi iz BiH, tražeći prilike za ulaganje.",
+      "fbQuestion": "Što mislite, hoće li rast cijena nekretnina u Novom Sadu utjecati na potražnju?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/vijesti/novi-sad-magnet-za-ulagace-u-nekretnine-kupci-dolaze-i-iz-bih-4559466"
+      }
+    },
     {
       "id": "2026-10-13-yb5m08",
       "date": "2026-10-13",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/hrvatska/i-ova-opcina-daje-do-10-000-eura-za-kupnju-prve-kuce-ili-stana-prijave-su-upravo-otvorene-4555476"
-      }
-    },
-    {
-      "id": "2026-09-17-nugcjn",
-      "date": "2026-09-17",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Grad Zagreb kupuje nekretnine u Paromlinskoj za skoro dva milijuna eura",
-      "summary": "Grad Zagreb planira kupiti nekretnine u Paromlinskoj vrijedne gotovo dva milijuna eura. Ove transakcije dio su šireg projekta preoblikovanja Cibone te ulaganja u škole i modernizaciju toplinske mreže.",
-      "fbQuestion": "Kako ocjenjujete ulaganje Grada Zagreba u nekretnine u Paromlinskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/grad-zagreb-kupuje-nekretnine-u-paromlinskoj-vrijedne-su-gotovo-dva-milijuna-eura/2835870.aspx"
-      }
-    },
-    {
-      "id": "2026-09-17-1dahlz",
-      "date": "2026-09-17",
-      "category": "zakoni",
-      "reliability": "medijsko",
-      "title": "Odluka o osnivanju prava građenja za nogometni kamp u Splitu",
-      "summary": "Vlada Republike Hrvatske donijela je odluku o osnivanju prava građenja u korist Grada Splita. Ova odluka omogućuje izgradnju suvremenog nogometnog kampa na nekretnini u vlasništvu države u Stobreču.",
-      "fbQuestion": "Kako vidite utjecaj nogometnog kampa na razvoj Splita?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/vlada-donijela-odluku-o-osnivanju-prava-gradjenja-u-korist-grada-splita-radi-izgradnje-nogometnog-kampa/20302"
       }
     }
   ]
