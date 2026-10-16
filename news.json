@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-15T04:00:12.608Z",
+  "updated": "2026-10-16T04:00:07.968Z",
   "items": [
+    {
+      "id": "2026-10-15-q8ad6x",
+      "date": "2026-10-15",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "Tomašević: Čak 55.000 stanova u Zagrebu prazno",
+      "summary": "Gradonačelnik Zagreba Tomislav Tomašević istaknuo je zabrinjavajući broj od 55.000 praznih stanova u gradu. Također je naglasio potrebu za povećanjem poreza na nekretnine s pet na osam eura po četvornom metru godišnje.",
+      "fbQuestion": "Što mislite o povećanju poreza na nekretnine u Zagrebu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/tomasevic-nije-normalno-da-je-cak-55000-stanova-u-zagrebu-prazno/2846075.aspx"
+      }
+    },
     {
       "id": "2026-10-14-gbeewl",
       "date": "2026-10-14",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/hrvatska/grad-zagreb-rasprodaje-nekretnine-cijene-krecu-vec-od-11-600-eura-4555475"
-      }
-    },
-    {
-      "id": "2026-09-19-6237xi",
-      "date": "2026-09-19",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Općina nudi do 10.000 eura za kupnju nekretnine, prijave otvorene",
-      "summary": "Općina stavlja na raspolaganje do 10.000 eura za sufinanciranje kupnje nekretnine. Jedan od uvjeta je da se nekretnina ne može kupiti na dosadašnjoj adresi prebivališta podnositelja zahtjeva.",
-      "fbQuestion": "Kako mislite da ovakve poticajne mjere utječu na tržište nekretnina?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/hrvatska/i-ova-opcina-daje-do-10-000-eura-za-kupnju-prve-kuce-ili-stana-prijave-su-upravo-otvorene-4555476"
       }
     }
   ]
