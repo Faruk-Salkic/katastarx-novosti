@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-18T04:00:08.217Z",
+  "updated": "2026-10-19T04:00:08.465Z",
   "items": [
+    {
+      "id": "2026-10-18-zgt43k",
+      "date": "2026-10-18",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "HŽ planira investiciju od 44 milijuna eura za nekretnine",
+      "summary": "HŽ Putnički prijevoz planira investirati 44 milijuna eura u nekretnine kako bi osigurao prostor za održavanje i garažiranje vlakova. Ova investicija predstavlja brže i jeftinije rješenje u odnosu na izgradnju novog tehničko-logističkog centra vrijedan 130 milijuna eura.",
+      "fbQuestion": "Kako mislite da će ova investicija utjecati na razvoj željezničkog prometa u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/kompanije/hz-ide-po-dio-gredelja-za-nekretnine-i-imovinu-planira-44-milijuna-eura-4559950"
+      }
+    },
     {
       "id": "2026-10-17-4pdt9x",
       "date": "2026-10-17",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/stan-od-63-kvadrata-u-zagrebu-za-350000-eura-nazalost-to-je-nova-realnost/2838205.aspx"
-      }
-    },
-    {
-      "id": "2026-09-23-ldn9kp",
-      "date": "2026-09-23",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Cijene nekretnina u Sloveniji znatno porasle, Maribor na vrhu rasta",
-      "summary": "U drugom tromjesečju 2023. godine, ukupna vrijednost stambenih nekretnina u Sloveniji iznosila je 551,7 milijuna eura. Maribor predvodi s najvećim porastom vrijednosti nekretnina.",
-      "fbQuestion": "Kako mislite da će se cijene nekretnina u Sloveniji kretati u budućnosti?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/nekretnine/nekretnine-u-sloveniji-snazno-poskupjele-maribor-predvodi-rast-4556234"
       }
     }
   ]
