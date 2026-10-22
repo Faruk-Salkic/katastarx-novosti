@@ -1,6 +1,32 @@
 {
-  "updated": "2026-10-21T04:00:09.230Z",
+  "updated": "2026-10-22T04:00:17.224Z",
   "items": [
+    {
+      "id": "2026-10-21-e7rust",
+      "date": "2026-10-21",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "Zadar uvodi novi porez na nekretnine s različitim zonama",
+      "summary": "Grad Zadar planira povećanje poreza na nekretnine kroz uvođenje tri nove zone. Dosadašnji jedinstveni iznos od 0,60 eura po četvornom metru zamijenit će iznosi od 5 eura na Poluotoku, 3 eura na kopnu te 2 eura na otocima.",
+      "fbQuestion": "Kako će novo povećanje poreza na nekretnine utjecati na tržište u Zadru?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.tportal.hr/vijesti/clanak/zadar-poput-zagreba-odlucio-dignuti-porez-na-nekretnine-uvode-se-tri-zone-20261021"
+      }
+    },
+    {
+      "id": "2026-10-21-6g37ag",
+      "date": "2026-10-21",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Bjelovarsko-bilogorskoj županiji",
+      "summary": "Rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Bjelovarsko-bilogorskoj županiji je 23. studenoga 2026. do 10 sati. Ove informacije su važne za sve potencijalne kupce koji žele investirati u ovu regiju.",
+      "fbQuestion": "Planirate li investirati u nekretnine u Bjelovarsko-bilogorskoj županiji?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-bjelovarsko-bilogorska-zupanija-20406/20406"
+      }
+    },
     {
       "id": "2026-10-20-eqy6yn",
       "date": "2026-10-20",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-primorsko-goranska-zupanija-20332/20332"
-      }
-    },
-    {
-      "id": "2026-09-25-56buyt",
-      "date": "2026-09-25",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske - Brodsko-posavska županija",
-      "summary": "Objavljen je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske. Ponude se primaju do 28. listopada 2026. godine u 13:00 sati.",
-      "fbQuestion": "Jeste li razmišljali o kupnji nekretnine u vlasništvu države? Kakva su vaša iskustva?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-brodsko-posavska-zupanija-20330/20330"
-      }
-    },
-    {
-      "id": "2026-09-25-cwrryw",
-      "date": "2026-09-25",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske - Grad Čakovec",
-      "summary": "Grad Čakovec nudi nekretnine u vlasništvu Republike Hrvatske na prodaju. Rok za podnošenje ponuda je 30. listopada 2026. godine do 12:00 sati.",
-      "fbQuestion": "Kako ocjenjujete interes za kupnju državnih nekretnina u Čakovcu?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-grad-cakovec-20328/20328"
       }
     }
   ]
