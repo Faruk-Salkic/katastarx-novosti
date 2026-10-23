@@ -1,6 +1,45 @@
 {
-  "updated": "2026-10-22T04:00:17.224Z",
+  "updated": "2026-10-23T04:00:19.292Z",
   "items": [
+    {
+      "id": "2026-10-22-0aovvc",
+      "date": "2026-10-22",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Hrvatska: Fokus na kvalitetu luksuznih nekretnina i investicija",
+      "summary": "Hrvatska se ističe velikim potencijalom u segmentu luksuznih nekretnina. Sve više se naglašava kvaliteta koja opravdava cijenu, umjesto samog pogleda na more.",
+      "fbQuestion": "Koje karakteristike luksuznih nekretnina su vam najvažnije?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/financije/vise-ne-prodajemo-samo-pogled-na-more-nego-kvalitetu-koja-opravdava-cijenu-4560758"
+      }
+    },
+    {
+      "id": "2026-10-22-qdfnup",
+      "date": "2026-10-22",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Cijene nekretnina visoke unatoč smanjenoj prodaji",
+      "summary": "Unatoč smanjenoj prodaji nekretnina, cijene ostaju visoke zbog većeg prostora za pregovore. Kada prodavatelji postanu spremniji prihvatiti niže cijene, to će se pozitivno odraziti na tržište.",
+      "fbQuestion": "Kako vi gledate na trenutne cijene nekretnina? Mislite li da će se smanjiti?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/financije/zasto-cijene-nekretnina-ostajuvisoke-unatoc-smanjenoj-prodaji-4560755"
+      }
+    },
+    {
+      "id": "2026-10-22-caxl1f",
+      "date": "2026-10-22",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "Građani čekaju Poreznu upravu oko povrata poreza na nekretnine",
+      "summary": "Pet tisuća Hrvata mjesecima čeka odgovore Porezne uprave vezane uz povrat poreza na nekretnine. Čekanje traje već sedam mjeseci, a građani su zbunjeni situacijom.",
+      "fbQuestion": "Jeste li i vi iskusili probleme s Poreznom upravom vezano uz povrat poreza?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://net.hr/danas/rtl-danas/porezna-uprava-jos-rjesava-5000-zalbi-na-porez-na-nekretnine-35c7b7f1-ce36-11f1-936f-9600040c8f8e"
+      }
+    },
     {
       "id": "2026-10-21-e7rust",
       "date": "2026-10-21",
@@ -480,45 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/hdzov-eurozastupnik-mladi-u-rh-napustaju-roditeljski-dom-tek-s-31-i-pol-godinom/2839627.aspx"
-      }
-    },
-    {
-      "id": "2026-09-28-2xl7kf",
-      "date": "2026-09-28",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "APN zaprimio 7.780 zahtjeva za potporu mladima pri kupnji nekretnine",
-      "summary": "Agencija za pravni promet i posredovanje nekretninama zaprimila je 7.780 zahtjeva za potporu pri kupnji ili gradnji prve stambene nekretnine do 25. rujna 2026. godine. Isplata odobrena kroz ovu mjeru pomoći iznosi više od 38,2 milijuna eura.",
-      "fbQuestion": "Kako se vi snalazite u potrazi za prvim stambenim rješenjem?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-7-780-zahtjeva-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20335"
-      }
-    },
-    {
-      "id": "2026-09-25-m8i53g",
-      "date": "2026-09-25",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "SID banci 300 milijuna eura za povoljno stanovanje",
-      "summary": "Europska investicijska banka (EIB) odobrila je 300 milijuna eura za financiranje stanova s reguliranim najamninama. Ova obveza od 30 godina usmjerena je na poboljšanje pristupačnog stanovanja u Hrvatskoj.",
-      "fbQuestion": "Kako mislite da će ova sredstava utjecati na tržište stanovanja?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/regija/sid-banci-300-milijuna-eura-za-priustivo-stanovanje-4556662"
-      }
-    },
-    {
-      "id": "2026-09-25-s3zfip",
-      "date": "2026-09-25",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u PGŽ",
-      "summary": "Republika Hrvatska nudi na prodaju nekretnine u Primorsko-goranskoj županiji. Rok za podnošenje ponuda je 27. listopada 2026. do 12:00 sati.",
-      "fbQuestion": "Jeste li već razmislili o kupnji nekretnine u državnom vlasništvu?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-primorsko-goranska-zupanija-20332/20332"
       }
     }
   ]
