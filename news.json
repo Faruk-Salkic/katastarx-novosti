@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-23T04:00:19.292Z",
+  "updated": "2026-10-24T04:00:12.473Z",
   "items": [
+    {
+      "id": "2026-10-23-77zily",
+      "date": "2026-10-23",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Visoke cijene nekretnina unatoč smanjenoj prodaji",
+      "summary": "Cijene nekretnina ostaju visoke unatoč smanjenoj prodaji, što se manifestira kroz veći prostor za pregovore i neostvarene kupoprodaje. Prava promjena mogla bi nastupiti tek kada više prodavatelja prihvati niže cijene.",
+      "fbQuestion": "Mislite li da će cijene nekretnina konačno pasti ili će ostati visoke?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/trzista/zasto-cijene-nekretnina-ostajuvisoke-unatoc-smanjenoj-prodaji-4560755"
+      }
+    },
     {
       "id": "2026-10-22-0aovvc",
       "date": "2026-10-22",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-sibensko-kninska-zupanija-20340/20340"
-      }
-    },
-    {
-      "id": "2026-09-28-a8kv47",
-      "date": "2026-09-28",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Mladi u RH napuštaju roditeljski dom s 31,5 godina zbog visokih cijena nekretnina",
-      "summary": "Tomislav Sokol, europarlamentarac iz HDZ-a, istaknuo je problem dostupnosti stanovanja za mlade u Hrvatskoj. Cijene nekretnina se od 2010. godine više nego udvostručile, što otežava odlaske mladih iz roditeljskih domova.",
-      "fbQuestion": "Kako mislite da bismo mogli poboljšati dostupnost stanovanja za mlade u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/hdzov-eurozastupnik-mladi-u-rh-napustaju-roditeljski-dom-tek-s-31-i-pol-godinom/2839627.aspx"
       }
     }
   ]
