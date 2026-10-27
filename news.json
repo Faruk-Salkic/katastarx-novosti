@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-25T05:00:06.873Z",
+  "updated": "2026-10-27T05:00:08.422Z",
   "items": [
+    {
+      "id": "2026-10-26-ky6d90",
+      "date": "2026-10-26",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Požeško-slavonskoj županiji",
+      "summary": "Kupnja nekretnina u vlasništvu Republike Hrvatske omogućava mogućnosti za investitore. Rok za podnošenje ponuda je do 15. prosinca 2026. godine do 15 sati. Ovaj proces može otvoriti vrata novim projektima i razvoju u regiji.",
+      "fbQuestion": "Kakva su vaša iskustva s kupnjom nekretnina u vlasništvu države?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-pozesko-slavonska-zupanija/20420"
+      }
+    },
     {
       "id": "2026-10-23-77zily",
       "date": "2026-10-23",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/vijesti-8/vlada-donijela-odluku-o-darovanju-nekretnine-u-k-o-kosute-gradu-trilju/20339"
-      }
-    },
-    {
-      "id": "2026-09-29-98mxr3",
-      "date": "2026-09-29",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Šibensko-kninskoj županiji",
-      "summary": "Objavljen je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Šibensko-kninskoj županiji. Ponude se mogu podnositi do 3. studenoga 2026. do 10 sati.",
-      "fbQuestion": "Jeste li razmišljali o kupnji nekretnine u vlasništvu države? Koje su vaše misli o tome?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-sibensko-kninska-zupanija-20340/20340"
       }
     }
   ]
