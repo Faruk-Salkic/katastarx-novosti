@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-28T05:00:07.741Z",
+  "updated": "2026-10-30T05:00:08.277Z",
   "items": [
+    {
+      "id": "2026-10-29-lg2z5f",
+      "date": "2026-10-29",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Vlada donijela odluku o darovanju nekretnina Gradu Bakru",
+      "summary": "Na sjednici Vlade Republike Hrvatske usvojena je odluka o darovanju nekretnina Gradu Bakru. Ova odluka omogućit će proširenje Industrijske zone Kukuljanovo, važnog gospodarskog središta Primorsko-goranske županije.",
+      "fbQuestion": "Kako mislite da će proširenje ove industrijske zone utjecati na lokalnu ekonomiju?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/na-vladi-usvojena-odluka-o-darovanju-nekretnina-gradu-bakru-za-prosirenje-industrijske-zone-kukuljanovo/20433"
+      }
+    },
     {
       "id": "2026-10-26-ky6d90",
       "date": "2026-10-26",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-varazdinska-zupanija-20345/20345"
-      }
-    },
-    {
-      "id": "2026-09-28-02us5z",
-      "date": "2026-09-28",
-      "category": "zakoni",
-      "reliability": "medijsko",
-      "title": "Vlada darovala nekretninu Gradu Trilju za razvoj sadržaja",
-      "summary": "Na sjednici Vlade donesena je Odluka o darovanju nekretnine u k.o. Košute Gradu Trilju. Nekretnina ukupne površine 7479 m² bit će prenamijenjena za razvoj sportskih, kulturnih i društvenih sadržaja.",
-      "fbQuestion": "Kako mislite da će darovana nekretnina utjecati na razvoj Trilja?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/vlada-donijela-odluku-o-darovanju-nekretnine-u-k-o-kosute-gradu-trilju/20339"
       }
     }
   ]
