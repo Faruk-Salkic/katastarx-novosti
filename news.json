@@ -1,6 +1,32 @@
 {
-  "updated": "2026-10-30T05:00:08.277Z",
+  "updated": "2026-10-31T05:00:12.859Z",
   "items": [
+    {
+      "id": "2026-10-30-3opzyh",
+      "date": "2026-10-30",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "Porez na nekretnine u Zagrebu izaziva kritike",
+      "summary": "Predstavnici Unije Kvarnera izrazili su nezadovoljstvo odlukom Grada Zagreba vezano uz porez na nekretnine. Oni smatraju da je trenutni sustav oporezivanja nepravedan prema građanima.",
+      "fbQuestion": "Što vi mislite o trenutnom sustavu poreza na nekretnine u Zagrebu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/unija-kvarnera-porez-na-nekretnine-je-nepravedan/2851615.aspx"
+      }
+    },
+    {
+      "id": "2026-10-30-jochp8",
+      "date": "2026-10-30",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske - Grad Pazin",
+      "summary": "Grad Pazin oglašava rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske. Ponude se mogu podnositi do 2. prosinca 2026. do 10 sati.",
+      "fbQuestion": "Planirate li investirati u nekretnine u Pazinu? Što mislite o ovoj ponudi?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-grad-pazin-20440/20440"
+      }
+    },
     {
       "id": "2026-10-29-lg2z5f",
       "date": "2026-10-29",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/cijene-nekretnina-u-hrvatskoj-skocile-127-broj-prodaja-pao-za-trecinu/2840766.aspx"
-      }
-    },
-    {
-      "id": "2026-10-01-nveo36",
-      "date": "2026-10-01",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Položen kamen temeljac za stanove u Dugoj Resi",
-      "summary": "U Dugoj Resi položen je kamen temeljac za višestambenu zgradu s 25 stanova za priuštivo stanovanje. Investicija iznosi oko 3,4 milijuna eura, a završetak radova predviđen je za godinu dana.",
-      "fbQuestion": "Kako mislite da će novi stanovi utjecati na dostupnost stanovanja u Dugoj Resi?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/polozen-kamen-temeljac-za-visestambenu-zgradu-u-dugoj-resi/20348"
-      }
-    },
-    {
-      "id": "2026-09-30-oi3ps7",
-      "date": "2026-09-30",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske - Varaždinska županija",
-      "summary": "Do 4. studenoga 2026. godine do 10:00 sati otvorene su ponude za kupnju nekretnina u vlasništvu Republike Hrvatske u Varaždinskoj županiji. Interesenti mogu podnijeti svoje ponude unutar ovog roka.",
-      "fbQuestion": "Jeste li ikada razmišljali o kupnji nekretnine u vlasništvu države?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-varazdinska-zupanija-20345/20345"
       }
     }
   ]
