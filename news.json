@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-01T05:00:07.147Z",
+  "updated": "2026-11-03T05:00:11.071Z",
   "items": [
+    {
+      "id": "2026-11-02-f1umr0",
+      "date": "2026-11-02",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Splitsko-dalmatinskoj županiji",
+      "summary": "Objavljen je natječaj za kupnju nekretnina u vlasništvu Republike Hrvatske u Splitsko-dalmatinskoj županiji. Rok za podnošenje ponuda je 3. prosinca 2026. godine.",
+      "fbQuestion": "Planirate li sudjelovati u ovom natječaju za kupnju nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-splitsko-dalmatinska-zupanija-20445/20445"
+      }
+    },
     {
       "id": "2026-10-30-3opzyh",
       "date": "2026-10-30",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/nekretnine/hrvatska-je-s-godisnjim-rastom-cijena-nekretnina-iznad-prosjeka-eu-a-najam-stana-porastao-za-22-posto-4557863"
-      }
-    },
-    {
-      "id": "2026-10-01-bh6z23",
-      "date": "2026-10-01",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Cijene nekretnina u Hrvatskoj porasle 12,7%, prodaja pala za 33%",
-      "summary": "Cijene nekretnina u Hrvatskoj zabilježile su porast od 12,7 posto, unatoč padu broja prodaja za jednu trećinu. Prosječna cijena kvadrata novogradnje doseže 3012 eura.",
-      "fbQuestion": "Kako se vi osjećate prema porastu cijena nekretnina u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/cijene-nekretnina-u-hrvatskoj-skocile-127-broj-prodaja-pao-za-trecinu/2840766.aspx"
       }
     }
   ]
