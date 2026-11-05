@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-04T05:00:12.172Z",
+  "updated": "2026-11-05T05:00:08.595Z",
   "items": [
+    {
+      "id": "2026-11-04-mezor7",
+      "date": "2026-11-04",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Čakovcu",
+      "summary": "Grad Čakovec nudi mogućnost kupnje nekretnina u vlasništvu Republike Hrvatske. Rok za podnošenje ponuda je 8. prosinca 2026. do 12 sati.",
+      "fbQuestion": "Planirate li sudjelovati u kupnji nekretnina u Čakovcu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-grad-cakovec-20447/20447"
+      }
+    },
     {
       "id": "2026-11-02-f1umr0",
       "date": "2026-11-02",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/zasto-cemo-biljeznicima-placati-vise-ako-nam-je-stanarina-skuplja/2837043.aspx"
-      }
-    },
-    {
-      "id": "2026-10-03-8ko3xr",
-      "date": "2026-10-03",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Cijene nekretnina u Hrvatskoj rastu brže od prosjeka EU-a",
-      "summary": "Unutar godinu dana, cijene nekretnina u Hrvatskoj porasle su za 2,7 posto, što premašuje prosjek Europske unije. Najam stanova također je značajno porastao, za 22 posto, što ukazuje na rastuću potražnju za stanovanjem.",
-      "fbQuestion": "Kako mislite, hoće li se rast cijena nekretnina nastaviti i u narednim godinama?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/nekretnine/hrvatska-je-s-godisnjim-rastom-cijena-nekretnina-iznad-prosjeka-eu-a-najam-stana-porastao-za-22-posto-4557863"
       }
     }
   ]
