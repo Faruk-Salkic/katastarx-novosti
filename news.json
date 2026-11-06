@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-05T05:00:08.595Z",
+  "updated": "2026-11-06T05:00:12.738Z",
   "items": [
+    {
+      "id": "2026-11-06-asf7hg",
+      "date": "2026-11-06",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Stambena kriza: Mladi plaćaju visoke najamnine bez mogućnosti kredita",
+      "summary": "U emisiji Otvoreno na HRT-u raspravljalo se o uzrocima stambene krize u Hrvatskoj. S dužnosnicima su razgovarali o problemima s najamninama i teškoćama mladih u ostvarivanju kredita za stambeno zbrinjavanje.",
+      "fbQuestion": "Koja su vaša rješenja za stambenu krizu mladih u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.tportal.hr/vijesti/clanak/stambena-kriza-sve-dublja-mladi-placaju-800-eura-najamnine-a-ne-mogu-dobiti-kredit-20261106"
+      }
+    },
     {
       "id": "2026-11-04-mezor7",
       "date": "2026-11-04",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-7925-zahtjeva-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20352"
-      }
-    },
-    {
-      "id": "2026-10-03-wb0drq",
-      "date": "2026-10-03",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Povećanje troškova solemnizacije uz rast cijena najamnina",
-      "summary": "Cijena solemnizacije sve više raste kada poraste i stanarina, iako posao bilježnika ostaje isti. Istražuju se razlozi za ovu povezanost troškova između najamnina i usluga bilježnika.",
-      "fbQuestion": "Kako vi gledate na rast troškova solemnizacije u odnosu na najamnine?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/zasto-cemo-biljeznicima-placati-vise-ako-nam-je-stanarina-skuplja/2837043.aspx"
       }
     }
   ]
