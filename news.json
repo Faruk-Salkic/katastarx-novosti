@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-06T05:00:12.738Z",
+  "updated": "2026-11-09T05:00:50.590Z",
   "items": [
+    {
+      "id": "2026-11-08-ax7l91",
+      "date": "2026-11-08",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Odluka Zagreba ne potiče vlasnike stanova na iznajmljivanje",
+      "summary": "Povećanje najamnine za dodatnih 20 eura mjesečno za stan od 80 m2 nije dovoljno motivacija za vlasnike koji su već odlučili zadržati nekretninu praznom. Ova odluka vjerojatno neće promijeniti trenutnu situaciju na tržištu stanova.",
+      "fbQuestion": "Što mislite, koji bi poticaji mogli potaknuti vlasnike da iznajmljuju svoje nekretnine?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/financije/zagrebacka-odluka-otvara-dugorocno-pitanje-kako-financirati-razvoj-i-odrzavanje-gradova-4562921"
+      }
+    },
     {
       "id": "2026-11-06-asf7hg",
       "date": "2026-11-06",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://net.hr/danas/rtl-danas/bez-toga-nema-cesta-pruga-ni-zgrada-d8023d4c-bf42-11f1-936f-9600040c8f8e"
-      }
-    },
-    {
-      "id": "2026-10-05-jbpxfh",
-      "date": "2026-10-05",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "APN zaprimio 7925 zahtjeva za potporu mladima pri kupnji prve nekretnine",
-      "summary": "Agencija za pravni promet i posredovanje nekretninama (APN) do 2. listopada 2026. zaprimila je 7925 zahtjeva za povrat poreza pri kupnji ili gradnji prve stambene nekretnine. Odobrena isplata iznosi više od 38,8 milijuna eura, a mjera je namijenjena mladim građanima i obiteljima.",
-      "fbQuestion": "Kako mislite da ove potpore utječu na stambeno zbrinjavanje mladih u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-7925-zahtjeva-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20352"
       }
     }
   ]
