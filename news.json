@@ -1,6 +1,32 @@
 {
-  "updated": "2026-11-09T05:00:50.590Z",
+  "updated": "2026-11-10T05:00:12.102Z",
   "items": [
+    {
+      "id": "2026-11-09-tqklwe",
+      "date": "2026-11-09",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Nekretninski 'boom' u Trebinju: Raste gradnja i prodaja",
+      "summary": "U Trebinju se bilježi značajna aktivnost na tržištu nekretnina. Cijene novogradnje dosežu 4.500 maraka po četvornome metru, što ukazuje na povećanu potražnju.",
+      "fbQuestion": "Što mislite o trenutnim cijenama nekretnina u Trebinju?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/financije/nekretninski-boom-u-trebinju-puno-se-gradi-ali-i-prodaje-4563356"
+      }
+    },
+    {
+      "id": "2026-11-09-cfjsze",
+      "date": "2026-11-09",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Javni natječaj za prodaju stanova i garaža u državnom vlasništvu",
+      "summary": "Državne nekretnine nude 25 nekretnina na javnom natječaju u Zagrebu, Slavonskom Brodu i Varaždinu. Najveći dio ponude odnosi se na Zagreb, gdje se prodaje 12 stanova, poslovni prostor i garaža s različitim početnim cijenama ovisno o lokaciji i površini.",
+      "fbQuestion": "Koje vam se nekretnine najviše sviđaju na javnom natječaju?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/drzavne-nekretnine-provode-javni-natjecaj-za-prodaju-stanova-i-garaza/20454"
+      }
+    },
     {
       "id": "2026-11-08-ax7l91",
       "date": "2026-11-08",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/regija/zbog-viza-turci-i-rusi-rasprodaju-svoje-nekretnine-u-budvi-4558062"
-      }
-    },
-    {
-      "id": "2026-10-05-4pvfq4",
-      "date": "2026-10-05",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Odobreno 39 milijuna eura za potporu mladima za prvu nekretninu",
-      "summary": "Vlada je odobrila 39 milijuna eura za podršku mladima u kupnji prve nekretnine. Prosječna dob podnositelja zahtjeva iznosi 32 godine, dok se najmlađi podnositelj javio s 18 godina.",
-      "fbQuestion": "Kako mislite da će ova potpora utjecati na tržište nekretnina za mlade?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/hrvatska/odobreno-39-milijuna-eura-za-potporu-mladima-za-prvu-nekretninu-4558056"
-      }
-    },
-    {
-      "id": "2026-10-06-0jd6mr",
-      "date": "2026-10-06",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Rast cijena stanova zbog problema s lokalnim kamenolomima",
-      "summary": "Analiza stručnjaka s Rudarsko-geološko-naftnog fakulteta otkriva da gašenje lokalnih kamenoloma utječe na troškove gradnje. Duži prijevoz mineralnih sirovina povećava ukupne troškove, što se odražava na cijene stanova.",
-      "fbQuestion": "Kako mislite da bi se problemi s dostupnošću kamenoloma mogli odraziti na tržište nekretnina?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://net.hr/danas/rtl-danas/bez-toga-nema-cesta-pruga-ni-zgrada-d8023d4c-bf42-11f1-936f-9600040c8f8e"
       }
     }
   ]
