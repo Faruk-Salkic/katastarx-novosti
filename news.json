@@ -1,6 +1,32 @@
 {
-  "updated": "2026-11-10T05:00:12.102Z",
+  "updated": "2026-11-11T05:00:12.994Z",
   "items": [
+    {
+      "id": "2026-11-10-ywiwm4",
+      "date": "2026-11-10",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Cijene stanarina u Njemačkoj rastu brže od stambenih kredita",
+      "summary": "Stanarine u Njemačkoj rastu zbog velikog manjka stambenog prostora. Prema izvješću bankarskog udruženja VDP, taj rast nadmašuje rast cijena stambenih kvadrata.",
+      "fbQuestion": "Kako rast cijena stanarina utječe na vaše planove za preseljenje?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/cijene-stanarina-u-njemackoj-rastu-brze-od-stambenih-kredita/2855354.aspx"
+      }
+    },
+    {
+      "id": "2026-11-10-uj03if",
+      "date": "2026-11-10",
+      "category": "krediti",
+      "reliability": "medijsko",
+      "title": "Srbija obustavila nove zahtjeve za stambene kredite mladima",
+      "summary": "Subvencionirani stambeni krediti za mlade u Srbiji više nisu dostupni novim korisnicima. Ovo uključuje minimalno vlastito učešće od jedan posto, što je do sada bilo uvjet za dobivanje kredita.",
+      "fbQuestion": "Kako mislite da će ova odluka utjecati na mlade u Srbiji?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/financije/srbija-zaustavila-nove-zahtjeve-za-stambene-kredite-mladima-4563530"
+      }
+    },
     {
       "id": "2026-11-09-tqklwe",
       "date": "2026-11-09",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/split-planira-gradnju-229-priustivih-stanova-na-tri-lokacije/2842506.aspx"
-      }
-    },
-    {
-      "id": "2026-10-05-gaooxc",
-      "date": "2026-10-05",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "Više od 5000 obitelji dobilo povrat poreza od APN-a",
-      "summary": "APN je isplatio gotovo 39 milijuna eura za prvu nekretninu, što je omogućilo više od 5000 mladih obitelji da ostvare prosječni povrat od 7581 eura. Ova mjera podržava stjecanje prvih nekretnina za mlade obitelji.",
-      "fbQuestion": "Kako mislite da će povrat poreza utjecati na kupnju prve nekretnine?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/vise-od-5000-obitelji-dobilo-povrat-poreza-isplacuje-se-gotovo-39-milijuna-eura/2842036.aspx"
-      }
-    },
-    {
-      "id": "2026-10-05-qh164l",
-      "date": "2026-10-05",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Turci i Rusi prodaju nekretnine u Budvi zbog viza",
-      "summary": "Zbog promjena u viznoj politici, mnogi turisti iz Turske i Rusije odlučili su se na prodaju svojih nekretnina u Budvi. Pad cijena najma stambenog prostora postao je očit, što ukazuje na promjene u lokalnom tržištu nekretnina.",
-      "fbQuestion": "Kako mislite da će ovo utjecati na tržište nekretnina u Budvi?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/regija/zbog-viza-turci-i-rusi-rasprodaju-svoje-nekretnine-u-budvi-4558062"
       }
     }
   ]
