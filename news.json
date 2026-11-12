@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-11T05:00:12.994Z",
+  "updated": "2026-11-12T05:00:10.100Z",
   "items": [
+    {
+      "id": "2026-11-11-5szyea",
+      "date": "2026-11-11",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Koprivničko-križevačkoj županiji",
+      "summary": "Građanima je omogućena kupnja nekretnina u vlasništvu Republike Hrvatske u Koprivničko-križevačkoj županiji. Rok za podnošenje ponuda je 15. prosinca 2026.",
+      "fbQuestion": "Planirate li kupnju nekretnine u Koprivničko-križevačkoj županiji?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-koprivnicko-krizevacka-zupanija-20456/20456"
+      }
+    },
     {
       "id": "2026-11-10-ywiwm4",
       "date": "2026-11-10",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://net.hr/danas/rtl-danas/emil-tedeschi-s-ey-poduzetnik-poslao-snaznu-poruku-vladajucima-pozabavite-se-s-dvije-hrvatske-e7dffcb8-c343-11f1-936f-9600040c8f8e"
-      }
-    },
-    {
-      "id": "2026-10-06-xfc46w",
-      "date": "2026-10-06",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Split planira gradnju 229 priuštivih stanova na tri lokacije",
-      "summary": "Grad Split planira graditi 229 priuštivih stanova na lokacijama Ravne Njive, Mejaši i Kamen. Radovi bi trebali započeti već sljedeće godine, čime se nastoji povećati dostupnost stanovanja u gradu.",
-      "fbQuestion": "Kako ocjenjujete plan gradnje priuštivih stanova u Splitu?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/split-planira-gradnju-229-priustivih-stanova-na-tri-lokacije/2842506.aspx"
       }
     }
   ]
