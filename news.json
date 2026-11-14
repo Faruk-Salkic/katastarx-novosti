@@ -1,6 +1,58 @@
 {
-  "updated": "2026-11-13T05:00:07.633Z",
+  "updated": "2026-11-14T05:00:24.195Z",
   "items": [
+    {
+      "id": "2026-11-13-mxbl9x",
+      "date": "2026-11-13",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Počela izgradnja 16 stanova u Lepoglavi",
+      "summary": "Danas je položen kamen temeljac za višestambenu zgradu s 16 stanova u Lepoglavi, ukupne vrijednosti 2,31 milijun eura. Svečanosti su prisustvovali važni politički i lokalni dužnosnici.",
+      "fbQuestion": "Kako ocjenjujete razvoj tržišta nekretnina u manjim mestima poput Lepoglave?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/polozen-kamen-temeljac-za-pos-ovu-zgradu-sa-16-stanova-u-lepoglavi/20469"
+      }
+    },
+    {
+      "id": "2026-11-13-u5p7jn",
+      "date": "2026-11-13",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Državne nekretnine nude 25 poslovnih prostora i garaža u 11 gradova",
+      "summary": "Državne nekretnine pokrenule su javni natječaj za zakup 21 poslovnog prostora i četiri garaže u 11 hrvatskih gradova. Prostori se mogu razgledati od 23. do 26. studenoga, a ponude se primaju do 14. prosinca 2026. u 12 sati.",
+      "fbQuestion": "Koje vrste poslovnih prostora mislite da su najtraženije u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/drzavne-nekretnine-nude-25-poslovnih-prostora-i-garaza-u-11-gradova-prostori-se-mogu-razgledati-od-23-do-26-studenoga/20468"
+      }
+    },
+    {
+      "id": "2026-11-13-kxhlwj",
+      "date": "2026-11-13",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu RH u Primorsko-goranskoj županiji",
+      "summary": "Država će otvoriti ponuđene nekretnine za kupnju u Primorsko-goranskoj županiji. Rok za podnošenje ponuda je 17. prosinca 2026. do 12 sati.",
+      "fbQuestion": "Planirate li sudjelovati u kupnji nekretnine u ovoj županiji?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-primorsko-goranska-zupanija-20464-20465/20465"
+      }
+    },
+    {
+      "id": "2026-11-13-qu2dxc",
+      "date": "2026-11-13",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske - Primorsko-goranska županija",
+      "summary": "Najavljen je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Primorsko-goranskoj županiji. Ponude se mogu podnositi do 17. prosinca 2026. godine do 12 sati.",
+      "fbQuestion": "Planirate li sudjelovati u kupnji nekretnine iz državnog vlasništva?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-primorsko-goranska-zupanija-20464/20464"
+      }
+    },
     {
       "id": "2026-11-11-5szyea",
       "date": "2026-11-11",
@@ -467,58 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/nekretnine/hoce-li-ekstremne-vrucine-i-oluje-poceti-rusiti-cijene-nekretnina-u-hrvatskoj-4558604"
-      }
-    },
-    {
-      "id": "2026-10-09-uyzd1u",
-      "date": "2026-10-09",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "APN primio 8041 zahtjev za potporu kupnji prve nekretnine",
-      "summary": "Agencija za pravni promet i posredovanje nekretninama zaprimila je do 9. listopada 2026. ukupno 8041 zahtjev za povrat poreza pri kupnji ili gradnji prve stambene nekretnine. Odobreno je isplata u iznosu većem od 39,7 milijuna eura kao mjera pomoći mladim građanima.",
-      "fbQuestion": "Kako vi gledate na potporu mladima pri kupnji prve nekretnine?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-8041-zahtjev-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20373"
-      }
-    },
-    {
-      "id": "2026-10-09-e0aju8",
-      "date": "2026-10-09",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu RH u Šibensko-kninskoj županiji",
-      "summary": "Od 16. studenoga 2026. otvoren je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Šibensko-kninskoj županiji. Ova prilika omogućava građanima i investitorima stjecanje državnih nekretnina.",
-      "fbQuestion": "Jeste li razmišljali o kupnji nekretnine u vlasništvu države? Što mislite o toj mogućnosti?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-sibensko-kninska-zupanija-20371/20371"
-      }
-    },
-    {
-      "id": "2026-10-08-dctym4",
-      "date": "2026-10-08",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kraj nekretninske krize u Kini? Peking i Šangaj na putu oporavka",
-      "summary": "Prema procjenama S&P-a, kinesko tržište nekretnina izlazi iz najteže faze. Peking i Šangaj mogli bi se početi oporavljati već sljedeće godine.",
-      "fbQuestion": "Kako mislite da će oporavak kineskog tržišta nekretnina utjecati na globalno tržište?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/nazire-se-kraj-nekretninske-krize-u-kini-peking-i-sangaj-bi-se-prvi-mogli-oporaviti/2843462.aspx"
-      }
-    },
-    {
-      "id": "2026-10-08-ybwikd",
-      "date": "2026-10-08",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Cijene nekretnina će ostati visoke bez promjena na tržištu",
-      "summary": "Emil Tedeschi ističe kako su cijene nekretnina i stanova u Hrvatskoj nedostižne za većinu građana. Naglašava povezanost hrvatske ekonomije s europskim tržištem te potrebu za promjenama.",
-      "fbQuestion": "Kako mislite da ćemo doći do povoljnijih cijena nekretnina?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://net.hr/danas/rtl-danas/emil-tedeschi-s-ey-poduzetnik-poslao-snaznu-poruku-vladajucima-pozabavite-se-s-dvije-hrvatske-e7dffcb8-c343-11f1-936f-9600040c8f8e"
       }
     }
   ]
