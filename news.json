@@ -1,6 +1,32 @@
 {
-  "updated": "2026-11-15T05:00:08.448Z",
+  "updated": "2026-11-17T05:00:12.181Z",
   "items": [
+    {
+      "id": "2026-11-16-id5ve6",
+      "date": "2026-11-16",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Osječko-baranjskoj županiji",
+      "summary": "Određene nekretnine u vlasništvu Republike Hrvatske bit će dostupne za kupnju. Rok za podnošenje ponuda je 8. siječnja 2027. do 10 sati.",
+      "fbQuestion": "Planirate li sudjelovati u ovoj kupnji nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-osjecko-baranjska-zupanija-20472/20472"
+      }
+    },
+    {
+      "id": "2026-11-16-jfz0yk",
+      "date": "2026-11-16",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske - Zadarska županija",
+      "summary": "Republika Hrvatska otvorila je postupak za prodaju nekretnina u Zadarskoj županiji. Rok za podnošenje ponuda je do 15. prosinca 2026. godine u 10 sati.",
+      "fbQuestion": "Koje nekretnine u Zadaru bi vas zanimale za kupnju?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-zadarska-zupanija-20470/20470"
+      }
+    },
     {
       "id": "2026-11-13-mxbl9x",
       "date": "2026-11-13",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/vijesti-8/drzavne-nekretnine-objavile-novi-natjecaj-za-prodaju-stanova-i-garaza/20381"
-      }
-    },
-    {
-      "id": "2026-10-12-mjol98",
-      "date": "2026-10-12",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske K-4/26",
-      "summary": "Nekretnine u vlasništvu Republike Hrvatske bit će dostupne za kupnju. Rok za podnošenje ponuda je do 13. studenoga 2026. godine u 12:00 sati.",
-      "fbQuestion": "Koje nekretnine biste voljeli vidjeti na ponudi državne imovine?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-k-4-26/20376"
-      }
-    },
-    {
-      "id": "2026-10-10-afw70r",
-      "date": "2026-10-10",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Visoke temperature i cijene nekretnina: Koje su posljedice?",
-      "summary": "Cijene stanova i kuća na Jadranu porasle su za devet posto u protekloj godini. Klimatski rizici, poput produženih toplinskih valova i ekstremnih vremenskih prilika, mogli bi utjecati na vrijednost nekretnina, posebno hotela. Stvara se pitanje kako će klima utjecati na cijene nekretnina u budućnosti.",
-      "fbQuestion": "Kako mislite da će klimatske promjene utjecati na cijene nekretnina u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/nekretnine/hoce-li-ekstremne-vrucine-i-oluje-poceti-rusiti-cijene-nekretnina-u-hrvatskoj-4558604"
       }
     }
   ]
