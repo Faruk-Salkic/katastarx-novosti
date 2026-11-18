@@ -1,6 +1,45 @@
 {
-  "updated": "2026-11-17T05:00:12.181Z",
+  "updated": "2026-11-18T05:00:16.069Z",
   "items": [
+    {
+      "id": "2026-11-17-ue9762",
+      "date": "2026-11-17",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Izgradnja 30 POS stanova u Metkoviću započela",
+      "summary": "U Metkoviću su započeli radovi na izgradnji zgrade s 30 stanova u okviru Programa društveno poticane stanogradnje. Ministar Branko Bačić je najavio da se trenutno u Hrvatskoj gradi ukupno 585 stanova POS-a.",
+      "fbQuestion": "Kako ocjenjujete značaj POS stanova za rješavanje stambenog pitanja u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/pocinje-izgradnja-zgrade-30-pos-stanova-u-metkovicu/2858005.aspx"
+      }
+    },
+    {
+      "id": "2026-11-17-hptraf",
+      "date": "2026-11-17",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "HUPN pokreće forum za budućnost tržišta nekretnina",
+      "summary": "HUPN okuplja preko 200 članova kako bi otvorio forum za razmjenu iskustava i stručnu edukaciju. Cilj je povezivanje sudionika iz različitih dijelova Hrvatske u svrhu unapređenja tržišta nekretnina.",
+      "fbQuestion": "Kako mislite da bi se tržište nekretnina moglo razvijati u budućnosti?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/hrvatska/tko-oblikuje-buducnost-trzista-nekretnina-4564767"
+      }
+    },
+    {
+      "id": "2026-11-17-j9wcx0",
+      "date": "2026-11-17",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Položen kamen temeljac za novu POS-ovu zgradu u Metkoviću",
+      "summary": "U Metkoviću je položen kamen temeljac za novu višestambenu zgradu s 30 stanova. Projekt vrijedan 3,8 milijuna eura obuhvaća i radove na katastarskoj izmjeri u Kuli Norinskoj. Potpredsjednik Vlade Branko Bačić sudjelovao je na ovim događajima.",
+      "fbQuestion": "Kako ocjenjujete razvoj stanogradnje u Metkoviću?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/polozen-kamen-temeljac-za-pos-ovu-zgradu-u-metkovicu-otvoreni-radovi-na-katastarskoj-izmjeri-u-kuli-norinskoj/20482"
+      }
+    },
     {
       "id": "2026-11-16-id5ve6",
       "date": "2026-11-16",
@@ -480,45 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/tomasevic-potvrdio-veliko-dizanje-poreza-u-zagrebu-smatramo-da-je-to-nuzno/2845063.aspx"
-      }
-    },
-    {
-      "id": "2026-10-13-e57fs2",
-      "date": "2026-10-13",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Povećanje ponude nekretnina može stabilizirati cijene",
-      "summary": "Prema analizama Nekretninskog pulsa, rast ponude novih nekretnina mogao bi pomoći u hlađenju cijena na tržištu. Također, ističe se da su cijene nekretnina najbrže rasle izvan Zagreba i obale.",
-      "fbQuestion": "Kako mislite da će se promjena ponude nekretnina odraziti na cijene?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/vijesti/povecanje-ponude-novih-nekretnina-najbolji-je-kanal-za-hladenje-cijena-4559245"
-      }
-    },
-    {
-      "id": "2026-10-13-dr9bg5",
-      "date": "2026-10-13",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Boro Vujović analizira rast poreza na nekretnine i posljedice na tržište",
-      "summary": "Stručnjak za tržište nekretnina Boro Vujović komentira najavljeni rast poreza na nekretnine u Zagrebu. Prema njegovom mišljenju, ne možemo očekivati promjene u cijenama stanova i najma sve dok se ne riješe osnovni problemi na tržištu.",
-      "fbQuestion": "Kako mislite da će rast poreza na nekretnine utjecati na cijene stanova u Zagrebu?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://net.hr/danas/rtl-direkt/strucnjak-za-nekretnine-kod-mojmire-o-rastu-poreza-915d8923-c73d-11f1-936f-9600040c8f8e"
-      }
-    },
-    {
-      "id": "2026-10-13-7cavhr",
-      "date": "2026-10-13",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Novi natječaj za prodaju državnih stanova i garaža u Hrvatskoj",
-      "summary": "Državne nekretnine objavile su četvrti ovogodišnji javni natječaj za prodaju stanova i garaža. U ponudi se nalazi 25 nekretnina u Zagrebu, Slavonskom Brodu i Varaždinu, a ponude se mogu dostaviti do 13. studenoga 2026. godine.",
-      "fbQuestion": "Planirate li sudjelovati na natječaju za državne nekretnine?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/drzavne-nekretnine-objavile-novi-natjecaj-za-prodaju-stanova-i-garaza/20381"
       }
     }
   ]
