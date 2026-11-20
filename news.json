@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-18T05:00:16.069Z",
+  "updated": "2026-11-20T05:00:09.822Z",
   "items": [
+    {
+      "id": "2026-11-19-kpco2z",
+      "date": "2026-11-19",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Vlada daruje zemljište Gradu Osijeku za izgradnju Nove remize",
+      "summary": "Vlada Republike Hrvatske donijela je odluku o prijenosu nekretnine Gradu Osijeku bez naknade. Radi se o zemljištu površine 47.206 m² u Vukovarskoj ulici, čija tržišna vrijednost iznosi 2,36 milijuna eura.",
+      "fbQuestion": "Kako ocjenjujete odluku Vlade o darovanju zemljišta Gradu Osijeku?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/vlada-daruje-gradu-osijeku-zemljiste-vrijedno-2-36-milijuna-eura-za-izgradnju-nove-remize/20483"
+      }
+    },
     {
       "id": "2026-11-17-ue9762",
       "date": "2026-11-17",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/foto-drzava-prodaje-hrpu-nekretnina-stan-u-zagrebu-od-29200-eura-pogledajte/2845053.aspx"
-      }
-    },
-    {
-      "id": "2026-10-13-3ctfzy",
-      "date": "2026-10-13",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "Zagreb povećava porez na nekretnine sa 5 na 8 eura po m2",
-      "summary": "Gradonačelnik Tomislav Tomašević najavio je povećanje poreza na nekretnine u Zagrebu sa 5 na 8 eura po četvornom metru godišnje. Ovo povećanje od 60 posto predstavlja najviši iznos koji je zakonom dopušten.",
-      "fbQuestion": "Kako se povećanje poreza na nekretnine odražava na vaše planove za kupovinu ili prodaju nekretnina?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/tomasevic-potvrdio-veliko-dizanje-poreza-u-zagrebu-smatramo-da-je-to-nuzno/2845063.aspx"
       }
     }
   ]
