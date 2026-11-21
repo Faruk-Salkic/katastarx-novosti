@@ -1,6 +1,58 @@
 {
-  "updated": "2026-11-20T05:00:09.822Z",
+  "updated": "2026-11-21T05:00:19.123Z",
   "items": [
+    {
+      "id": "2026-11-20-g2xvkz",
+      "date": "2026-11-20",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Izmjene imovinske kartice izazivaju raspravu o transparentnosti",
+      "summary": "Povjerenstvo predlaže ukidanje upisa tržišne vrijednosti nekretnina u imovinske kartice. Oporba izrazila protivljenje, naglašavajući važnost transparentnosti u tržištu nekretnina.",
+      "fbQuestion": "Kako bi ukidanje tržišne vrijednosti imovine utjecalo na tržište nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/najavljene-izmjene-imovinske-kartice-imate-picassa-ili-plakat-iz-ikeae-isto-vam-je/2859144.aspx"
+      }
+    },
+    {
+      "id": "2026-11-20-flw3vt",
+      "date": "2026-11-20",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "SDP kritizira nedovoljna sredstva za priuštivo stanovanje",
+      "summary": "SDP-ova zastupnica Valentina Krpan izrazila je zabrinutost zbog samo 0,5% proračuna namijenjenog za stanovanje. Ovaj postotak smatra nedovoljnim za stvaranje učinkovite stambene politike tijekom rasprava u Saboru.",
+      "fbQuestion": "Što mislite, koliko je proračun važan za rješavanje stambenih pitanja?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/sdpovka-na-priustivo-stanovanje-ide-05-proracuna-to-nije-stambena-politika/2859049.aspx"
+      }
+    },
+    {
+      "id": "2026-11-20-chjefj",
+      "date": "2026-11-20",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Proširenje Industrijske zone Kukuljanovo s vrijednim zemljištem",
+      "summary": "Grad Bakar sklopio je ugovor za proširenje Industrijske zone Kukuljanovo, a zemljište vrijedi 20,4 milijuna eura. Ugovor obvezuje Grad Bakar da zemljište privede namjeni u roku od pet godina. Ova odluka proizašla je iz Vladine odluke iz listopada.",
+      "fbQuestion": "Što mislite o investicijama u industrijske zone u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/vijesti/za-prosirenje-industrijske-zone-kukuljanovo-zemljiste-vrijedno-204-milijuna-eura-4565179"
+      }
+    },
+    {
+      "id": "2026-11-20-9lmy3z",
+      "date": "2026-11-20",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Potpisan Ugovor o darovanju nekretnina za Industrijsku zonu Kukuljanovo",
+      "summary": "Potpredsjednik Vlade Branko Bačić i gradonačelnik Bakra Tomislav Klarić potpisali su Ugovor o darovanju nekretnina Gradu Bakru. Ovaj ugovor omogućava proširenje Industrijske zone Kukuljanovo u skladu s Odlukom Vlade. Svečanosti je prisustvovao i ministar prometa Oleg Butković.",
+      "fbQuestion": "Kako mislite da će nova industrijska zona utjecati na gospodarstvo Bakra?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/u-bakru-potpisan-ugovor-o-darovanju-nekretnina-za-prosirenje-industrijske-zone-kukuljanovo/20487"
+      }
+    },
     {
       "id": "2026-11-19-kpco2z",
       "date": "2026-11-19",
@@ -467,58 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/tomasevic-nije-normalno-da-je-cak-55000-stanova-u-zagrebu-prazno/2846075.aspx"
-      }
-    },
-    {
-      "id": "2026-10-14-gbeewl",
-      "date": "2026-10-14",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "Povećanje poreza na nekretnine u Zagrebu prema prijedlogu SDP-a",
-      "summary": "Klub gradskih zastupnika SDP-a podržava prijedlog gradonačelnika Tomaševića o povećanju poreza na nekretnine s pet na osam eura po četvornom metru. Ovaj prijedlog bit će razmatran na sjednici Gradske skupštine.",
-      "fbQuestion": "Kako bi povećanje poreza na nekretnine utjecalo na tržište stanova u Zagrebu?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/sdpovac-za-kupnju-stana-od-60-kvadrata-u-zagrebu-treba-12-godina-placa/2845569.aspx"
-      }
-    },
-    {
-      "id": "2026-10-14-b1x332",
-      "date": "2026-10-14",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Novi Sad privlači investitore, potražnja za stanovima ne prestaje",
-      "summary": "Cijene nekretnina u Novom Sadu nastavljaju rasti, ali potražnja za stanovima ne usporava. Sve više kupaca dolazi iz BiH, tražeći prilike za ulaganje.",
-      "fbQuestion": "Što mislite, hoće li rast cijena nekretnina u Novom Sadu utjecati na potražnju?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/vijesti/novi-sad-magnet-za-ulagace-u-nekretnine-kupci-dolaze-i-iz-bih-4559466"
-      }
-    },
-    {
-      "id": "2026-10-13-yb5m08",
-      "date": "2026-10-13",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "Povećanje poreza na prazne stanove u Zagrebu",
-      "summary": "Tomašević predlaže povećanje poreza na prazne stanove na osam eura po kvadratu. Cilj ovog prijedloga je potaknuti vlasnike na dugoročni najam i aktivirati prazne nekretnine u Zagrebu.",
-      "fbQuestion": "Kako mislite da će povećanje poreza utjecati na tržište nekretnina?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/tomasevic-dize-porez-na-prazne-stanove-tko-ce-ga-placati-a-tko-nece/2845117.aspx"
-      }
-    },
-    {
-      "id": "2026-10-13-3k1d6j",
-      "date": "2026-10-13",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Država prodaje 25 nekretnina, stan u Zagrebu od 29.200 eura",
-      "summary": "Državne nekretnine su na prodaju putem javnog natječaja, uključujući 25 nekretnina u Zagrebu, Slavonskom Brodu i Varaždinu. Zainteresirani kupci mogu dostaviti ponude do 13. studenoga 2026. do 12 sati.",
-      "fbQuestion": "Planirate li sudjelovati u javnom natječaju za državne nekretnine?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/foto-drzava-prodaje-hrpu-nekretnina-stan-u-zagrebu-od-29200-eura-pogledajte/2845053.aspx"
       }
     }
   ]
