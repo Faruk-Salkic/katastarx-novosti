@@ -1,6 +1,45 @@
 {
-  "updated": "2026-11-23T05:00:07.569Z",
+  "updated": "2026-11-24T05:00:17.940Z",
   "items": [
+    {
+      "id": "2026-11-23-d2ak7r",
+      "date": "2026-11-23",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Cijene stanova u Hrvatskoj porasle za 73 posto u pet godina",
+      "summary": "Cijene stanova u Hrvatskoj u zadnjih pet godina zabilježile su porast od 73 posto, dok je kupoprodaja opala za 31 posto. Ove informacije proizašle su iz analize Hrvatske udruge posrednika nekretninama predstavljene na forumu o tržištu nekretnina.",
+      "fbQuestion": "Kako komentirate povećanje cijena nekretnina u Hrvatskoj? Mislite li da će se trend nastaviti?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/agent-za-nekretnine-u-splitu-covjek-trazi-13-milijuna-eura-za-stan-od-70-kvadrata/2859988.aspx"
+      }
+    },
+    {
+      "id": "2026-11-23-d2ue7b",
+      "date": "2026-11-23",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "APN zaprimio 8940 zahtjeva za potporu mladima pri kupnji nekretnina",
+      "summary": "Agencija za pravni promet i posredovanje nekretninama zaprimila je 8940 zahtjeva za potporu mladima pri kupnji ili gradnji prve stambene nekretnine. Do sada je odobrena isplata veća od 45,9 milijuna eura, što je dio mjere pomoći mladim obiteljima za rješavanje stambenog pitanja.",
+      "fbQuestion": "Kakva su vaša iskustva s APN-ovim potporama pri kupnji nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-8940-zahtjeva-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20492"
+      }
+    },
+    {
+      "id": "2026-11-23-8dvoey",
+      "date": "2026-11-23",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Sisačko-moslavačkoj županiji",
+      "summary": "Objavljen je rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Sisačko-moslavačkoj županiji. Ponude se mogu podnositi do 23. prosinca 2026. godine do 10 sati.",
+      "fbQuestion": "Planirate li sudjelovati u procesu kupnje nekretnina u ovoj županiji?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-sisacko-moslavacka-zupanija-20493/20493"
+      }
+    },
     {
       "id": "2026-11-20-g2xvkz",
       "date": "2026-11-20",
@@ -480,45 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.index.hr/vijesti/clanak/skupstina-izglasala-porez-na-nekretnine-u-zagrebu-dize-se-na-maksimum/2846488.aspx"
-      }
-    },
-    {
-      "id": "2026-10-16-e64677",
-      "date": "2026-10-16",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Državne nekretnine na prodaju: Cijena renovacije može biti visoka",
-      "summary": "Interes za državne nekretnine raste, a na prošlom natječaju prodano je 60 posto ponuđenih nekretnina. Neka od njih postigla su trostruko veće cijene od početne.",
-      "fbQuestion": "Planirate li sudjelovati u kupnji državnih nekretnina? Koja su vaša razmišljanja o troškovima obnove?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://net.hr/danas/rtl-danas/drzavni-stan-na-tresnjevci-za-manje-od-30-000-eura-provjerili-smo-koliko-stoji-adaptacija-3dd6279c-c97c-11f1-936f-9600040c8f8e"
-      }
-    },
-    {
-      "id": "2026-10-16-pvjlqk",
-      "date": "2026-10-16",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "APN zaprimio 8195 zahtjeva za potporu mladima pri kupnji nekretnina",
-      "summary": "Agencija za pravni promet i posredovanje nekretninama zaprimila je 8195 zahtjeva za potporu pri kupnji ili gradnji prve stambene nekretnine do 16. listopada 2026. godine. Isplaćeno je više od 40,3 milijuna eura, čime se želi olakšati stambeno zbrinjavanje mladih građana i obitelji.",
-      "fbQuestion": "Kakva su vaša iskustva s potporama za kupnju prve nekretnine?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-8195-zahtjeva-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20398"
-      }
-    },
-    {
-      "id": "2026-10-15-q8ad6x",
-      "date": "2026-10-15",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "Tomašević: Čak 55.000 stanova u Zagrebu prazno",
-      "summary": "Gradonačelnik Zagreba Tomislav Tomašević istaknuo je zabrinjavajući broj od 55.000 praznih stanova u gradu. Također je naglasio potrebu za povećanjem poreza na nekretnine s pet na osam eura po četvornom metru godišnje.",
-      "fbQuestion": "Što mislite o povećanju poreza na nekretnine u Zagrebu?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/tomasevic-nije-normalno-da-je-cak-55000-stanova-u-zagrebu-prazno/2846075.aspx"
       }
     }
   ]
