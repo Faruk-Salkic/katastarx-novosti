@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-24T05:00:17.940Z",
+  "updated": "2026-11-25T05:00:09.099Z",
   "items": [
+    {
+      "id": "2026-11-24-ksri16",
+      "date": "2026-11-24",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Agenti traže promjene zakona zbog ograničenja provizije",
+      "summary": "Posrednici u nekretninama smatraju da trenutni zakon nepravedno ograničava njihovu zaradu i postavlja visoke kazne. Također, ističu da gubitak dozvole za rad može nastati bez pravomoćne presude.",
+      "fbQuestion": "Što mislite o trenutnom zakonodavstvu za agente nekretnina?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/agenti-za-nekretnine-traze-ukidanje-dijela-zakona-smeta-im-ogranicenje-provizije/2860394.aspx"
+      }
+    },
     {
       "id": "2026-11-23-d2ak7r",
       "date": "2026-11-23",
@@ -506,19 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/financije/zagreb-dize-porez-na-nekretnine-na-maksimum-za-stan-od-50-kvadrata-placat-ce-se-400-eura-godisnje-4559916"
-      }
-    },
-    {
-      "id": "2026-10-16-adejix",
-      "date": "2026-10-16",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "Povećanje poreza na nekretnine u Zagrebu od 2027.",
-      "summary": "Porez na nekretnine u Zagrebu povećat će se od 1. siječnja 2027. sa pet na osam eura po četvornom metru godišnje. Ovo povećanje je izglasano na Skupštini i predstavlja maksimalni iznos koji se može naplatiti.",
-      "fbQuestion": "Što mislite o planiranom povećanju poreza na nekretnine u Zagrebu?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.index.hr/vijesti/clanak/skupstina-izglasala-porez-na-nekretnine-u-zagrebu-dize-se-na-maksimum/2846488.aspx"
       }
     }
   ]
