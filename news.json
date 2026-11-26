@@ -1,6 +1,97 @@
 {
-  "updated": "2026-11-25T05:00:09.099Z",
+  "updated": "2026-11-26T05:00:30.215Z",
   "items": [
+    {
+      "id": "2026-11-25-ui9y0n",
+      "date": "2026-11-25",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "Više od 1300 odbijenih zahtjeva za povrat poreza na prvu nekretninu",
+      "summary": "Prema najnovijim podacima Ministarstva prostornoga uređenja, više od 1300 zahtjeva za povrat poreza na prvu nekretninu odbijeno je ili povučeno. Ovaj broj ukazuje na potencijalne probleme u procedurama povrata poreza pri kupnji ili gradnji nekretnina.",
+      "fbQuestion": "Kako biste ocijenili proces povrata poreza na prvu nekretninu u Hrvatskoj?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/vise-od-1300-odbijenih-ili-povucenih-zahtjeva-za-povrat-poreza-na-prvu-nekretninu/2860873.aspx"
+      }
+    },
+    {
+      "id": "2026-11-25-7xbuiz",
+      "date": "2026-11-25",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Cijene nekretnina porasle 120 posto tijekom mandata gradonačelnika Frankovića",
+      "summary": "Anita Bonačić Obradović, predsjednica dubrovačkog SDP-a, kritizirala je gradonačelnika Mata Frankovića zbog nedovoljne izgradnje stanova za mlade obitelji. U devet godina njegovog mandata nije izgrađen nijedan stan, dok su cijene nekretnina porasle za 120 posto.",
+      "fbQuestion": "Kako mislite da bi se mogle smanjiti cijene nekretnina u Dubrovniku?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/sdpovka-prozvala-hdzovog-gradonacelnika-dubrovnika/2860824.aspx"
+      }
+    },
+    {
+      "id": "2026-11-25-gujmh0",
+      "date": "2026-11-25",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "Zagreb uvodi naplatu komunalne naknade za zgrade s crvenom naljepnicom",
+      "summary": "Od veljače 2027. godine, Zagreb će ponovno naplaćivati komunalne naknade za zgrade označene crvenom naljepnicom. Vlasnici će moći izbjeći naknadu samo ako dokažu da se oštećena nekretnina ne koristi.",
+      "fbQuestion": "Kako mislite da će ovo utjecati na vlasnike nekretnina u Zagrebu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/zagreb-vraca-naplatu-komunalne-naknade-za-nekretnine-s-crvenom-naljepnicom/2860724.aspx"
+      }
+    },
+    {
+      "id": "2026-11-25-xppzyw",
+      "date": "2026-11-25",
+      "category": "cijene",
+      "reliability": "medijsko",
+      "title": "Europska komisija predviđa rast cijena nekretnina u Hrvatskoj",
+      "summary": "Prema procjenama Europske komisije, nekretnine u Hrvatskoj su već precijenjene i očekuje se njihov daljnji dvoznamenkasti rast cijena. Ova predviđanja dolaze unatoč padu prodaje i strožim kreditnim uvjetima.",
+      "fbQuestion": "Kako mislite da će daljnji rast cijena nekretnina utjecati na tržište?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.index.hr/vijesti/clanak/europska-komisija-nekretnine-u-hrvatskoj-su-precijenjene-a-cijene-ce-jos-rasti/2860714.aspx"
+      }
+    },
+    {
+      "id": "2026-11-25-psp8np",
+      "date": "2026-11-25",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupci stanova suočavaju se s poskupljenjem od 12,7 posto",
+      "summary": "Tržište nekretnina u Hrvatskoj suočava se s jakom potražnjom i slaba ponuda stanova. Prema Žigmanu, cijene stanova porasle su za 12,7 posto u posljednjem razdoblju.",
+      "fbQuestion": "Kako mislite da će se tržište nekretnina razvijati u narednim mjesecima?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/vijesti/kupci-stanova-u-sve-tezem-polozaju-stanovi-skuplji-127-posto-zigman-upozorava-na-slabu-ponudu-4565705"
+      }
+    },
+    {
+      "id": "2026-11-25-yb5xr4",
+      "date": "2026-11-25",
+      "category": "zakoni",
+      "reliability": "medijsko",
+      "title": "Vlada odobrila korištenje nekretnine za Savez društava multiple skleroze Hrvatske",
+      "summary": "Vlada Republike Hrvatske donijela je odluku o davanju suglasnosti na osnivanje osobne služnosti prava uporabe nekretnine u Zagrebu. Ova odluka omogućava Savezu društava multiple skleroze Hrvatske korištenje nekretnine za svoje aktivnosti.",
+      "fbQuestion": "Kako mislite da bi ovakve odluke mogle utjecati na rad udruga?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/vlada-dala-suglasnost-za-koristenje-nekretnine-savezu-drustava-multiple-skleroze-hrvatske/20501"
+      }
+    },
+    {
+      "id": "2026-11-25-udxhcm",
+      "date": "2026-11-25",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Karlovačkoj županiji",
+      "summary": "Republika Hrvatska nudi na prodaju nekretnine u Karlovačkoj županiji. Rok za podnošenje ponuda je 29. prosinca 2026. godine do 12 sati.",
+      "fbQuestion": "Koje nekretnine biste najradije kupili u Karlovačkoj županiji?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-karlovacka-zupanija-20502/20502"
+      }
+    },
     {
       "id": "2026-11-24-ksri16",
       "date": "2026-11-24",
@@ -428,97 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://www.poslovni.hr/financije/vise-ne-prodajemo-samo-pogled-na-more-nego-kvalitetu-koja-opravdava-cijenu-4560758"
-      }
-    },
-    {
-      "id": "2026-10-22-qdfnup",
-      "date": "2026-10-22",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Cijene nekretnina visoke unatoč smanjenoj prodaji",
-      "summary": "Unatoč smanjenoj prodaji nekretnina, cijene ostaju visoke zbog većeg prostora za pregovore. Kada prodavatelji postanu spremniji prihvatiti niže cijene, to će se pozitivno odraziti na tržište.",
-      "fbQuestion": "Kako vi gledate na trenutne cijene nekretnina? Mislite li da će se smanjiti?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/financije/zasto-cijene-nekretnina-ostajuvisoke-unatoc-smanjenoj-prodaji-4560755"
-      }
-    },
-    {
-      "id": "2026-10-22-caxl1f",
-      "date": "2026-10-22",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "Građani čekaju Poreznu upravu oko povrata poreza na nekretnine",
-      "summary": "Pet tisuća Hrvata mjesecima čeka odgovore Porezne uprave vezane uz povrat poreza na nekretnine. Čekanje traje već sedam mjeseci, a građani su zbunjeni situacijom.",
-      "fbQuestion": "Jeste li i vi iskusili probleme s Poreznom upravom vezano uz povrat poreza?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://net.hr/danas/rtl-danas/porezna-uprava-jos-rjesava-5000-zalbi-na-porez-na-nekretnine-35c7b7f1-ce36-11f1-936f-9600040c8f8e"
-      }
-    },
-    {
-      "id": "2026-10-21-e7rust",
-      "date": "2026-10-21",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "Zadar uvodi novi porez na nekretnine s različitim zonama",
-      "summary": "Grad Zadar planira povećanje poreza na nekretnine kroz uvođenje tri nove zone. Dosadašnji jedinstveni iznos od 0,60 eura po četvornom metru zamijenit će iznosi od 5 eura na Poluotoku, 3 eura na kopnu te 2 eura na otocima.",
-      "fbQuestion": "Kako će novo povećanje poreza na nekretnine utjecati na tržište u Zadru?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.tportal.hr/vijesti/clanak/zadar-poput-zagreba-odlucio-dignuti-porez-na-nekretnine-uvode-se-tri-zone-20261021"
-      }
-    },
-    {
-      "id": "2026-10-21-6g37ag",
-      "date": "2026-10-21",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Kupnja nekretnina u vlasništvu Republike Hrvatske u Bjelovarsko-bilogorskoj županiji",
-      "summary": "Rok za podnošenje ponuda za kupnju nekretnina u vlasništvu Republike Hrvatske u Bjelovarsko-bilogorskoj županiji je 23. studenoga 2026. do 10 sati. Ove informacije su važne za sve potencijalne kupce koji žele investirati u ovu regiju.",
-      "fbQuestion": "Planirate li investirati u nekretnine u Bjelovarsko-bilogorskoj županiji?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-bjelovarsko-bilogorska-zupanija-20406/20406"
-      }
-    },
-    {
-      "id": "2026-10-20-eqy6yn",
-      "date": "2026-10-20",
-      "category": "zakoni",
-      "reliability": "medijsko",
-      "title": "Savjetovanje o Godišnjem planu upravljanja nekretninama Republike Hrvatske",
-      "summary": "Ministarstvo prostornoga uređenja započinje savjetovanje s javnošću za Godišnji plan upravljanja nekretninama za 2027. godinu. Javnost može dati prijedloge i primjedbe putem portala eSavjetovanja do 20. studenoga 2026.",
-      "fbQuestion": "Koja su vaša mišljenja o upravljanju nekretninama u vlasništvu države?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://mpgi.gov.hr/vijesti-8/savjetovanje-s-javnoscu-ukljucite-se-putem-esavjetovanja-20404/20404"
-      }
-    },
-    {
-      "id": "2026-10-18-zgt43k",
-      "date": "2026-10-18",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "HŽ planira investiciju od 44 milijuna eura za nekretnine",
-      "summary": "HŽ Putnički prijevoz planira investirati 44 milijuna eura u nekretnine kako bi osigurao prostor za održavanje i garažiranje vlakova. Ova investicija predstavlja brže i jeftinije rješenje u odnosu na izgradnju novog tehničko-logističkog centra vrijedan 130 milijuna eura.",
-      "fbQuestion": "Kako mislite da će ova investicija utjecati na razvoj željezničkog prometa u Hrvatskoj?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/kompanije/hz-ide-po-dio-gredelja-za-nekretnine-i-imovinu-planira-44-milijuna-eura-4559950"
-      }
-    },
-    {
-      "id": "2026-10-17-4pdt9x",
-      "date": "2026-10-17",
-      "category": "porezi",
-      "reliability": "medijsko",
-      "title": "Zagreb povećava porez na nekretnine na maksimalnih osam eura po m2",
-      "summary": "Zagrebačka Gradska skupština izglasala je povećanje poreza na nekretnine s pet na osam eura po četvornom metru godišnje. Nova stopa primjenjivat će se od 1. siječnja 2027. godine.",
-      "fbQuestion": "Kako mislite da će povećanje poreza na nekretnine utjecati na tržište stanova u Zagrebu?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/financije/zagreb-dize-porez-na-nekretnine-na-maksimum-za-stan-od-50-kvadrata-placat-ce-se-400-eura-godisnje-4559916"
       }
     }
   ]
