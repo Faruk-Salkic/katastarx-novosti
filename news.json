@@ -1,6 +1,32 @@
 {
-  "updated": "2026-11-26T05:00:30.215Z",
+  "updated": "2026-11-28T05:00:20.653Z",
   "items": [
+    {
+      "id": "2026-11-27-4jrt34",
+      "date": "2026-11-27",
+      "category": "trziste",
+      "reliability": "medijsko",
+      "title": "Pula planira izgradnju 218 stanova za priuštivi najam",
+      "summary": "Grad Pula najavio je projekt Santoriova, koji uključuje izgradnju 218 stanova namijenjenih priuštivom najmu. Ovaj projekt doprinosi stvaranju novog gradskog stambenog fonda, čime se nastoji poboljšati dostupnost stanovanja u gradu.",
+      "fbQuestion": "Koliko su vam važni priuštivi stanovi u vašem gradu?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://www.poslovni.hr/vijesti/grad-pula-planira-izgradnju-218-stanova-za-priustivi-najam-4566279"
+      }
+    },
+    {
+      "id": "2026-11-27-08w4jj",
+      "date": "2026-11-27",
+      "category": "porezi",
+      "reliability": "medijsko",
+      "title": "APN zaprimio 9120 zahtjeva za potporu mladima za nekretnine",
+      "summary": "Agencija za pravni promet i posredovanje nekretninama (APN) do 27. studenoga 2026. zaprimila je 9120 zahtjeva za potporu mladima pri kupnji ili gradnji prve stambene nekretnine. Odobrena isplata iznosi više od 46,6 milijuna eura, čime se nastoji olakšati rješavanje stambenog pitanja mladih građana.",
+      "fbQuestion": "Kako bi potpora APN-a mogla promijeniti vašu situaciju pri kupnji nekretnine?",
+      "source": {
+        "name": "Izvor",
+        "url": "https://mpgi.gov.hr/vijesti-8/apn-zaprimio-9120-zahtjeva-za-potporu-mladima-pri-kupnji-ili-gradnji-prve-nekretnine/20520"
+      }
+    },
     {
       "id": "2026-11-25-ui9y0n",
       "date": "2026-11-25",
@@ -493,32 +519,6 @@
       "source": {
         "name": "Izvor",
         "url": "https://mpgi.gov.hr/natjecaji/nekretnine-13546/kupnja-nekretnina-u-vlasnistvu-republike-hrvatske-pozesko-slavonska-zupanija/20420"
-      }
-    },
-    {
-      "id": "2026-10-23-77zily",
-      "date": "2026-10-23",
-      "category": "cijene",
-      "reliability": "medijsko",
-      "title": "Visoke cijene nekretnina unatoč smanjenoj prodaji",
-      "summary": "Cijene nekretnina ostaju visoke unatoč smanjenoj prodaji, što se manifestira kroz veći prostor za pregovore i neostvarene kupoprodaje. Prava promjena mogla bi nastupiti tek kada više prodavatelja prihvati niže cijene.",
-      "fbQuestion": "Mislite li da će cijene nekretnina konačno pasti ili će ostati visoke?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/trzista/zasto-cijene-nekretnina-ostajuvisoke-unatoc-smanjenoj-prodaji-4560755"
-      }
-    },
-    {
-      "id": "2026-10-22-0aovvc",
-      "date": "2026-10-22",
-      "category": "trziste",
-      "reliability": "medijsko",
-      "title": "Hrvatska: Fokus na kvalitetu luksuznih nekretnina i investicija",
-      "summary": "Hrvatska se ističe velikim potencijalom u segmentu luksuznih nekretnina. Sve više se naglašava kvaliteta koja opravdava cijenu, umjesto samog pogleda na more.",
-      "fbQuestion": "Koje karakteristike luksuznih nekretnina su vam najvažnije?",
-      "source": {
-        "name": "Izvor",
-        "url": "https://www.poslovni.hr/financije/vise-ne-prodajemo-samo-pogled-na-more-nego-kvalitetu-koja-opravdava-cijenu-4560758"
       }
     }
   ]
